@@ -1,4 +1,4 @@
-**2/26/19 ... **
+**2/26/19 ...**
 
 6.1 (heavy pill) ... Idea problem hard to think of. Interesting solution.
 
