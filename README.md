@@ -12,3 +12,8 @@
 6.9 (100 locks) ... Not easy. Figured out up to the importance of factors.
 
 6.10 (poison) ... Good problem. Should be able to solve next time. Requires CS-like mindset.
+
+
+**2/27/19 ...**
+
+factorials.cpp ... Simple recursion example (CS32 lec 8)
