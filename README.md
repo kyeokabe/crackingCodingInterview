@@ -14,6 +14,6 @@
 6.10 (poison) ... Good problem. Should be able to solve next time. Requires CS-like mindset.
 
 
-**2/27/19 ...**
+**2/28/19 ...**
 
 factorials.cpp ... Simple recursion example (CS32 lec 8)
