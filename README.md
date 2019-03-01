@@ -17,3 +17,7 @@
 **2/28/19 ...**
 
 factorials.cpp ... Simple recursion example (CS32 lec 8)
+
+**3/01/19 ...**
+
+pointerRevie.cpp ... basics of pointers
