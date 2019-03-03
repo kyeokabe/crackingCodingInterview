@@ -21,7 +21,8 @@
 
 **3/01/19 ...**
 
-pointerReview.cpp ... basics of pointers
+[pointerReview.cpp](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/pointerReview.cpp)
+... basics of pointers
 array_element_sum.cpp
 
 **3/02/19 ...**
