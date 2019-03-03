@@ -8,12 +8,11 @@
 
 6.4 (ants walk) ... Trivial problem.
 
-
 6.9 (100 locks) ... Not easy. Figured out up to the importance of factors.
 
 6.10 (poison) ... Good problem. Should be able to solve next time. Requires CS-like mindset.
 
-
+ 
 
 **2/28/19 ...**
 
