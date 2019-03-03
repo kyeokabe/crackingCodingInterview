@@ -14,10 +14,12 @@
 6.10 (poison) ... Good problem. Should be able to solve next time. Requires CS-like mindset.
 
 
+
 **2/28/19 ...**
 
 [factorials.cpp](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/recursion/factorials.cpp)
 ... simple recursion example (CS32 lec 8)
+
 
 **3/01/19 ...**
 
@@ -27,10 +29,14 @@
 [array_element_sum.cpp](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/recursion/array_element_sum.cpp)
 ... simple recursion example (CS 32 lec 8)
 
+
 **3/02/19 ...**
 
 [print_array_backwards.cpp](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/recursion/print_array_elements_backwards.cpp)
 ... simple recursion example (CS 32 lec 8)
+
+
+**3/03/19 ...**
 
 [8.5 (recursive multiply)](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch8/8.5_RecursiveMultiply.cpp) ... solved first time.
 
