@@ -20,4 +20,8 @@ factorials.cpp ... Simple recursion example (CS32 lec 8)
 
 **3/01/19 ...**
 
-pointerRevie.cpp ... basics of pointers
+pointerReview.cpp ... basics of pointers
+
+**3/02/19 ...**
+
+print_array_backwards.cpp ... basic Q for recursion
