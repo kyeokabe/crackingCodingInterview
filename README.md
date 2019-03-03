@@ -21,6 +21,7 @@ factorials.cpp ... Simple recursion example (CS32 lec 8)
 **3/01/19 ...**
 
 pointerReview.cpp ... basics of pointers
+array_element_sum.cpp
 
 **3/02/19 ...**
 
