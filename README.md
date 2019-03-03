@@ -16,8 +16,7 @@
 
 **2/28/19 ...**
 
-[factorials.cpp]
-(https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/recursion/factorials.cpp)
+[factorials.cpp](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/recursion/factorials.cpp)
 ... Simple recursion example (CS32 lec 8)
 
 **3/01/19 ...**
