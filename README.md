@@ -17,7 +17,7 @@
 **2/28/19 ...**
 
 [factorials.cpp](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/recursion/factorials.cpp)
-... Simple recursion example (CS32 lec 8)
+... simple recursion example (CS32 lec 8)
 
 **3/01/19 ...**
 
@@ -25,8 +25,9 @@
 ... basics of pointers
 
 [array_element_sum.cpp](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/recursion/array_element_sum.cpp)
+... simple recursion example (CS 32 lec 8)
 
 **3/02/19 ...**
 
 [print_array_backwards.cpp](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/recursion/print_array_elements_backwards.cpp)
-... basic Q for recursion
+... simple recursion example (CS 32 lec 8)
