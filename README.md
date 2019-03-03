@@ -23,7 +23,8 @@
 
 [pointerReview.cpp](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/pointerReview.cpp)
 ... basics of pointers
-array_element_sum.cpp
+
+[array_element_sum.cpp](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/recursion/array_element_sum.cpp)
 
 **3/02/19 ...**
 
