@@ -31,3 +31,5 @@
 
 [print_array_backwards.cpp](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/recursion/print_array_elements_backwards.cpp)
 ... simple recursion example (CS 32 lec 8)
+
+[8.5 ... recursive multiply](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch8/8.5_RecursiveMultiply.cpp)
