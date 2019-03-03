@@ -2,6 +2,11 @@
 //write a recursive function that counts possible ways to climb n steps
 //you can choose to hop 1, 2, or 3 at a time. count 0 steps as 1 way.
 
+/*
+The tricky part was to figure out "when" to add the counts.
+Adding a count when reaching the branch cases will cover and count all paths once which is the best way of thinking.
+*/
+
 #include <iostream>
 #include<stdio.h>
 using namespace std;
