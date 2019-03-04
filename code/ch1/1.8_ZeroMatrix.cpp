@@ -18,20 +18,40 @@ int main() {
     
     float a[3][4]={
         {7,1,1,2},
-        {5,1,6,3},
-        {8,1,9,2},
+        {9,0,6,3},
+        {8,1,9,2}
     };
+    
+    printArray(a);
+    cout<<"\n";
     checkArray(a);
     printArray(a);
     return 0;
 }
 
 void checkArray(float a[3][4]){
+    //make a copy of a
+    float b[3][4]={
+        {7,1,1,2},
+        {9,0,6,3},
+        {8,1,9,8}
+    };
+    
     for (int i=0;i<3;i++)
         for (int j=0;j<4;j++)
-            if (a[i][j]==0)
-                set0(a);
-}
+            if (b[i][j]==0)
+            {
+                cout <<"foo \n";
+                for (int m=0;m<3;m++)
+                    for (int n=0;n<4;n++)
+                        if ((m==i)||(n==j)){
+                            cout<<"m,n= "<<m<<n<<"\n";
+                            a[m][n]=0;
+                        }
+            }
+    //a[2][2]=0;
+    cout<<"\n";
+    }
 
 void set0(float a[3][4]){
     for (int i=0;i<3;i++)
