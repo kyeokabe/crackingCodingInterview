@@ -3,8 +3,9 @@
 //its entire row and column are set to 0
 
 /*
-  easy, no need to repeat
- */
+Assuming one can copy 2D array relatively easily.
+Slightly tricky.
+*/
 
 #include <iostream>
 #include<stdio.h>
