@@ -6,6 +6,6 @@ O(log(N)) ... typical runtime where the number of elements in a problem space ge
 O(branch<sup>depth</sup>) ... typical runtime with recursive function that makes multiple calls. (p.45)
 
 **space**
-O(N) ... crating an array of size N
+O(N) ... creating an array of size N
 
-O(N<sup>2</sup>) ... crating an array of size N<sup>2</sup>
+O(N<sup>2</sup>) ... creating an array of size N<sup>2</sup>
