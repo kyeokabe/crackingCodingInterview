@@ -51,4 +51,8 @@
 
 [8.2 (Robot Grid)](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch8/8.2_RobotGrid.cpp) ... still has errors (**incomplete!**)
 
-[1.8 (Zero Matrix)](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch1/1.8_ZeroMatrix.cpp) ... Easy, no need to repeat.
+[1.8 (Zero Matrix)](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch1/1.8_ZeroMatrix.cpp) ... Brute force complete. Optimized solution incomplete.
+
+**3/04/19 ...**
+
+[1.7 Rotate Matrix](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch1/1.7_RotateMatrix.cpp) ... Brute force complete. "In place" solution incomplete.
