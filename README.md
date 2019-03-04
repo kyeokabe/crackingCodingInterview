@@ -42,3 +42,5 @@
 [8.1 (Triple Steps)](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch8/8.1_TripleStep.cpp) ... Wrong answer 1st tme, do again.
 
 [8.2 Robot Grid](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch8/8.2_RobotGrid.cpp) ... still has errors (incomplete!)
+
+[1.8 Zero Matrix](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch1/1.8_ZeroMatrix.cpp) ... Easy, no need to repeat.
