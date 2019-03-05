@@ -60,3 +60,4 @@
 **3/05/19 ...**
 
 Reading Big O chapter. Stuck with Problem 8 which involves sorting knowledge. Need to do sorting first to understand.
+8.11...attempted but too difficult. Try again later...
