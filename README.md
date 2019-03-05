@@ -56,3 +56,7 @@
 **3/04/19 ...**
 
 [1.7 (Rotate Matrix)](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch1/1.7_RotateMatrix.cpp) ... Brute force complete. "In place" solution incomplete.
+
+**3/05/19 ...**
+
+Reading Big O chapter. Stuck with Problem 8 which involves sorting knowledge. Need to do sorting first to understand.
