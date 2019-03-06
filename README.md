@@ -61,3 +61,9 @@
 
 Reading Big O chapter. Stuck with Problem 8 which involves sorting knowledge. Need to do sorting first to understand.
 8.11...attempted but too difficult. Try again later...
+
+Sent MacBook out for repair.
+
+**3/06/19 ...**
+MacBook back from repair.
+Going over constructor/destructor notes (CS32 Lec 2.)
