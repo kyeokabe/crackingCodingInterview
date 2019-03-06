@@ -67,3 +67,5 @@ Sent MacBook out for repair.
 **3/06/19 ...**
 MacBook back from repair.
 Going over constructor/destructor notes (CS32 Lec 2.)
+
+CS32 Lec 16 (intro to graphs).  Come back to breadth-first later (need to review queues first.)
