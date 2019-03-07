@@ -65,6 +65,7 @@ Reading Big O chapter. Stuck with Problem 8 which involves sorting knowledge. Ne
 Sent MacBook out for repair.
 
 **3/06/19 ...**
+
 MacBook back from repair.
 Going over constructor/destructor notes (CS32 Lec 2.)
 
@@ -75,4 +76,5 @@ CS32 Lec 2 (slide 30 is essentially what you need to know about constructor/dest
 CS32 Lec 2 (slide 41 is essentially what you need to know about passing variables to classes w/ classes (initialization list)!)
 
 **3/07/19 ...**
+
 CS32 Lec 3 (pointers)
