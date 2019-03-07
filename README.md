@@ -71,3 +71,5 @@ Going over constructor/destructor notes (CS32 Lec 2.)
 CS32 Lec 16 (intro to graphs).  Come back to breadth-first later (need to review queues first.)
 
 CS32 Lec 2 (slide 30 is essentially what you need to know about constructor/destructor execution ordering!)
+
+CS32 Lec 2 (slide 41 is essentially what you need to know about passing variables to classes w/ classes (initialization list)!)
