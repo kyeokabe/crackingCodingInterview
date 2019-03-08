@@ -78,3 +78,9 @@ CS32 Lec 2 (slide 41 is essentially what you need to know about passing variable
 **3/07/19 ...**
 
 CS32 Lec 3 (pointers)
+
+**3/08/19 ...**
+
+CS32 Lec 3 (continuing...)
+
+copy constructors ... when a class has a pointer member variable, must create own copy constructor to prevent destructor from erasing memory when copied instance gets terminated.
