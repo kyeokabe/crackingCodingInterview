@@ -81,6 +81,9 @@ CS32 Lec 3 (pointers)
 
 **3/08/19 ...**
 
-CS32 Lec 3 (continuing...)
+CS32 Lec 3 (completed reading through)
 
 copy constructors ... when a class has a pointer member variable, must create own copy constructor to prevent destructor from erasing memory when copied instance gets terminated.
+
+understand the new command, but must practice w/ coding.
+
