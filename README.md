@@ -87,3 +87,7 @@ copy constructors ... when a class has a pointer member variable, must create ow
 
 understand the new command, but must practice w/ coding.
 
+
+**3/09/19 ...**
+
+CS32 Lec 4 (read stacks...skipped infix to post fix conversion algorithm)
