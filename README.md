@@ -90,4 +90,4 @@ understand the new command, but must practice w/ coding.
 
 **3/09/19 ...**
 
-CS32 Lec 4 (read stacks...skipped infix to post fix conversion algorithm)
+CS32 Lec 4 (...skipped infix to post fix conversion algorithm, review psudo code for maze ...slide 23 & 35)
