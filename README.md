@@ -88,7 +88,7 @@ CS32 Lec 3 (**pointers** ...completed)
 understand the new command, but must practice w/ coding.
 
 
-slide 22 shows the two ways to access class methods (*ptr).func() or ptr->func()
+slide 22 shows the two ways to use class methods (*ptr).func() or ptr->func()
 
 **3/09/19 ...**
 
