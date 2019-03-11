@@ -95,4 +95,4 @@ CS32 Lec 4 (...skipped infix to post fix conversion algorithm, review psudo code
 
 **3/10/19 ...**
 
-CS32 Lec 14 (hash tables)
+CS32 Lec 14 (hash tables)... went through "closed" hash tables. Should review insert (p.27) and search (p.30) implementation. 
