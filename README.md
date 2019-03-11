@@ -100,5 +100,5 @@ CS32 Lec 14 (hash tables)... went through "closed" hash tables. Should review in
 
 **3/11/19 ...**
 
-CS32 Lec 14 (hash tables)... continuing. map, vector not reviewed yet, but appeared.
+CS32 Lec 14 (completed)... "open" hash tables, (regular) tables. Slide 66 important. continuing. map, vector not reviewed yet, but appeared.
 
