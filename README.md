@@ -77,11 +77,11 @@ CS32 Lec 2 (slide 41 is essentially what you need to know about passing variable
 
 **3/07/19 ...**
 
-CS32 Lec 3 (pointers)
+CS32 Lec 3 (pointers ... carrying over to next day)
 
 **3/08/19 ...**
 
-CS32 Lec 3 (completed reading through)
+CS32 Lec 3 (pointers ...completed)
 
 copy constructors ... when a class has a pointer member variable, must create own copy constructor to prevent destructor from erasing memory when copied instance gets terminated.
 
@@ -90,15 +90,15 @@ understand the new command, but must practice w/ coding.
 
 **3/09/19 ...**
 
-CS32 Lec 4 (...skipped infix to post fix conversion algorithm, review psudo code for maze ...slide 23 & 35)
+CS32 Lec 5 (stacks and queues ...skipped infix to post fix conversion algorithm, review psudo code for maze ...slide 23 & 35)
 
 
 **3/10/19 ...**
 
-CS32 Lec 14 (hash tables)... went through "closed" hash tables. Should review insert (p.27) and search (p.30) implementation.
+CS32 Lec 14 (hash tables ... carrying over to next day)... went through "closed" hash tables. Should review insert (p.27) and search (p.30) implementation.
 
 
 **3/11/19 ...**
 
-CS32 Lec 14 (completed)... "open" hash tables, (regular) tables. Slide 66 important. continuing. map, vector not reviewed yet, but appeared.
+CS32 Lec 14 (hash tables ... completed)... "open" hash tables, (regular) tables. Slide 66 important. continuing. map, vector not reviewed yet, but appeared.
 
