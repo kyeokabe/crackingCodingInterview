@@ -55,7 +55,7 @@
 
 **3/04/19 ...**
 
-[1.7 (Rotate Matrix)](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch1/1.7_RotateMatrix.cpp) ... Brute force complete. "In place" solution incomplete. ...-> completed "in place" solution on 3/12/19
+[1.7 (Rotate Matrix)](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch1/1.7_RotateMatrix.cpp) ... Brute force complete. ~~"In place" solution incomplete. ...~~-> completed "in place" solution on 3/12/19
 
 **3/05/19 ...**
 
