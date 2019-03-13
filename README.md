@@ -90,9 +90,7 @@ CS32 Lec 3 (**pointers** ...completed)
 **copy constructors** ... when a class has a pointer member variable, must create own copy constructor to prevent destructor from erasing memory when copied instance gets terminated.
 
 
-**dynamic variables** ... **new** and **delete** command
-understand the new command, but must practice w/ coding.
-
+**dynamic variables** ... **new** and **delete** command ... slide 37~.
 
 slide 22 shows the two ways to use class methods (*ptr).func() or ptr->func()
 
