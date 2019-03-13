@@ -81,12 +81,16 @@ CS32 Lec 2 (slide 41 is essentially what you need to know about passing variable
 
 CS32 Lec 3 (**pointers** ... carrying over to next day)
 
+the **"this" pointer**... slide 27
+
 **3/08/19 ...**
 
 CS32 Lec 3 (**pointers** ...completed)
 
 **copy constructors** ... when a class has a pointer member variable, must create own copy constructor to prevent destructor from erasing memory when copied instance gets terminated.
 
+
+**dynamic variables** ... **new** and **delete** command
 understand the new command, but must practice w/ coding.
 
 
