@@ -108,11 +108,12 @@ CS32 Lec 14 (**hash tables** ... carrying over to next day)... went through "clo
 
 CS32 Lec 14 (**hash tables** ... completed)... "open" hash tables, (regular) tables. Slide 66 important. continuing. map, vector not reviewed yet, but appeared.
 
-**3/12/19**
+**3/12/19 ...**
 
 [1.7 (Rotate Matrix)](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch1/1.7_RotateMatrix.cpp) ... Completed previously skipped "in place" solution.
 
 [Fibonacci Series w **memoization**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch8/Fibonacci_memoization.cpp) ... simple recurssion problem using **memoization**
 
-**3/13/19**
+**3/13/19 ...**
+
 CS32 Lec 4 (**Assignment Operators**)
