@@ -116,4 +116,6 @@ CS32 Lec 14 (**hash tables** ... completed)... "open" hash tables, (regular) tab
 
 **3/13/19 ...**
 
-CS32 Lec 4 (**Assignment Operators**)
+CS32 Lec 4 (**Assignment Operators**, **Linked lists**)
+
+nullptr
