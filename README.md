@@ -112,7 +112,7 @@ CS32 Lec 14 (**hash tables** ... completed)... "open" hash tables, (regular) tab
 
 [1.7 (Rotate Matrix)](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch1/1.7_RotateMatrix.cpp) ... Completed previously skipped "in place" solution.
 
-[Fibonacci Series w **memoization**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch8/Fibonacci_memoization.cpp) ... simple recurssion problem using **memoization**
+[Fibonacci Series w **memoization**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch8/Fibonacci_memoization.cpp) ... Simple recurssion problem using **memoization**. Good practice to grasp the concept.
 
 **3/13/19 ...**
 
