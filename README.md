@@ -119,3 +119,5 @@ CS32 Lec 14 (**hash tables** ... completed)... "open" hash tables, (regular) tab
 CS32 Lec 4 (**Assignment Operators**, **Linked lists**)
 
 nullptr
+
+[8.9 (Parentheses)](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch8/8.9_Parens.cpp) ... Very time consuming. Probably didn't solve it the way it was intended. Coming up with the binary representation was the trick.
