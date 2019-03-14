@@ -129,5 +129,4 @@ nullptr
 
 [8.8 (Permutations with dups)](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch8/8.8_permutations_with_dups.cpp) ... Good review of math combinations (probability). Didn't use recursion.
 
-[8.3 (Magic Index)]
-(https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch8/8.3_Magic_Index.cpp) ... Not interesting. Why is this included as a problem?
+[8.3 (Magic Index)](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch8/8.3_Magic_Index.cpp) ... Not interesting. Why is this included as a problem?
