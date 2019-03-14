@@ -15,7 +15,7 @@ int main() {
     cout<<"8 & 7 = "<<(8&7)<<endl;
     cout<<"8 & 6 = "<<(8&6)<<endl;
     cout<<"8 & 4 = "<<(8&4)<<endl;
-    cout<<"7 & 6 = "<<(7&6)<<endl<<endl;
+    cout<<"13 & 7 = "<<(13&7)<<endl<<endl;
     cout<<"a & b returns the equivalent number where the"<<endl;
     cout<<"\"1\" bits overlap in binary representation."<<endl<<endl;
     return 0;
