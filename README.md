@@ -2,7 +2,7 @@
 
 **Ch 6...1 2 3 4 9 10**
 
-**Ch 8...1 2 5 9**
+**Ch 8...1 2 5 7 9**
 
 
 
@@ -120,6 +120,6 @@ CS32 Lec 4 (**Assignment Operators**, **Linked lists**)
 
 nullptr
 
-[8.9 (Parentheses)](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch8/8.9_Parens.cpp) ... Very time consuming. Probably didn't solve it the way it was intended. Coming up with the binary representation was the trick.
+[8.9 (Parentheses)](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch8/8.9_Parens.cpp) ... Very time consuming. Probably didn't solve it the way it was intended. Coming up with the binary representation was the trick. Alternative (more elegant) solutions wanted.
 
 [8.7 (Permutations without dups)](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch8/8.7_permutations_without_dups.cpp) ... Seemingly trivial problem. Shouldn't even be included in the recursion chapter.
