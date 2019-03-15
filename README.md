@@ -1,6 +1,6 @@
 **Ch 1 ... 7 8**
 
-**Ch 6 ... 1 2 3 4 9 10**
+**Ch 6 ... 1 2 3 4 6 9 10**
 
 **Ch 5 ... 5 6**
 
@@ -138,7 +138,7 @@ nullptr
 
 [5.6 (Conversion)](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch5/5.6_Conversion.cpp) ... knowing "&" (same as 5.5) helps. Made a small mistake forgetting to implement overlap_digits function.
 
-[pointer aruthmetic](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/address_arithmetic.cpp) ... basic review
+[pointer arithmetic](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/address_arithmetic.cpp) ... basic review
 
 
 **3/15/19 ...**
