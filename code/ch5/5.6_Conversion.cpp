@@ -10,6 +10,17 @@ all about knowing the & operator
 #include<stdio.h>
 using namespace std;
 
+//elegant solution from book
+/*
+int bitswap(int a, int b){
+    int count=0;
+    for (int c=(a^b);c!=0;c = c>>1)
+        count=count+(c&1);
+    cout << count<<endl;
+}
+*/
+
+
 int binary_digits(int a);
 int overlap_digits(int a);
 
