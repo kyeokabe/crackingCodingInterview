@@ -137,3 +137,8 @@ nullptr
 [5.5 (Debugger)](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch5/5.5_Debugger.cpp) ... all about knowing what (for example) 13 & 7 will do.
 
 [5.6 (Conversion)](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch5/5.6_Conversion.cpp) ... knowing "&" (same as 5.5) helps. Made a small mistake forgetting to implement overlap_digits function.
+
+
+**3/15/19 ...**
+
+6.6 (Blue-Eyed Island) ... c = 3 solution seems strange. (day 1 behaviour should change.)
