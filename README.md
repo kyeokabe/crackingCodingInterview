@@ -138,6 +138,8 @@ nullptr
 
 [5.6 (Conversion)](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch5/5.6_Conversion.cpp) ... knowing "&" (same as 5.5) helps. Made a small mistake forgetting to implement overlap_digits function.
 
+[pointer aruthmetic](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/address_arithmetic.cpp) ... basic review
+
 
 **3/15/19 ...**
 
