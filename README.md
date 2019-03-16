@@ -150,3 +150,4 @@ CS32 Lec 10 (Big O) ... Sorting section left for tomorrow
 **3/16/19 ...**
 
 
+CS32 Lec 10 (Selection Sort, Insertion Sort, Bubble Sort)
