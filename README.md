@@ -156,4 +156,4 @@ no progress
 
 
 CS32 Lec 10 (Selection Sort, Insertion Sort, Bubble Sort) ... 
-Skimmed through this as it doesn't seem that important. These methods are typically too slow for real world sorts according to Carey. (Gayle says, Merge, Quick, & Bucket Sort are most common.)
+Skimmed through this as it doesn't seem that important. Skipped shell sort. These methods are typically too slow for real world sorts according to Carey. (Gayle says, Merge, Quick, & Bucket Sort are most common.)
