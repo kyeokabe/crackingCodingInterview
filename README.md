@@ -155,4 +155,5 @@ no progress
 **3/16/19 ...**
 
 
-CS32 Lec 10 (Selection Sort, Insertion Sort, Bubble Sort) ... Laakman says, Merge, Quick, & Bucket Sort are most common.
+CS32 Lec 10 (Selection Sort, Insertion Sort, Bubble Sort) ... 
+Skimmed through this as it doesn't seem that important. These methods are typically too slow for real world sorts according to Carey. (Laakman says, Merge, Quick, & Bucket Sort are most common.)
