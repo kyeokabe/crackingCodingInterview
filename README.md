@@ -211,3 +211,4 @@ int foo = pow(2,3);
 ```
 [3.2 Stack Min](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch3/3.2_StackMin_INCOMPLETE.cpp) ... incomplete
 
+a class type in the same class type seems unusual, but you can define a pointer to that class type.
