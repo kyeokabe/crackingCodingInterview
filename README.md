@@ -2,7 +2,12 @@
 
 **Ch 6 ... 1 2 3 4 6 9 10**
 
-**Ch 5 ... 2 5 6**
+**Ch 5 ...*** 
+[2](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch5/5.2_BanaryToString.cpp)
+
+[5](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch5/5.5_Debugger.cpp)
+
+[6](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch5/5.6_Conversion.cpp)
 
 **Ch 8 ... 1 2 3 5 7 8 9**
 
