@@ -2,7 +2,7 @@
 [**7**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch1/1.7_RotateMatrix.cpp) 
 [**8**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch1/1.8_ZeroMatrix.cpp)
 
-**Ch 6 ... 1 2 3 4 6 9 10**
+**Ch 6 ... 1 2 3 4 6 9 10** (not really coding problems)
 
 **Ch 5 ...**
 [**2**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch5/5.2_BanaryToString.cpp)
@@ -10,7 +10,6 @@
 [**6**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch5/5.6_Conversion.cpp)
 
 **Ch 8 ...**
-
 [**1**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch8/8.1_TripleStep.cpp)
 [**2**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch8/8.2_RobotGrid.cpp)
 [**3**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch8/8.3_Magic_Index.cpp)
