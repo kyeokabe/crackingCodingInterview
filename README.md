@@ -11,6 +11,7 @@
 [**4**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch5/5.4_NextNumber.cpp)
 [**5**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch5/5.5_Debugger.cpp)
 [**6**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch5/5.6_Conversion.cpp)
+[**7**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch5/5.7_incomplete.cpp)
 
 **Ch 8 ...**
 [**1**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch8/8.1_TripleStep.cpp)
@@ -187,3 +188,12 @@ Skimmed through this as it doesn't seem that important. Skipped shell sort. Thes
 [1.1 Is Unique](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch1/1.1_IsUnique.cpp) ... Similar to Q1.2. Have not solved second half (additional constraint of no additional data structure usage).
 
 [5.4 Next Number](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch5/5.4_NextNumber.cpp) ... Relatively straight forward.
+
+[5.7 Pairwise Swap](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch5/5.7_incomplete.cpp) ... Made several small errors. More of a grit problem.
+Exponentials can be obtained by
+ 
+#include <math.h>
+
+int foo = pow(2,3);
+
+
