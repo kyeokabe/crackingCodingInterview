@@ -1,4 +1,5 @@
 **Ch 1 ...**
+[**1**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch1/1.1_IsUnique.cpp)
 [**2**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch1/1.2_CheckPermutation.cpp)
 [**7**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch1/1.7_RotateMatrix.cpp) 
 [**8**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch1/1.8_ZeroMatrix.cpp)
