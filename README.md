@@ -194,10 +194,10 @@ Skimmed through this as it doesn't seem that important. Skipped shell sort. Thes
 
 [5.7 Pairwise Swap](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch5/5.7_incomplete.cpp) ... Made several small errors. More of a grit problem.
 Exponentials can be obtained by
-''' 
+```
 #include <math.h>
 
 int foo = pow(2,3);
-'''
+```
 [3.2 Stack Min](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch3/3.2_StackMin_INCOMPLETE.cpp) ... incomplete
 
