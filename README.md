@@ -8,6 +8,7 @@
 
 **Ch 5 ...**
 [**2**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch5/5.2_BanaryToString.cpp)
+[**4**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch5/5.4_NextNumber.cpp)
 [**5**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch5/5.5_Debugger.cpp)
 [**6**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch5/5.6_Conversion.cpp)
 
@@ -183,4 +184,6 @@ Skimmed through this as it doesn't seem that important. Skipped shell sort. Thes
 
 **3/18/19 ...**
 
-[1.1 Is Unique](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch1/1.1_IsUnique.cpp) ... similar to Q1.2. Have not solved second half (additional constraint of no additional data structure usage).
+[1.1 Is Unique](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch1/1.1_IsUnique.cpp) ... Similar to Q1.2. Have not solved second half (additional constraint of no additional data structure usage).
+
+[5.4 Next Number](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch5/5.4_NextNumber.cpp) ... Relatively straight forward.
