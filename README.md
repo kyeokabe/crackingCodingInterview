@@ -4,7 +4,7 @@
 [**7**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch1/1.7_RotateMatrix.cpp) 
 [**8**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch1/1.8_ZeroMatrix.cpp)
 
-***Ch 3 ... 2*
+***Ch 3 ... **
 [**2**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch3/3.2_StackMin_INCOMPLETE.cpp) ... incomplete
 
 **Ch 6 ... 1 2 3 4 6 9 10** (not really coding problems)
