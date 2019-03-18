@@ -177,4 +177,4 @@ Skimmed through this as it doesn't seem that important. Skipped shell sort. Thes
 
 [5.2 Binary To String](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch5/5.2_BanaryToString.cpp) ...Standard difficulty feeling problem. Good practice.
 
-[1.2 Check Permutation](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch1/1.2_CheckPermutation.cpp)
+[1.2 Check Permutation](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch1/1.2_CheckPermutation.cpp) ... (int)char converts the char to the int ascii code (0~127).
