@@ -157,3 +157,6 @@ no progress
 
 CS32 Lec 10 (Selection Sort, Insertion Sort, Bubble Sort) ... 
 Skimmed through this as it doesn't seem that important. Skipped shell sort. These methods are typically too slow for real world sorts according to Carey. (Gayle says, Merge, Quick, & Bucket Sort are most common.)
+
+
+[16.1 Number Swapper](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch16/16.1_Number_Swap.cpp) ... good problem! Good to know in-place swapping is possible.
