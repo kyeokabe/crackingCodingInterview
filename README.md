@@ -1,4 +1,6 @@
-**Ch 1 ... 7 8**
+**Ch 1 ...**
+[**7**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch1/1.7_RotateMatrix.cpp) 
+[**8**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch1/1.8_ZeroMatrix.cpp)
 
 **Ch 6 ... 1 2 3 4 6 9 10**
 
@@ -7,9 +9,18 @@
 [**5**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch5/5.5_Debugger.cpp)
 [**6**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch5/5.6_Conversion.cpp)
 
-**Ch 8 ... 1 2 3 5 7 8 9**
+**Ch 8 ...**
 
+[**1**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch8/8.1_TripleStep.cpp)
+[**2**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch8/8.2_RobotGrid.cpp)
+[**3**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch8/8.3_Magic_Index.cpp)
+[**5**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch8/8.5_RecursiveMultiply.cpp)
+[**7**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch8/8.7_permutations_without_dups.cpp)
+[**8**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch8/8.8_permutations_with_dups.cpp) 
+[**9**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch8/8.9_Parens.cpp)
 
+**Ch 16 ...**
+[**1**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch16/16.1_Number_Swap.cpp)
 
 **2/26/19 ...**
 
