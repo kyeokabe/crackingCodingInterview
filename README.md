@@ -160,3 +160,4 @@ Skimmed through this as it doesn't seem that important. Skipped shell sort. Thes
 
 
 [16.1 Number Swapper](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch16/16.1_Number_Swap.cpp) ... good problem! Good to know in-place swapping is possible.
+[5.2 Binary To String](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch5/5.2_BanaryToString.cpp) ...Standard difficulty feeling problem. Good practice.
