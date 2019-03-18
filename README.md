@@ -1,4 +1,5 @@
 **Ch 1 ...**
+[**2**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch1/1.2_CheckPermutation.cpp)
 [**7**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch1/1.7_RotateMatrix.cpp) 
 [**8**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch1/1.8_ZeroMatrix.cpp)
 
@@ -165,7 +166,7 @@ CS32 Lec 10 (Big O) ... Sorting section left for tomorrow
 
 no progress
 
-**3/16/19 ...**
+**3/17/19 ...**
 
 
 CS32 Lec 10 (Selection Sort, Insertion Sort, Bubble Sort) ... 
@@ -175,3 +176,5 @@ Skimmed through this as it doesn't seem that important. Skipped shell sort. Thes
 [16.1 Number Swapper](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch16/16.1_Number_Swap.cpp) ... good problem! Good to know in-place swapping is possible.
 
 [5.2 Binary To String](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch5/5.2_BanaryToString.cpp) ...Standard difficulty feeling problem. Good practice.
+
+[1.2 Check Permutation](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch1/1.2_CheckPermutation.cpp)
