@@ -38,6 +38,7 @@
 
 **Ch 16 (Moderate)...**
 [**1**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch16/16.1_Number_Swap.cpp)
+[**10**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch16/16.10_LivingPeople.cpp)
 
 **2/26/19 ...**
 
@@ -229,4 +230,4 @@ a class type in the same class type seems unusual, but you can define a pointer 
 
 [3.3 Stack of Plates](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch3/3.3_StackOfPlates.cpp) ... More of a syntax problem rather than a thinking problem. Assumed a fixed maximum number of stacks.
 
-[16.10 Living People]()
+[16.10 Living People](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch16/16.10_LivingPeople.cpp) ... Think about how to reorganize the arrray for convenience. Not too hard, but made a few (trivial) errors.
