@@ -1,8 +1,8 @@
 // 3.2 Stack Min
 
 /*
-Should know how to make a class that uses its class.
-*/
+ Should know how to make a class that uses its class.
+ */
 
 #include <iostream>
 #include <stdio.h>
@@ -23,15 +23,24 @@ public:
         m_min_initialized=false;
     }
     
+    void init_m_min_stack(){
+        m_min_stack = new Stack;
+
+    }
+    
     ~Stack(){
         delete m_min_stack;
     }
     
     void push(int a){
-        if (!m_min_initialized)
+        if (!m_min_initialized){
             m_min=a;
-        if (m_min>a)
+            m_min_stack->push(m_min);
+        }
+        if (m_min>a){
             m_min=a;
+            m_min_stack->push(m_min);
+        }
         m_array[current_index]=a;
         current_index++;
     }
