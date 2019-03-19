@@ -6,6 +6,7 @@
 
 **Ch 3 ...**
 [**2**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch3/3.2_StackMin_INCOMPLETE.cpp) ... incomplete
+
 [**3**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch3/3.3_StackOfPlates.cpp)
 
 **Ch 6 ... 1 2 3 4 6 9 10** (not really coding problems)
