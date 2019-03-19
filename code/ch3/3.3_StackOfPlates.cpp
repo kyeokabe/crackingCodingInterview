@@ -101,3 +101,11 @@ private:
     int m_stack_index;
     Stack foo[MAX_STACK_NUM];
 };
+
+int main(){
+    SuperStack a;
+    a.push(2);
+    a.push(3);
+    a.pop();
+    return 0;
+}
