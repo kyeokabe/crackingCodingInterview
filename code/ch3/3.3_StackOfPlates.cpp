@@ -1,8 +1,10 @@
 // 3.3 Stack of Plates
 
 /*
+ have not tested code yet.
  Should know how to make an array of classes.
- Dynamically allocated array?
+ 
+ assuming maximum of 100 stacks of stacks
  */
 
 #include <iostream>
@@ -10,6 +12,7 @@
 using namespace std;
 
 const int SIZE=100;
+const int MAX_STACK_NUM=10;
 
 //class Stack;
 class Stack{
@@ -42,6 +45,12 @@ public:
             return true;
         return false;
     }
+
+    bool is_full(){
+        if (m_index==SIZE)
+            return true;
+        return false;
+    }
     
     int peek_top(){
         if (m_index==0)
@@ -54,21 +63,41 @@ private:
     int m_index;
 };
 
+
 //class Stack;
 class SuperStack{
 public:
     SuperStack(){
-        m_num_stacks=1;
+        m_stack_index=0;
     }
     
-    int push(int a){
-        
-        
-        
-        return 0;
+    void push(int a){
+        if (foo[m_stack_index].is_full()){
+            m_stack_index++;
+            if (m_stack_index<MAX_STACK_NUM)
+                foo[m_stack_index].push(a);
+            else
+                cout<<"maximum num of stacks reached"<<endl;
+        }
+        else
+            foo[m_stack_index].push(a);
+    }
+    
+    void pop(){
+        if ((m_stack_index==0) && (foo[m_stack_index].is_empty())){
+            cout <<"stack is empty"<<endl;
+            return;
+        }
+        if (foo[m_stack_index].is_empty()){
+            m_stack_index--;
+            foo[m_stack_index].pop();
+            return;
+        }
+        foo[m_stack_index].pop();
+        return;
     }
     
 private:
-    int m_num_stacks;
-    Stack foo;
+    int m_stack_index;
+    Stack foo[MAX_STACK_NUM];
 };
