@@ -228,3 +228,5 @@ a class type in the same class type seems unusual, but you can define a pointer 
 **3/19/19 ...**
 
 [3.3 Stack of Plates](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch3/3.3_StackOfPlates.cpp) ... More of a syntax problem rather than a thinking problem. Assumed a fixed maximum number of stacks.
+
+[16.10 Living People]()
