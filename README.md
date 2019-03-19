@@ -6,6 +6,7 @@
 
 **Ch 3 ...**
 [**2**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch3/3.2_StackMin_INCOMPLETE.cpp) ... incomplete
+[**3**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch3/3.3_StackOfPlates.cpp)
 
 **Ch 6 ... 1 2 3 4 6 9 10** (not really coding problems)
 
@@ -216,4 +217,4 @@ a class type in the same class type seems unusual, but you can define a pointer 
 
 **3/19/19 ...**
 
-**3.3** not complete...
+[3.3 Stack of Plates](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch3/3.3_StackOfPlates.cpp) ... More of a syntax problem rather than a thinking problem. Assumed a fixed maximum number of stacks.
