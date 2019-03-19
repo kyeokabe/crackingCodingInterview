@@ -23,6 +23,10 @@ public:
         m_min_initialized=false;
     }
     
+    ~Stack(){
+        delete m_min_stack;
+    }
+    
     void push(int a){
         if (!m_min_initialized)
             m_min=a;
@@ -44,8 +48,9 @@ private:
     int current_index;
     int m_min;
     bool m_min_initialized;
-    Stack min;
+    Stack *m_min_stack;
 };
+
 
 int main() {
     
