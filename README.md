@@ -5,10 +5,10 @@
 [**8**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch1/1.8_ZeroMatrix.cpp)
 
 **Ch 2 (Linked Lists)...**
-[**8**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch2/2.8_incomplete.cpp) ...incomplete
+[**8**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch2/2.8_incomplete.cpp) (incomplete)
 
 **Ch 3 (Stacks and Queues)...**
-[**2**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch3/3.2_StackMin_INCOMPLETE.cpp) ... incomplete
+[**2**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch3/3.2_StackMin_INCOMPLETE.cpp) (incomplete) 
  [**3**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch3/3.3_StackOfPlates.cpp)
 
 **Ch 4 (Trees and Graphs)...**
