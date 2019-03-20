@@ -1,8 +1,11 @@
-//2.8 incomplete ... basic working linked list
+//2.8 Loop Detection
 
 /*
  Given a circular linked list, implement an algorithm that returns
  the node at the beginning of the loop.
+ 
+ //Interesting question. Kind of relies on whether you know the trick or not.
+ //trick: two node ptrs. one travels 2 steps, the other 1 step. do they match?
  */
 
 #include <iostream>
@@ -102,13 +105,22 @@ public:
     
     bool isCircular(){
         Node *ptr1,*ptr2;
-        ptr1=head;
-        ptr2=head;
-        
-        if (ptr1 || ptr2 == nullptr)
+        ptr1 = head;
+        ptr2 = head;
+
+        if (ptr1 == nullptr || ptr2 ==nullptr){
+            cout<<"foo"<<endl;
             return false;
-        if (ptr1->next!=nullptr)
-            ptr
+        }
+        if (ptr1->next==nullptr|| ptr2->next == nullptr)
+            return false;
+        while (ptr1!=nullptr){
+            ptr1=ptr1->next->next;
+            ptr2=ptr2->next;
+            if (ptr1==ptr2)
+                return true;
+        }
+        return false;
     }
     
 private:
@@ -129,9 +141,11 @@ int main() {
     foo.addToFront("gimmick5");
     foo.addCircular("gimmick6");
     foo.printItems();
-    
+    cout<<endl;
+    cout<<"is circular? = "<<foo.isCircular()<<endl<<endl;
+
     int input;
-    cout<<"the following cin >> is to prevent";
+    cout<<"the following cin >> is to prevent ";
     cout<<"input int: ";
     cout<<"the destructor from acting up."<<endl;
     cin>>input;
