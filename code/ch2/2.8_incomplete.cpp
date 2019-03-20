@@ -25,6 +25,7 @@ class LinkedList{
 public:
     LinkedList(){
         head = nullptr;
+        num_nodes=0;
     }
     
     void addToFront(string foo){
@@ -34,6 +35,7 @@ public:
         
         p->next=head;
         head=p;
+        num_nodes++;
     }
     
     void addToBack(string foo){
@@ -50,6 +52,26 @@ public:
         }
         temp->next=p;
         p->next=nullptr;
+        num_nodes++;
+        return;
+    }
+    
+    //assuming at least one element is in the LL
+    void addCircular(string foo){
+        if (head==nullptr){
+            addToFront(foo);
+            return;
+        }
+        Node *p,*temp;
+        temp=head;
+        p = new Node;
+        p->treasure=foo;
+        while(temp->next!=nullptr){
+            temp=temp->next;
+        }
+        temp->next=p;
+        p->next=head;
+        num_nodes++;
         return;
     }
     
@@ -60,9 +82,11 @@ public:
             cout<<"empty list"<<endl;
         }
         
-        while (temp!=nullptr){
+        int count=0;
+        while (temp!=nullptr && count<num_nodes){
             cout<<temp->viewNode()<<endl;
             temp=temp->next;
+            count++;
         }
     }
     
@@ -76,8 +100,19 @@ public:
         }
     }
     
+    bool isCircular(){
+        Node *ptr1,*ptr2;
+        ptr1=head;
+        ptr2=head;
+        
+        if (ptr1 || ptr2)
+        
+        return false;
+    }
+    
 private:
     Node *head;
+    int num_nodes;
 };
 
 int main() {
@@ -91,7 +126,15 @@ int main() {
     cout<<endl;
     foo.addToBack("gimmick4");
     foo.addToFront("gimmick5");
+    foo.addCircular("gimmick6");
     foo.printItems();
+    
+    int input;
+    cout<<"the following cin >> is to prevent";
+    cout<<"input int: ";
+    cout<<"the destructor from acting up."<<endl;
+    cin>>input;
+    
     cout<<endl;
     return 0;
 }
