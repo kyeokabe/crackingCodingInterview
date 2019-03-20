@@ -233,4 +233,6 @@ a class type in the same class type seems unusual, but you can define a pointer 
 
 [16.10 Living People](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch16/16.10_LivingPeople.cpp) ... Think about how to reorganize the arrray for convenience. Not too hard, but made a few (trivial) errors.
 
-[2.8](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch2/2.8_incomplete.cpp) ... incomplete
+**3/20/19 ...**
+
+[2.8](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch2/2.8_incomplete.cpp) ... Solved first question for linked lists. Implementation took a long time. Interesting question. Kind of relies on whether you know the trick or not. Supposedly a classical question.
