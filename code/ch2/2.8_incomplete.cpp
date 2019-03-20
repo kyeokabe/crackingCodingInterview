@@ -1,4 +1,9 @@
-//2.8 incomplete
+//2.8 incomplete ... basic working linked list
+
+/*
+Given a circular linked list, implement an algorithm that returns
+the node at the beginning of the loop.
+*/
 
 #include <iostream>
 #include <stdio.h>
@@ -19,28 +24,17 @@ private:
 class LinkedList{
 public:
     LinkedList(){
-        head=nullptr;
+        head = nullptr;
     }
     
-    void addToRear(string foo){
-        Node *temp;
-        temp=head;
-        
-        while (temp!=nullptr){
-            temp=temp->next;
-        }
+    void addToFront(string foo){
         Node *p;
         p = new Node;
-        p->treasure=foo;
-        p->next=nullptr;
-        temp->next=p;
-    }
-    
-    /*
-    void deleteItem(string foo){
+        p->treasure = foo;
         
+        p->next=head;
+        head=p;
     }
-    */
     
     void printItems(){
         Node *temp;
@@ -72,11 +66,15 @@ private:
 int main() {
 
     LinkedList foo;
-    foo.addToRear("gimmick1");
-    foo.addToRear("gimmick2");
-    foo.addToRear("gimmick3");
-    foo.addToRear("gimmick4");
-    foo.addToRear("gimmick5");
+    //cout<<endl;
+    foo.addToFront("gimmick1");
+    foo.addToFront("gimmick2");
+    foo.addToFront("gimmick3");
     foo.printItems();
+    cout<<endl;
+    foo.addToFront("gimmick4");
+    foo.addToFront("gimmick5");
+    foo.printItems();
+    cout<<endl;
     return 0;
 }
