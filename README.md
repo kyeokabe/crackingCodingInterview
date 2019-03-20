@@ -5,6 +5,7 @@
 [**8**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch1/1.8_ZeroMatrix.cpp)
 
 **Ch 2 (Linked Lists)...**
+[**8**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch2/2.8_incomplete.cpp) ...incomplete
 
 **Ch 3 (Stacks and Queues)...**
 [**2**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch3/3.2_StackMin_INCOMPLETE.cpp) ... incomplete
@@ -231,3 +232,5 @@ a class type in the same class type seems unusual, but you can define a pointer 
 [3.3 Stack of Plates](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch3/3.3_StackOfPlates.cpp) ... More of a syntax problem rather than a thinking problem. Assumed a fixed maximum number of stacks.
 
 [16.10 Living People](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch16/16.10_LivingPeople.cpp) ... Think about how to reorganize the arrray for convenience. Not too hard, but made a few (trivial) errors.
+
+[2.8](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch2/2.8_incomplete.cpp) ... incomplete
