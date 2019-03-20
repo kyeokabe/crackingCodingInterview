@@ -105,9 +105,10 @@ public:
         ptr1=head;
         ptr2=head;
         
-        if (ptr1 || ptr2)
-        
-        return false;
+        if (ptr1 || ptr2 == nullptr)
+            return false;
+        if (ptr1->next!=nullptr)
+            ptr
     }
     
 private:
