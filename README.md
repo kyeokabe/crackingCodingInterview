@@ -237,7 +237,7 @@ a class type in the same class type seems unusual, but you can define a pointer 
 
 **3/20/19 ...**
 
-[2.8](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch2/2.8_LoopDetection.cpp) ... Solved first question for linked lists. Implementation took a long time. Interesting question. Kind of relies on whether you know the trick or not. Supposedly a classical question.
+[2.8 Loop Detection](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch2/2.8_LoopDetection.cpp) ... Solved first question for linked lists. Implementation took a long time. Interesting question. Kind of relies on whether you know the trick or not. Supposedly a classical question.
 
 [stacks & queues cheat sheet](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/stacks_queues_cheatsheet.cpp)
 
@@ -245,4 +245,4 @@ a class type in the same class type seems unusual, but you can define a pointer 
 
 **3/21/19 ...**
 
-[3.4](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch3/3.4_QueueViaStacks.cpp)
+[3.4 Queue via Stacks](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch3/3.4_QueueViaStacks.cpp) ... Fairly basic as long as you know STL queue and stack syntax.
