@@ -240,4 +240,4 @@ a class type in the same class type seems unusual, but you can define a pointer 
 
 [stacks & queues cheat sheet](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/stacks_queues_cheatsheet.cpp)
 
-[2.6 palindrome](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch2/2.6_Palindrome.cpp)
+[2.6 Palindrome](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch2/2.6_Palindrome.cpp)
