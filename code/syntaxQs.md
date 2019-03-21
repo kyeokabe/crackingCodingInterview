@@ -27,3 +27,13 @@ foo='a';
 
 cout<<(int)foo<<endl; //outputs 97
 ```
+
+
+**3. get the length of a string**
+
+```
+string foo;
+foo="123456";
+
+cout<<foo.length()<<endl; //outputs 6
+```
