@@ -3,6 +3,7 @@
 ```
 #include <stack>
 #include <queue>
+using namespace std;
 
 stack<int> foo1;
 queue<int> foo2;
