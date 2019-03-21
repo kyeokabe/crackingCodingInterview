@@ -10,7 +10,8 @@
 
 **Ch 3 (Stacks and Queues)...**
 [**2**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch3/3.2_StackMin_INCOMPLETE.cpp) (incomplete) 
- [**3**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch3/3.3_StackOfPlates.cpp)
+[**3**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch3/3.3_StackOfPlates.cpp)
+[**4**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch3/3.4_QueueViaStacks.cpp)
 
 **Ch 4 (Trees and Graphs)...**
 
@@ -241,3 +242,7 @@ a class type in the same class type seems unusual, but you can define a pointer 
 [stacks & queues cheat sheet](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/stacks_queues_cheatsheet.cpp)
 
 [2.6 Palindrome](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch2/2.6_Palindrome.cpp)
+
+**3/21/19 ...**
+
+[3.4](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch3/3.4_QueueViaStacks.cpp)
