@@ -25,6 +25,6 @@ foo2.size();
 char foo;
 foo="a";
 
-cout<<(int)<<endl; //outputs 92
+cout<<(int)foo<<endl; //outputs 92
 
 ```
