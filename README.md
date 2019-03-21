@@ -5,6 +5,7 @@
 [**8**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch1/1.8_ZeroMatrix.cpp)
 
 **Ch 2 (Linked Lists)...**
+[**6**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch2/2.6_Palindrome.cpp)
 [**8**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch2/2.8_LoopDetection.cpp) (incomplete)
 
 **Ch 3 (Stacks and Queues)...**
@@ -238,3 +239,5 @@ a class type in the same class type seems unusual, but you can define a pointer 
 [2.8](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch2/2.8_LoopDetection.cpp) ... Solved first question for linked lists. Implementation took a long time. Interesting question. Kind of relies on whether you know the trick or not. Supposedly a classical question.
 
 [stacks & queues cheat sheet](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/stacks_queues_cheatsheet.cpp)
+
+[2.6 palindrome](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch2/2.6_Palindrome.cpp)
