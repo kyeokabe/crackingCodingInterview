@@ -4,6 +4,9 @@ Write code to remove duplicates from an unsorted linked list.
 How would you solve this problem if
 a temporary buffer is not allowed?
 
+ 
+hard to code without a single error
+this was a good problem to learn how to use the debugger
 */
 
 #include <iostream>
@@ -32,16 +35,20 @@ public:
         Node *temp1;
         Node *temp2;
         temp1=head;
+        temp2=nullptr;
         while (temp1!=nullptr){
             temp2=temp1;
             while (temp2!=nullptr){
                 if(temp2==temp1)
                     temp2=temp2->next;
-                if(temp1->treasure==temp2->treasure)
+                if(temp2!=nullptr && temp1->treasure==temp2->treasure){
                     swapNode(temp1);
-                temp2=temp2->next;
+                }
+                if (temp2!=nullptr)
+                    temp2=temp2->next;
             }
-            temp1=temp1->next;
+            if (temp1!=nullptr)
+                temp1=temp1->next;
         }
     }
     
@@ -119,17 +126,20 @@ private:
 int main() {
     
     LinkedList foo1;
-    foo1.addToFront("gimmick1");
-    foo1.addToFront("gimmick4");
-    foo1.addToFront("gimmick3");
+    foo1.addToBack("gimmick1");
     foo1.addToBack("gimmick4");
-    foo1.addToFront("gimmick5");
+    foo1.addToBack("gimmick3");
+    foo1.addToBack("gimmick4");
+    foo1.addToBack("gimmick5");
     foo1.addToBack("gimmick6");
+    foo1.addToFront("gimmick2");
 
+    cout<<"pre-remove dups"<<endl;
     foo1.printItems();
 
     foo1.RemoveDups();
     cout<<endl<<endl;
+    cout<<"post-remove dups"<<endl;
     foo1.printItems();
     
     return 0;
