@@ -5,7 +5,7 @@
 [**8**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch1/1.8_ZeroMatrix.cpp)
 
 **Ch 2 (Linked Lists)...**
-[**1**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch2/2.1_RemoveDups_Incomplete.cpp) (incomplete)
+[**1**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch2/2.1_RemoveDups.cpp)
 [**2**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch2/2.2_ReturnKthtoLast.cpp)
 [**6**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch2/2.6_Palindrome.cpp)
 [**8**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch2/2.8_LoopDetection.cpp) (incomplete)
@@ -251,4 +251,5 @@ a class type in the same class type seems unusual, but you can define a pointer 
 
 [2.2 Return Kth to Last](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch2/2.2_ReturnKthtoLast.cpp)
 
-[2.1 Remove Dups](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch2/2.1_RemoveDups_Incomplete.cpp) ... incomplete
+**3/22/19 ...**
+[2.1 Remove Dups](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch2/2.1_RemoveDups.cpp) ... Good problem to learn how to use XCode debugger. Tough to do without a single error.
