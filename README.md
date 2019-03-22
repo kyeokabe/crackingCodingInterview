@@ -5,6 +5,7 @@
 [**8**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch1/1.8_ZeroMatrix.cpp)
 
 **Ch 2 (Linked Lists)...**
+[**1**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch2/2.1_RemoveDups_Incomplete.cpp) (incomplete)
 [**2**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch2/2.2_ReturnKthtoLast.cpp)
 [**6**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch2/2.6_Palindrome.cpp)
 [**8**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch2/2.8_LoopDetection.cpp) (incomplete)
@@ -249,3 +250,5 @@ a class type in the same class type seems unusual, but you can define a pointer 
 [3.4 Queue via Stacks](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch3/3.4_QueueViaStacks.cpp) ... Fairly basic as long as you know STL queue and stack syntax.
 
 [2.2 Return Kth to Last](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch2/2.2_ReturnKthtoLast.cpp)
+
+[2.1 Remove Dups](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch2/2.1_RemoveDups_Incomplete.cpp) ... incomplete
