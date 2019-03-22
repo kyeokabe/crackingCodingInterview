@@ -252,4 +252,4 @@ a class type in the same class type seems unusual, but you can define a pointer 
 [2.2 Return Kth to Last](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch2/2.2_ReturnKthtoLast.cpp)
 
 **3/22/19 ...**
-[2.1 Remove Dups](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch2/2.1_RemoveDups.cpp) ... Good problem to learn how to use XCode debugger. Tough to do without a single error.
+[2.1 Remove Dups](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch2/2.1_RemoveDups.cpp) ... Debugged error from yesterday. Good problem to learn how to use XCode debugger. Tough to do without a single error.
