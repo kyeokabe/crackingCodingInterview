@@ -1,0 +1,136 @@
+//2.1 Remove Dups
+/*
+Write code to remove duplicates from an unsorted linked list.
+How would you solve this problem if
+a temporary buffer is not allowed?
+
+*/
+
+#include <iostream>
+#include <stdio.h>
+#include <stack>
+#include <queue>
+using namespace std;
+
+class Node{
+public:
+    string viewNode(){
+        return treasure;
+    }
+    Node *next;
+    string treasure;
+};
+
+class LinkedList{
+public:
+    LinkedList(){
+        head = nullptr;
+        num_nodes=0;
+    }
+    
+    void RemoveDups(){
+        Node *temp1;
+        Node *temp2;
+        temp1=head;
+        while (temp1!=nullptr){
+            temp2=temp1;
+            while (temp2!=nullptr){
+                if(temp2==temp1)
+                    temp2=temp2->next;
+                if(temp1->treasure==temp2->treasure)
+                    swapNode(temp1);
+                temp2=temp2->next;
+            }
+            temp1=temp1->next;
+        }
+    }
+    
+    void swapNode(Node* a){
+        Node *temp1,*temp2;
+        temp1=head;
+        while (temp1->next!=a)
+            temp1=temp1->next;
+        temp2=temp1->next->next;
+        delete a;
+        
+        temp1->next=temp2;
+    }
+    
+    void addToFront(string foo){
+        Node *p;
+        p = new Node;
+        p->treasure = foo;
+        p->next=head;
+        head=p;
+        num_nodes++;
+    }
+    
+    void addToBack(string foo){
+        if (head==nullptr){
+            addToFront(foo);
+            return;
+        }
+        Node *p,*temp;
+        temp=head;
+        p = new Node;
+        p->treasure=foo;
+        
+        while(temp->next!=nullptr){
+            temp=temp->next;
+        }
+        temp->next=p;
+        p->next=nullptr;
+        num_nodes++;
+        return;
+    }
+
+    void printItems(){
+        Node *temp;
+        temp=head;
+        if (temp==nullptr){
+            cout<<"empty list"<<endl;
+        }
+        
+        int count=0;
+        while (temp!=nullptr && count<num_nodes){
+            cout<<temp->viewNode()<<endl;
+            temp=temp->next;
+            count++;
+        }
+    }
+    
+    ~LinkedList(){
+        Node *temp1,*temp2;
+        temp1=head;
+        while(temp1!=nullptr){
+            temp2=temp1->next;
+            delete temp1;
+            temp1=temp2;
+        }
+    }
+    
+    
+private:
+    Node *head;
+    int num_nodes;
+    
+};
+
+int main() {
+    
+    LinkedList foo1;
+    foo1.addToFront("gimmick1");
+    foo1.addToFront("gimmick4");
+    foo1.addToFront("gimmick3");
+    foo1.addToBack("gimmick4");
+    foo1.addToFront("gimmick5");
+    foo1.addToBack("gimmick6");
+
+    foo1.printItems();
+
+    foo1.RemoveDups();
+    cout<<endl<<endl;
+    foo1.printItems();
+    
+    return 0;
+}
