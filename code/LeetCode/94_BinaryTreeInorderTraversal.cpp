@@ -7,6 +7,11 @@
  *     TreeNode(int x) : val(x), left(NULL), right(NULL) {}
  * };
  */
+
+/*
+core algorithm is "copy and paste," 
+but need a wraper function due to vector return
+*/
 class Solution {
 public:
     vector<int> inorderTraversal(TreeNode* root) {
