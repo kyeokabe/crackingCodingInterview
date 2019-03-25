@@ -259,4 +259,4 @@ a class type in the same class type seems unusual, but you can define a pointer 
 **3/24/19 ...**
 
 **3/25/19 ...**
-[LC 69]()
+[LC 69](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/69_Sqrt(x).cpp) ... Fairly easy.
