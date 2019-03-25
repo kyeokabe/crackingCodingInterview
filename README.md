@@ -1,3 +1,5 @@
+**Cracking The Coding Interview**
+
 **Ch 1 (Arrays and Strings)...**
 [**1**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch1/1.1_IsUnique.cpp)
 [**2**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch1/1.2_CheckPermutation.cpp)
@@ -44,6 +46,21 @@
 **Ch 16 (Moderate)...**
 [**1**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch16/16.1_Number_Swap.cpp)
 [**10**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch16/16.10_LivingPeople.cpp)
+
+**Leet Code**
+
+[**50**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/50_Pow(x%2Cn).cpp)
+
+[**66**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/66_PlusOne.cpp)
+ [**69**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/69_Sqrt(x).cpp)
+
+[**70**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/70_ClimbingStairs.cpp)
+
+[**94**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/94_BinaryTreeInorderTraversal.cpp)
+ [**98**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/98_ValidateBinarySearchTree.cpp)
+
+
+[**100**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/100_SameTree.cpp)
 
 **2/26/19 ...**
 
