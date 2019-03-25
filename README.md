@@ -293,3 +293,5 @@ a class type in the same class type seems unusual, but you can define a pointer 
 **3/25/19 ...**
 
 [LC 69 Sqrt(x)](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/69_Sqrt(x).cpp) ... Fairly easy.
+
+[LC 88 Merge Sorted Array](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/88_MergeSortedArray.cpp)
