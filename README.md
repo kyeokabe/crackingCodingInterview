@@ -257,8 +257,17 @@ a class type in the same class type seems unusual, but you can define a pointer 
 **3/23/19 ...**
 
 **3/24/19 ...**
-[LC 50](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/50_Pow(x%2Cn).cpp)
+[LC 50 Pow(x,n)](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/50_Pow(x%2Cn).cpp)
 
+[LC 66 Plus One](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/66_PlusOne.cpp)
+
+[LC 70 Climbing Stairs](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/70_ClimbingStairs.cpp)
+
+[LC 94 Binary Tree In Order Traversal](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/94_BinaryTreeInorderTraversal.cpp) 
+
+[LC 98 Validate Binary Search Tree](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/98_ValidateBinarySearchTree.cpp)
+
+[LC 100 Same Tree](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/100_SameTree.cpp)
 
 **3/25/19 ...**
 [LC 69 Sqrt(x)](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/69_Sqrt(x).cpp) ... Fairly easy.
