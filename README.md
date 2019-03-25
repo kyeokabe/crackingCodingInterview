@@ -256,3 +256,7 @@ a class type in the same class type seems unusual, but you can define a pointer 
 
 **3/23/19 ...**
 
+**3/24/19 ...**
+
+**3/25/19 ...**
+[LC 69]()
