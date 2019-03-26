@@ -50,6 +50,7 @@
 
 **Leet Code**
 
+[**07**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/07_Reverse_Integer.cpp)
 [**09**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/09_PalindromeNumber.cpp)
 
 [**21**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/21_MergeTwoSortedLists.cpp)
@@ -295,6 +296,8 @@ a class type in the same class type seems unusual, but you can define a pointer 
 [LC 100 Same Tree](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/100_SameTree.cpp)
 
 **3/25/19 ...**
+
+[LC 7 Reverse Integer](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/07_Reverse_Integer.cpp) ... taking care of details took way too long. Trick: process with long, evaluate if overflow at the end.
 
 [LC 9 Palindrome Number](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/09_PalindromeNumber.cpp)
 
