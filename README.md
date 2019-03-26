@@ -294,8 +294,7 @@ a class type in the same class type seems unusual, but you can define a pointer 
 
 **3/25/19 ...**
 
-[LC 9 Palindrome Number
-(https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/09_PalindromeNumber.cpp)
+[LC 9 Palindrome Number](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/09_PalindromeNumber.cpp)
 
 [LC 69 Sqrt(x)](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/69_Sqrt(x).cpp) ... Fairly easy.
 
