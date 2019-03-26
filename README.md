@@ -52,6 +52,8 @@
 
 [**09**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/09_PalindromeNumber.cpp)
 
+[**21**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/21_MergeTwoSortedLists.cpp)
+
 [**50**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/50_Pow(x%2Cn).cpp)
 
 [**66**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/66_PlusOne.cpp)
@@ -299,3 +301,5 @@ a class type in the same class type seems unusual, but you can define a pointer 
 [LC 69 Sqrt(x)](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/69_Sqrt(x).cpp) ... Fairly easy.
 
 [LC 88 Merge Sorted Array](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/88_MergeSortedArray.cpp)
+
+[LC 21 Merge Two Sorted Lists](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/21_MergeTwoSortedLists.cpp)
