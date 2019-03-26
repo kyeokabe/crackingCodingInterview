@@ -50,6 +50,8 @@
 
 **Leet Code**
 
+[**09**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/09_PalindromeNumber.cpp)
+
 [**50**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/50_Pow(x%2Cn).cpp)
 
 [**66**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/66_PlusOne.cpp)
@@ -292,7 +294,8 @@ a class type in the same class type seems unusual, but you can define a pointer 
 
 **3/25/19 ...**
 
-[LC 9 Palindrome Number]()
+[LC 9 Palindrome Number
+(https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/09_PalindromeNumber.cpp)
 
 [LC 69 Sqrt(x)](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/69_Sqrt(x).cpp) ... Fairly easy.
 
