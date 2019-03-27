@@ -69,6 +69,7 @@
 
 
 [**100**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/100_SameTree.cpp)
+[**101**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/101_Symmetric_Tree.cpp)
 
 [**169**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/169_MajorityElement.cpp)
 
@@ -312,3 +313,5 @@ a class type in the same class type seems unusual, but you can define a pointer 
 **3/26/19 ...**
 
 [LC 169 Majority Element](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/169_MajorityElement.cpp)
+
+[LC 101 Symmetric Tree](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/101_Symmetric_Tree.cpp)
