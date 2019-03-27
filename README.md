@@ -319,4 +319,4 @@ a class type in the same class type seems unusual, but you can define a pointer 
 
 [LC 101 Symmetric Tree](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/101_Symmetric_Tree.cpp) ... interesting problem. Should visit later to check I can solve it.
 
-[LC 104 Maximum Depth of Binary Tree (https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/104_MaximumDepthOfBinaryTree.cpp)
+[LC 104 Maximum Depth of Binary Tree](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/104_MaximumDepthOfBinaryTree.cpp)
