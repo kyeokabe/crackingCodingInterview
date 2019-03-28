@@ -62,6 +62,7 @@
  [**69**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/69_Sqrt(x).cpp)
 
 [**70**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/70_ClimbingStairs.cpp)
+[**74**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/74_SearchA2DMatrix.cpp)
 
 [**88**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/88_MergeSortedArray.cpp)
 
@@ -324,4 +325,4 @@ a class type in the same class type seems unusual, but you can define a pointer 
 
 [LC 67 Add Binary](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/67_AddBinary.cpp)
 
-
+[LC 74 Search A 2D Matrix] (https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/74_SearchA2DMatrix.cpp) ... most likely didn't solve as intended (slow)
