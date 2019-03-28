@@ -20,6 +20,16 @@ public:
     
     int regularBinary(vector<int> &nums, target){
         int i=0;
+        count=-1;
+        while(nums[i]!=target){
+            if(nums[i]<target){
+                i=i+nums.size()*pow(2,count);
+                count--;
+            }
+            else
+                i=i-nums.size()*pow(2,count);
+        }
+        return 0;
         
     }
     
