@@ -76,6 +76,8 @@
 
 [**169**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/169_MajorityElement.cpp)
 
+[**701**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/701_InsertIntoABinarySearchTree.cpp)
+
 **2/26/19 ...**
 
 6.1 (heavy pill) ... Idea problem hard to think of. Interesting solution.
@@ -326,3 +328,5 @@ a class type in the same class type seems unusual, but you can define a pointer 
 [LC 67 Add Binary](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/67_AddBinary.cpp)
 
 [LC 74 Search A 2D Matrix] (https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/74_SearchA2DMatrix.cpp) ... most likely didn't solve as intended (slow)
+
+[LC 701 Insert Into A Binary Search Tree](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/701_InsertIntoABinarySearchTree.cpp)
