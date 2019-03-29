@@ -80,6 +80,7 @@
 
 [**669**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/669_TrimABinarySearchTree.cpp)
 
+[**700**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/700_SearchInABinarySearchTree.cpp)
 [**701**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/701_InsertIntoABinarySearchTree.cpp)
 
 **2/26/19 ...**
