@@ -53,6 +53,7 @@
 [**07**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/07_Reverse_Integer.cpp)
 [**09**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/09_PalindromeNumber.cpp)
 
+[**20**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/20_ValidParentheses.cpp)
 [**21**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/21_MergeTwoSortedLists.cpp)
 
 [**50**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/50_Pow(x%2Cn).cpp)
@@ -330,3 +331,5 @@ a class type in the same class type seems unusual, but you can define a pointer 
 [LC 74 Search A 2D Matrix] (https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/74_SearchA2DMatrix.cpp) ... most likely didn't solve as intended (slow)
 
 [LC 701 Insert Into A Binary Search Tree](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/701_InsertIntoABinarySearchTree.cpp)
+
+[LC 20 Valid Parentheses](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/20_ValidParentheses.cpp)
