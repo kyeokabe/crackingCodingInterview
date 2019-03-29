@@ -342,3 +342,5 @@ a class type in the same class type seems unusual, but you can define a pointer 
 [LC 23 Merge K Sorted Lists](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/23_MergeKSortedLists.cpp)
 
 [LC 669 Trim a Binary Search Tree](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/669_TrimABinarySearchTree.cpp)
+
+[LC 700 Search In A Binary Search Tree](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/700_SearchInABinarySearchTree.cpp)
