@@ -80,6 +80,7 @@
 
 [**173**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/173_BinarySearchTreeIterator.cpp)
 
+[**190**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/190_ReverseBits.cpp)
 [**191**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/191_NumberOf1Bits.cpp)
 
 [**344**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/344_ReverseString.cpp)
@@ -359,3 +360,6 @@ a class type in the same class type seems unusual, but you can define a pointer 
 [LC 173 Binary Search Tree Iterator](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/173_BinarySearchTreeIterator.cpp)
 
 [LC 344 Reverse String](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/344_ReverseString.cpp)
+
+
+[LC 190 Reverse Bits](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/190_ReverseBits.cpp)
