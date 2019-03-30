@@ -76,6 +76,8 @@
 [**101**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/101_Symmetric_Tree.cpp)
 [**104**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/104_MaximumDepthOfBinaryTree.cpp)
 
+[**136**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/136_SingleNumber.cpp)
+
 [**169**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/169_MajorityElement.cpp)
 
 [**173**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/173_BinarySearchTreeIterator.cpp)
