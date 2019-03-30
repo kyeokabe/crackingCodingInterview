@@ -363,3 +363,7 @@ a class type in the same class type seems unusual, but you can define a pointer 
 
 
 [LC 190 Reverse Bits](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/190_ReverseBits.cpp)
+
+**3/30/19**
+
+[LC 136 Single Number](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/136_SingleNumber.cpp) ... interesting problem. Sort of "need to know the trick prior" kind of problem.
