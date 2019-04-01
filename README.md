@@ -388,3 +388,5 @@ a class type in the same class type seems unusual, but you can define a pointer 
 **4/01/19**
 
 [LC 389 Find The Difference](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/389_FindTheDifference.cpp)
+
+[LC 412 Fizz Buzz]() 
