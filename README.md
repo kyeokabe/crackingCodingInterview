@@ -81,6 +81,7 @@
 [**136**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/136_SingleNumber.cpp)
 
 [**141**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/141_LinkedListCycle.cpp)
+[**144**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/144_BinaryTreePreOrderTraversal.cpp)
 
 [**160**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/160_IntersectionOfTwoLinkedLists.cpp)
 [**169**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/169_MajorityElement.cpp)
@@ -412,3 +413,5 @@ a class type in the same class type seems unusual, but you can define a pointer 
 [LC 709 To Lower Case](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/709_ToLowerCase.cpp)
 
 [LC 637 Average Of Levels In Binary Tree](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/637_AverageOfLevelsInBinaryTree.cpp) ... interesting problem. Worth revisiting. My initial thought was to first traverse and get the depth, then traverse again and if the depth matched for each level, get the sum of vals, then take the average.
+
+[LC 144 Binary Tree Preorder Traversal](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/144_BinaryTreePreOrderTraversal.cpp)
