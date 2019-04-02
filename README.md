@@ -425,4 +425,4 @@ a class type in the same class type seems unusual, but you can define a pointer 
 
 [LC 784 Minimum Distance Between BST Nodes](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/784_MinimumDistanceBetweenBSTNodes.cpp)
 
-[LC 199 Binary Tree Right Side View](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/199_BinaryTreeRightSideView.cpp) ... **using "get depth" function seems to be useful for several Binary Tree problems! Also, passing references often times seems to be a convenient way of dealing with binary tree problems.**
+[LC 199 Binary Tree Right Side View](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/199_BinaryTreeRightSideView.cpp) ... **using "get depth" function seems to be useful for several Binary Tree problems! Also, passing references often times seems to be a convenient way of dealing with binary tree problems.** This gives you a way to communicate between branches when using recurrsion.
