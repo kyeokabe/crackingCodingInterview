@@ -411,4 +411,4 @@ a class type in the same class type seems unusual, but you can define a pointer 
 
 [LC 709 To Lower Case](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/709_ToLowerCase.cpp)
 
-[LC 637 Average Of Levels In Binary Tree](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/637_AverageOfLevelsInBinaryTree.cpp)
+[LC 637 Average Of Levels In Binary Tree](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/637_AverageOfLevelsInBinaryTree.cpp) ... interesting problem. Worth revisiting. My initial thought was to first traverse and get the depth, then traverse again and if the depth matched for each level, get the sum of vals, then take the average.
