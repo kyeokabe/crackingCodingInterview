@@ -102,6 +102,8 @@
 [**700**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/700_SearchInABinarySearchTree.cpp)
 [**701**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/701_InsertIntoABinarySearchTree.cpp)
 
+[**896**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/896_MonotonicArray.cpp)
+
 **2/26/19 ...**
 
 6.1 (heavy pill) ... Idea problem hard to think of. Interesting solution.
@@ -396,3 +398,5 @@ a class type in the same class type seems unusual, but you can define a pointer 
 [LC 412 Fizz Buzz](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/412_FizzBuzz.cpp) 
 
 [LC 200 Number Of Islands](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/200_NumberOfIslands.cpp) ... very good problem. Revisit and do again! 
+
+[LC 896 Monotonic Array](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/896_MonotonicArray.cpp)
