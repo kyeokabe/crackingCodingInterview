@@ -92,6 +92,7 @@
 
 [**190**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/190_ReverseBits.cpp)
 [**191**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/191_NumberOf1Bits.cpp)
+[**198**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/198_HouseRobber.cpp)
 [**199**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/199_BinaryTreeRightSideView.cpp)
 
 [**200**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/200_NumberOfIslands.cpp)
@@ -438,5 +439,7 @@ a class type in the same class type seems unusual, but you can define a pointer 
 
 
 **04/03/2018**
+
+[LC 198 House Robber](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/198_HouseRobber.cpp) ... Interesting problem! Good for practicing DP (dynamic programming). Revisit if time permits! 
 
 [LC 520 Detect Capital](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/520_DetectCapital.cpp)
