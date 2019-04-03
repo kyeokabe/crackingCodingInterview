@@ -103,6 +103,7 @@
 [**412**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/412_FizzBuzz.cpp)
 
 [**513**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/513_FindBottomLeftTreeValue.cpp)
+[**520**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/520_DetectCapital.cpp)
 
 [**637**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/637_AverageOfLevelsInBinaryTree.cpp)
 [**669**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/669_TrimABinarySearchTree.cpp)
@@ -434,3 +435,8 @@ a class type in the same class type seems unusual, but you can define a pointer 
 [LC 121 Best Time to Sell and Buy Stock](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/121_BestTimeToBuyAndSellStock.cpp)
 
 [LC 1013 Partition Array Into Three Parts With Equal Sum](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1013_PartitionArrayIntoThreePartsWithEqualSum.cpp) ... there has got to be a cleaner way of doing this. Revisit if time permits.
+
+
+**04/03/2018**
+
+[LC 520 Detect Capital](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/520_DetectCapital.cpp)
