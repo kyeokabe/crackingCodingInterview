@@ -115,6 +115,8 @@
 
 [**896**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/896_MonotonicArray.cpp)
 
+[**1013**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1013_PartitionArrayIntoThreePartsWithEqualSum.cpp)
+
 **2/26/19 ...**
 
 6.1 (heavy pill) ... Idea problem hard to think of. Interesting solution.
@@ -430,3 +432,5 @@ a class type in the same class type seems unusual, but you can define a pointer 
 [LC 199 Binary Tree Right Side View](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/199_BinaryTreeRightSideView.cpp) ... **using "get depth" function seems to be useful for several Binary Tree problems! Also, passing references often times seems to be a convenient way of dealing with binary tree problems.** This gives you a way to "communicate" between branches when using recurrsion.
 
 [LC 121 Best Time to Sell and Buy Stock](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/121_BestTimeToBuyAndSellStock.cpp)
+
+[LC 1013 Partition Array Into Three Parts With Equal Sum](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1013_PartitionArrayIntoThreePartsWithEqualSum.cpp) ... there has got to be a cleaner way of doing this. Revisit if time permits.
