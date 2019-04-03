@@ -78,6 +78,8 @@
 [**101**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/101_Symmetric_Tree.cpp)
 [**104**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/104_MaximumDepthOfBinaryTree.cpp)
 
+[**121**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/121_BestTimeToBuyAndSellStock.cpp)
+
 [**136**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/136_SingleNumber.cpp)
 
 [**141**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/141_LinkedListCycle.cpp)
@@ -426,3 +428,5 @@ a class type in the same class type seems unusual, but you can define a pointer 
 [LC 784 Minimum Distance Between BST Nodes](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/784_MinimumDistanceBetweenBSTNodes.cpp)
 
 [LC 199 Binary Tree Right Side View](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/199_BinaryTreeRightSideView.cpp) ... **using "get depth" function seems to be useful for several Binary Tree problems! Also, passing references often times seems to be a convenient way of dealing with binary tree problems.** This gives you a way to "communicate" between branches when using recurrsion.
+
+[LC 121 Best Time to Sell and Buy Stock](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/121_BestTimeToBuyAndSellStock.cpp)
