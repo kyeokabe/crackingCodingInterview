@@ -117,6 +117,8 @@
 [**701**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/701_InsertIntoABinarySearchTree.cpp)
 [**709**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/709_ToLowerCase.cpp)
 
+[**779**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/779_KthSymbolInGrammar.cpp)
+
 [**784**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/784_MinimumDistanceBetweenBSTNodes.cpp)
 
 [**896**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/896_MonotonicArray.cpp)
@@ -454,4 +456,4 @@ a class type in the same class type seems unusual, but you can define a pointer 
 
 **04/04/2019**
 
-[LC 779 K-th Symbol in Grammar]()
+[LC 779 K-th Symbol in Grammar](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/779_KthSymbolInGrammar.cpp)
