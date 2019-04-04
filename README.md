@@ -451,3 +451,7 @@ a class type in the same class type seems unusual, but you can define a pointer 
 [LC 112 Path Sum](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/112_PathSum.cpp) 
 
 [LC 226 Invert Binary Tree](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/226_InvertBinaryTree.cpp)
+
+**04/04/2019**
+
+[LC 779 K-th Symbol in Grammar]()
