@@ -78,6 +78,8 @@
 [**101**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/101_Symmetric_Tree.cpp)
 [**104**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/104_MaximumDepthOfBinaryTree.cpp)
 
+[**112**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/112_PathSum.cpp)
+
 [**121**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/121_BestTimeToBuyAndSellStock.cpp)
 
 [**136**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/136_SingleNumber.cpp)
@@ -443,3 +445,5 @@ a class type in the same class type seems unusual, but you can define a pointer 
 [LC 198 House Robber](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/198_HouseRobber.cpp) ... Interesting problem! Good for practicing DP (dynamic programming). Revisit if time permits! 
 
 [LC 520 Detect Capital](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/520_DetectCapital.cpp)
+
+[LC 112 Path Sum](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/112_PathSum.cpp) 
