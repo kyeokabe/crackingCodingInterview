@@ -101,6 +101,8 @@
 
 [**226**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/226_InvertBinaryTree.cpp)
 
+[**230**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/230_KthSmallestElementInABST.cpp)
+
 [**242**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/242_ValidAnagram.cpp)
 
 [**344**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/344_ReverseString.cpp)
@@ -461,3 +463,5 @@ a class type in the same class type seems unusual, but you can define a pointer 
 [LC 779 K-th Symbol in Grammar](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/779_KthSymbolInGrammar.cpp)
 
 [LC 242 Valid Anagram](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/242_ValidAnagram.cpp) ... Easy problem. No need to repeat.
+
+[LC 230 Kth Smallest Element In A BST](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/230_KthSmallestElementInABST.cpp)
