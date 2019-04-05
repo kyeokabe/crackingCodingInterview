@@ -101,6 +101,8 @@
 
 [**226**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/226_InvertBinaryTree.cpp)
 
+[**242**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/242_ValidAnagram.cpp)
+
 [**344**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/344_ReverseString.cpp)
 
 [**389**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/389_FindTheDifference.cpp)
@@ -457,3 +459,5 @@ a class type in the same class type seems unusual, but you can define a pointer 
 **04/04/2019**
 
 [LC 779 K-th Symbol in Grammar](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/779_KthSymbolInGrammar.cpp)
+
+[LC 242 Valid Anagram](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/242_ValidAnagram.cpp) ... Easy problem. No need to repeat.
