@@ -449,7 +449,7 @@ a class type in the same class type seems unusual, but you can define a pointer 
 [LC 1013 Partition Array Into Three Parts With Equal Sum](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1013_PartitionArrayIntoThreePartsWithEqualSum.cpp) ... there has got to be a cleaner way of doing this. Revisit if time permits.
 
 
-**04/03/2018**
+**04/03/2019**
 
 [LC 198 House Robber](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/198_HouseRobber.cpp) ... Interesting problem! Good for practicing DP (dynamic programming). Revisit if time permits! 
 
@@ -468,3 +468,5 @@ a class type in the same class type seems unusual, but you can define a pointer 
 [LC 230 Kth Smallest Element In A BST](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/230_KthSmallestElementInABST.cpp)
 
 [LC 234 Palindrome Linked List](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/234_PalindromeLinkedList.cpp)
+
+**04/05/2019**
