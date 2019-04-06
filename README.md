@@ -101,6 +101,8 @@
 
 [**200**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/200_NumberOfIslands.cpp)
 
+[**217**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/217_ContainsDuplicate.cpp)
+
 [**226**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/226_InvertBinaryTree.cpp)
 
 [**230**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/230_KthSmallestElementInABST.cpp)
@@ -486,3 +488,5 @@ a class type in the same class type seems unusual, but you can define a pointer 
 [LC 86 Partition List](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/86_PartitionList.cpp)
 
 [LC 2 Add Two Numbers](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/2_AddTwoNumbers.cpp)
+
+[LC 217 Contains Duplicate](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/217_ContainsDuplicate.cpp) ... Easy, but make sure C++ map syntax is understood! (insert, find, itorator, etc)
