@@ -108,6 +108,8 @@
 
 [**344**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/344_ReverseString.cpp)
 
+[**367**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/367_ValidPerfectSquare.cpp)
+
 [**389**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/389_FindTheDifference.cpp)
 
 [**404**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/404_SumOfLeftLeaves.cpp)
@@ -474,3 +476,5 @@ a class type in the same class type seems unusual, but you can define a pointer 
 **04/05/2019**
 
 [LC 404 Sum Of Left Leaves](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/404_SumOfLeftLeaves.cpp)
+
+[LC 367 Valid Perfect Square](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/367_ValidPerfectSquare.cpp)
