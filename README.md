@@ -478,3 +478,6 @@ a class type in the same class type seems unusual, but you can define a pointer 
 [LC 404 Sum Of Left Leaves](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/404_SumOfLeftLeaves.cpp)
 
 [LC 367 Valid Perfect Square](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/367_ValidPerfectSquare.cpp)
+
+**04/06/2019**
+
