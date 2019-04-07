@@ -494,3 +494,5 @@ a class type in the same class type seems unusual, but you can define a pointer 
 [LC 217 Contains Duplicate](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/217_ContainsDuplicate.cpp) ... Easy, but make sure C++ map syntax is understood! (insert, find, itorator, etc)
 
 [LC 36 Valid Sudoku](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/36_ValidSudoku.cpp)
+
+**04/07/2019**
