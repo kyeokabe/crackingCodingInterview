@@ -60,6 +60,8 @@
 [**24**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/24_SwapNodesInPairs.cpp)
 [**27**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/27_RemoveElement.cpp)
 
+[**36**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/36_ValidSudoku.cpp)
+
 [**50**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/50_Pow(x%2Cn).cpp)
 
 [**66**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/66_PlusOne.cpp)
@@ -490,3 +492,5 @@ a class type in the same class type seems unusual, but you can define a pointer 
 [LC 2 Add Two Numbers](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/2_AddTwoNumbers.cpp)
 
 [LC 217 Contains Duplicate](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/217_ContainsDuplicate.cpp) ... Easy, but make sure C++ map syntax is understood! (insert, find, itorator, etc)
+
+[LC 36 Valid Sudoku](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/36_ValidSudoku.cpp)
