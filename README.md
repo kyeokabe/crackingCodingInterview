@@ -105,6 +105,7 @@
 
 [**200**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/200_NumberOfIslands.cpp)
 [**201**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/201_BitwiseANDofNumbersRange.cpp)
+[**202**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/202_HappyNumber.cpp)
 
 [**217**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/217_ContainsDuplicate.cpp)
 
@@ -514,3 +515,5 @@ no coding
 [LC 107 Binary Tree Level Order Traversal II](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/107_BinaryTreeLevelOrderTraversalII.cpp)
 
 [LC 201 Bitwise AND of Numbers Range](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/201_BitwiseANDofNumbersRange.cpp)
+
+[LC 202 Happy Number](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/202_HappyNumber.cpp)
