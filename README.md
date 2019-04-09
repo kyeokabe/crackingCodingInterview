@@ -89,6 +89,7 @@
 [**136**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/136_SingleNumber.cpp)
 
 [**141**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/141_LinkedListCycle.cpp)
+[**143**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/143_ReorderList.cpp)
 [**144**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/144_BinaryTreePreOrderTraversal.cpp)
 
 [**160**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/160_IntersectionOfTwoLinkedLists.cpp)
@@ -499,3 +500,5 @@ a class type in the same class type seems unusual, but you can define a pointer 
 no coding
 
 **04/08/2019**
+
+[LC 143 Reorder List](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/143_ReorderList.cpp)
