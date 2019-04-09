@@ -123,6 +123,8 @@
 
 [**412**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/412_FizzBuzz.cpp)
 
+[**496**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/496_NextGreaterElementI.cpp)
+
 [**513**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/513_FindBottomLeftTreeValue.cpp)
 [**520**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/520_DetectCapital.cpp)
 
@@ -502,3 +504,5 @@ no coding
 **04/08/2019**
 
 [LC 143 Reorder List](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/143_ReorderList.cpp)
+
+[LC 496 Next Greater Element I](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/496_NextGreaterElementI.cpp)
