@@ -526,4 +526,4 @@ no coding
 
 [LC 206 Reverse Linked List](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/206_ReverseLinkedList.cpp)
 
-[LC Best Time To Buy And Sell Stock II](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/122_BestTimeToBuyAndSellStockII.cpp)
+[LC Best Time To Buy And Sell Stock II](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/122_BestTimeToBuyAndSellStockII.cpp) ... should have realized the trick without looking at the solution!
