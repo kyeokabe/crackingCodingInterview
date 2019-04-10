@@ -118,6 +118,8 @@
 
 [**242**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/242_ValidAnagram.cpp)
 
+[**258**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/258_AddDigits.cpp)
+
 [**344**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/344_ReverseString.cpp)
 
 [**367**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/367_ValidPerfectSquare.cpp)
@@ -536,3 +538,5 @@ no coding
 [LC 876 Middle of the Linked List](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/876_MiddleOfTheLinkedList.cpp)
 
 [LC 766 Toeplitz Matrix](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/766_ToeplitzMatrix.cpp)
+
+[LC 258 Add Digits](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/258_AddDigits.cpp)
