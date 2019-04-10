@@ -137,6 +137,8 @@
 [**513**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/513_FindBottomLeftTreeValue.cpp)
 [**520**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/520_DetectCapital.cpp)
 
+[**566**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/566_ReshapeTheMatrix.cpp)
+
 [**637**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/637_AverageOfLevelsInBinaryTree.cpp)
 [**669**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/669_TrimABinarySearchTree.cpp)
 
@@ -555,3 +557,5 @@ no coding
 [LC 778 Swim in Rising Water](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/778_SwimInRisingWater.cpp)
 
 [LC 976 Largest Perimeter Triangle](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/976_LargestPerimeterTriangle.cpp)
+
+[LC 566 Reshape The Matrix](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/566_ReshapeTheMatrix.cpp)
