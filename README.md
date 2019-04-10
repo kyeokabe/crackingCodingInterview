@@ -150,6 +150,7 @@
 
 [**766**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/766_ToeplitzMatrix.cpp)
 
+[**771**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/771_JewelsAndStones.cpp)
 [**778**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/778_SwimInRisingWater.cpp)
 [**779**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/779_KthSymbolInGrammar.cpp)
 
@@ -559,3 +560,5 @@ no coding
 [LC 976 Largest Perimeter Triangle](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/976_LargestPerimeterTriangle.cpp)
 
 [LC 566 Reshape The Matrix](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/566_ReshapeTheMatrix.cpp)
+
+[LC 771 Jewels and Stones](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/771_JewelsAndStones.cpp) ... too easy. Do not revisit.
