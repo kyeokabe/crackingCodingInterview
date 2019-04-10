@@ -158,6 +158,8 @@
 
 [**938**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/938_RangeSumOfBST.cpp)
 
+[**976**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/976_LargestPerimeterTriangle.cpp)
+
 [**1013**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1013_PartitionArrayIntoThreePartsWithEqualSum.cpp)
 
 **2/26/19 ...**
@@ -551,3 +553,5 @@ no coding
 [LC 19 Remove Nth Node From End of List](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/19_RemoveNthNodeFromEndOfList.cpp)
 
 [LC 778 Swim in Rising Water](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/778_SwimInRisingWater.cpp)
+
+[LC 976 Largest Perimeter Triangle](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/976_LargestPerimeterTriangle.cpp)
