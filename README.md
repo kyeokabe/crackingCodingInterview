@@ -138,6 +138,8 @@
 [**637**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/637_AverageOfLevelsInBinaryTree.cpp)
 [**669**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/669_TrimABinarySearchTree.cpp)
 
+[**693**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/693_BinaryNumberWithAlternatingBits.cpp)
+
 [**700**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/700_SearchInABinarySearchTree.cpp)
 [**701**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/701_InsertIntoABinarySearchTree.cpp)
 [**709**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/709_ToLowerCase.cpp)
@@ -540,3 +542,5 @@ no coding
 [LC 766 Toeplitz Matrix](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/766_ToeplitzMatrix.cpp)
 
 [LC 258 Add Digits](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/258_AddDigits.cpp)
+
+[LC 693 Binary Number With Alternating Bits](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/693_BinaryNumberWithAlternatingBits.cpp)
