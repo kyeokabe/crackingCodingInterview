@@ -140,6 +140,8 @@
 [**701**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/701_InsertIntoABinarySearchTree.cpp)
 [**709**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/709_ToLowerCase.cpp)
 
+[**766**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/766_ToeplitzMatrix.cpp)
+
 [**779**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/779_KthSymbolInGrammar.cpp)
 
 [**784**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/784_MinimumDistanceBetweenBSTNodes.cpp)
@@ -532,3 +534,5 @@ no coding
 **04/10/2019**
 
 [LC 876 Middle of the Linked List](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/876_MiddleOfTheLinkedList.cpp)
+
+[LC 766 Toeplitz Matrix](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/766_ToeplitzMatrix.cpp)
