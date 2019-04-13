@@ -564,4 +564,6 @@ no coding
 [LC 771 Jewels and Stones](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/771_JewelsAndStones.cpp) ... too easy. Do not revisit.
 
 **04/11/2019**
+struggled on the A/B soup devide problem (LC 808). Have recursion solution, but not fast enough to pass the test. Will update the code Sat or Sun with dynamic programming.
 
+**04/12/2019**
