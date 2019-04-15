@@ -567,3 +567,9 @@ no coding
 struggled on the A/B soup devide problem (LC 808). Have recursion solution, but not fast enough to pass the test. Will update the code Sat or Sun with dynamic programming.
 
 **04/12/2019**
+
+**04/13/2019**
+
+**04/14/2019**
+
+
