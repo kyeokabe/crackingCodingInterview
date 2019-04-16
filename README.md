@@ -73,6 +73,7 @@
 [**70**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/70_ClimbingStairs.cpp)
 [**74**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/74_SearchA2DMatrix.cpp)
 
+[**83**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/83_RemoveDuplicatesFromSortedList.cpp)
 [**86**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/86_PartitionList.cpp)
 [**88**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/88_MergeSortedArray.cpp)
 
@@ -572,4 +573,6 @@ struggled on the A/B soup devide problem (LC 808). Have recursion solution, but 
 
 **04/14/2019**
 
+**04/15/2019**
 
+[LC 83 Remove Duplicates from Sorted List](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/83_RemoveDuplicatesFromSortedList.cpp)
