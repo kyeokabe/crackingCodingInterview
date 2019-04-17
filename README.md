@@ -162,6 +162,8 @@
 
 [**938**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/938_RangeSumOfBST.cpp)
 
+[**941**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/941_ValidMountainArray.cpp)
+
 [**976**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/976_LargestPerimeterTriangle.cpp)
 
 [**1013**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1013_PartitionArrayIntoThreePartsWithEqualSum.cpp)
@@ -581,4 +583,4 @@ struggled on the A/B soup devide problem (LC 808). Have recursion solution, but 
 
 **04/17/2019**
 
-[LC 941 Valid Mountain Array]()
+[LC 941 Valid Mountain Array](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/941_ValidMountainArray.cpp)
