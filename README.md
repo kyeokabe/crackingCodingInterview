@@ -578,3 +578,7 @@ struggled on the A/B soup devide problem (LC 808). Have recursion solution, but 
 **04/16/2019**
 
 [LC 83 Remove Duplicates from Sorted List](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/83_RemoveDuplicatesFromSortedList.cpp)
+
+**04/17/2019**
+
+[LC 941 Valid Mountain Array]()
