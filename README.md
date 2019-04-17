@@ -123,6 +123,8 @@
 
 [**258**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/258_AddDigits.cpp)
 
+[**328**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/328_OddEvenLinkedList.cpp)
+
 [**344**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/344_ReverseString.cpp)
 
 [**367**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/367_ValidPerfectSquare.cpp)
@@ -588,3 +590,5 @@ struggled on the A/B soup devide problem (LC 808). Have recursion solution, but 
 [LC 941 Valid Mountain Array](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/941_ValidMountainArray.cpp)
 
 [LC 1010 Pairs of Songs With Total Durations Divisible by 60](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1010_PairsOfSongsWithTotalDurationsDivisibleBy60.cpp)
+
+[LC 328 Odd Even Linked List](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/328_OddEvenLinkedList.cpp)
