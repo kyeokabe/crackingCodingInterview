@@ -66,6 +66,7 @@
 
 [**50**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/50_Pow(x%2Cn).cpp)
 
+[**61**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/61_RotateList.cpp)
 [**66**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/66_PlusOne.cpp)
  [**67**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/67_AddBinary.cpp)
  [**69**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/69_Sqrt(x).cpp)
@@ -592,3 +593,5 @@ struggled on the A/B soup devide problem (LC 808). Have recursion solution, but 
 [LC 1010 Pairs of Songs With Total Durations Divisible by 60](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1010_PairsOfSongsWithTotalDurationsDivisibleBy60.cpp)
 
 [LC 328 Odd Even Linked List](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/328_OddEvenLinkedList.cpp) ... good problem. Come back later.
+
+[LC 61 Rotate List](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/61_RotateList.cpp)
