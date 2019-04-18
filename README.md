@@ -74,6 +74,7 @@
 [**70**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/70_ClimbingStairs.cpp)
 [**74**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/74_SearchA2DMatrix.cpp)
 
+[**82**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/82_RemoveDuplicatesFromSortedListII.cpp)
 [**83**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/83_RemoveDuplicatesFromSortedList.cpp)
 [**86**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/86_PartitionList.cpp)
 [**88**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/88_MergeSortedArray.cpp)
@@ -598,3 +599,7 @@ struggled on the A/B soup devide problem (LC 808). Have recursion solution, but 
 [LC 61 Rotate List](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/61_RotateList.cpp)
 
 [LC 237 Delete Node in a Linked List](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/237_DeleteNodeInALinkedList.cpp)
+
+**04/18/2019**
+
+[LC 82 Remove Duplicates From Sorted Linked List II](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/82_RemoveDuplicatesFromSortedListII.cpp)
