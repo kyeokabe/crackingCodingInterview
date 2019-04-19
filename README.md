@@ -164,6 +164,8 @@
 
 [**784**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/784_MinimumDistanceBetweenBSTNodes.cpp)
 
+[**852**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/852_PeakIndexInAMountainArray.cpp)
+
 [**876**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/876_MiddleOfTheLinkedList.cpp)
 [**896**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/896_MonotonicArray.cpp)
 
@@ -607,3 +609,7 @@ struggled on the A/B soup devide problem (LC 808). Have recursion solution, but 
 [LC 82 Remove Duplicates From Sorted Linked List II](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/82_RemoveDuplicatesFromSortedListII.cpp)
 
 [LC 263 Ugly Number](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/263_UglyNumber.cpp)
+
+**04/19/2019**
+
+[LC 852 Peak Index In A Mountain Array](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/852_PeakIndexInAMountainArray.cpp)
