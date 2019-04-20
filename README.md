@@ -139,6 +139,7 @@
 
 [**377**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/377_CombinationSumIV.cpp)
 
+[**383**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/383_RansomNote.cpp)
 [**387**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/387_FirstUniqueCharacterInAString.cpp)
 [**389**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/389_FindTheDifference.cpp)
 
@@ -635,3 +636,5 @@ struggled on the A/B soup devide problem (LC 808). Have recursion solution, but 
 [LC 377 Combination Sum IV](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/377_CombinationSumIV.cpp)
 
 [LC 387 First Unique Character In a String](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/387_FirstUniqueCharacterInAString.cpp)
+
+[LC 383 Ransom Note](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/383_RansomNote.cpp)
