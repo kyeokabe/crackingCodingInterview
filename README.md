@@ -62,6 +62,7 @@
 [**24**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/24_SwapNodesInPairs.cpp)
 [**27**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/27_RemoveElement.cpp)
 
+[**35**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/35_InsertPosition.cpp)
 [**36**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/36_ValidSudoku.cpp)
 
 [**50**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/50_Pow(x%2Cn).cpp)
@@ -616,3 +617,5 @@ struggled on the A/B soup devide problem (LC 808). Have recursion solution, but 
 [LC 852 Peak Index In A Mountain Array](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/852_PeakIndexInAMountainArray.cpp)
 
 [LC 231 Power Of Two](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/231_PowerOfTwo.cpp)
+
+[LC 35 Search Insert Position](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/35_InsertPosition.cpp)
