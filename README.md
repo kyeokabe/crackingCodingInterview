@@ -632,3 +632,5 @@ struggled on the A/B soup devide problem (LC 808). Have recursion solution, but 
 **04/20/2019**
 
 [LC 377 Combination Sum IV](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/377_CombinationSumIV.cpp)
+
+[LC 387 First Unique Character In a String](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/387_FirstUniqueCharacterInAString.cpp)
