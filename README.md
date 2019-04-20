@@ -139,6 +139,7 @@
 
 [**377**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/377_CombinationSumIV.cpp)
 
+[**387**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/387_FirstUniqueCharacterInAString.cpp)
 [**389**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/389_FindTheDifference.cpp)
 
 [**404**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/404_SumOfLeftLeaves.cpp)
