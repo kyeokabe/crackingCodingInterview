@@ -90,6 +90,7 @@
 [**107**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/107_BinaryTreeLevelOrderTraversalII.cpp)
 
 [**112**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/112_PathSum.cpp)
+[**114**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/114_FlattenBinaryTreeToLinkedList.cpp)
 
 [**121**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/121_BestTimeToBuyAndSellStock.cpp)
 [**122**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/122_BestTimeToBuyAndSellStockII.cpp)
@@ -619,3 +620,5 @@ struggled on the A/B soup devide problem (LC 808). Have recursion solution, but 
 [LC 231 Power Of Two](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/231_PowerOfTwo.cpp)
 
 [LC 35 Search Insert Position](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/35_InsertPosition.cpp)
+
+[LC 114 Flatten Binary Tree to Linked List](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/114_FlattenBinaryTreeToLinkedList.cpp)
