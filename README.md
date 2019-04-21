@@ -132,6 +132,7 @@
 
 [**263**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/263_UglyNumber.cpp)
 
+[**326**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/326_PowerOfThree.cpp)
 [**328**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/328_OddEvenLinkedList.cpp)
 
 [**344**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/344_ReverseString.cpp)
@@ -651,3 +652,5 @@ struggled on the A/B soup devide problem (LC 808). Have recursion solution, but 
 [LC 821 Shortest Distance To A Character](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/821_ShortestDistanceToACharacter.cpp)
 
 [LC 905 Sort Array By Parity](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/905_SortArrayByParity.cpp)
+
+[LC 326 Power Of Three](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/326_PowerOfThree.cpp)
