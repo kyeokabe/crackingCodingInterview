@@ -174,6 +174,8 @@
 
 [**784**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/784_MinimumDistanceBetweenBSTNodes.cpp)
 
+[**821**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/821_ShortestDistanceToACharacter.cpp)
+
 [**852**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/852_PeakIndexInAMountainArray.cpp)
 
 [**876**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/876_MiddleOfTheLinkedList.cpp)
@@ -641,3 +643,7 @@ struggled on the A/B soup devide problem (LC 808). Have recursion solution, but 
 [LC 383 Ransom Note](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/383_RansomNote.cpp)
 
 [LC 97 Interleaving String](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/97_InterleavingString.cpp)
+
+**04/21/2019**
+
+[LC 821 Shortest Distance To A Character](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/821_ShortestDistanceToACharacter.cpp)
