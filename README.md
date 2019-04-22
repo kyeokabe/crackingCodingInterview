@@ -132,6 +132,8 @@
 
 [**263**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/263_UglyNumber.cpp)
 
+[**319**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/319_BulbSwitcher.cpp)
+
 [**326**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/326_PowerOfThree.cpp)
 [**328**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/328_OddEvenLinkedList.cpp)
 
@@ -666,3 +668,5 @@ struggled on the A/B soup devide problem (LC 808). Have recursion solution, but 
 **04/22/2019**
 
 [LC 349 Intersection of Two Arrays](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/349_IntersectionOfTwoArrays.cpp)
+
+[LC 319 Bulb Switcher](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/319_BulbSwitcher.cpp)
