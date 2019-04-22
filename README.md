@@ -136,6 +136,7 @@
 [**328**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/328_OddEvenLinkedList.cpp)
 
 [**344**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/344_ReverseString.cpp)
+[**349**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/349_IntersectionOfTwoArrays.cpp)
 
 [**367**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/367_ValidPerfectSquare.cpp)
 
@@ -661,3 +662,7 @@ struggled on the A/B soup devide problem (LC 808). Have recursion solution, but 
 [LC 931 Minimum Falling Path Sum](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/931_MinimumFallingPathSum.cpp)
 
 [LC 912 Sort An Array](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/912_SortAnArray.cpp)
+
+**04/22/2019**
+
+[LC 349 Intersection of Two Arrays](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/349_IntersectionOfTwoArrays.cpp)
