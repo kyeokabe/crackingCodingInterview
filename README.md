@@ -184,6 +184,7 @@
 
 [**905**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/905_SortArrayByParity.cpp)
 
+[**931**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/931_MinimumFallingPathSum.cpp)
 [**938**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/938_RangeSumOfBST.cpp)
 
 [**941**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/941_ValidMountainArray.cpp)
@@ -654,3 +655,5 @@ struggled on the A/B soup devide problem (LC 808). Have recursion solution, but 
 [LC 905 Sort Array By Parity](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/905_SortArrayByParity.cpp)
 
 [LC 326 Power Of Three](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/326_PowerOfThree.cpp)
+
+[LC 931 Minimum Falling Path Sum](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/931_MinimumFallingPathSum.cpp)
