@@ -1,52 +1,3 @@
-**Cracking The Coding Interview**
-
-**Ch 1 (Arrays and Strings)...**
-[**1**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch1/1.1_IsUnique.cpp)
-[**2**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch1/1.2_CheckPermutation.cpp)
-[**7**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch1/1.7_RotateMatrix.cpp) 
-[**8**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch1/1.8_ZeroMatrix.cpp)
-
-**Ch 2 (Linked Lists)...**
-[**1**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch2/2.1_RemoveDups.cpp)
-[**2**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch2/2.2_ReturnKthtoLast.cpp)
-[**6**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch2/2.6_Palindrome.cpp)
-[**8**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch2/2.8_LoopDetection.cpp) (incomplete)
-
-**Ch 3 (Stacks and Queues)...**
-[**2**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch3/3.2_StackMin_INCOMPLETE.cpp) (incomplete) 
-[**3**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch3/3.3_StackOfPlates.cpp)
-[**4**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch3/3.4_QueueViaStacks.cpp)
-
-**Ch 4 (Trees and Graphs)...**
-
-**Ch 5 (Bit Manipulation)...**
-[**2**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch5/5.2_BanaryToString.cpp)
-[**4**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch5/5.4_NextNumber.cpp)
-[**5**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch5/5.5_Debugger.cpp)
-[**6**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch5/5.6_Conversion.cpp)
-[**7**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch5/5.7_incomplete.cpp)
-
-**Ch 6 (Math and Logic Puzzles)... 1 2 3 4 6 9 10** (not really coding problems)
-
-**Ch 7 (Object-Oriented Design)...**
-
-**Ch 8 (Recursion and Dynamic Programming)...**
-[**1**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch8/8.1_TripleStep.cpp)
-[**2**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch8/8.2_RobotGrid.cpp)
-[**3**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch8/8.3_Magic_Index.cpp)
-[**5**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch8/8.5_RecursiveMultiply.cpp)
-[**7**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch8/8.7_permutations_without_dups.cpp)
-[**8**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch8/8.8_permutations_with_dups.cpp) 
-[**9**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch8/8.9_Parens.cpp)
-
-**Ch 9 (System Design and Scalability)...**
-
-**Ch 10 (Sorting and Searching)...**
-
-**Ch 16 (Moderate)...**
-[**1**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch16/16.1_Number_Swap.cpp)
-[**10**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch16/16.10_LivingPeople.cpp)
-  
 
 **Leet Code**
 
@@ -202,6 +153,58 @@
 [**1013**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1013_PartitionArrayIntoThreePartsWithEqualSum.cpp)
 
 [**1022**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1022_SumOfRootToLeafBinaryNumbers.cpp)
+
+
+**Cracking The Coding Interview**
+
+**Ch 1 (Arrays and Strings)...**
+[**1**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch1/1.1_IsUnique.cpp)
+[**2**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch1/1.2_CheckPermutation.cpp)
+[**7**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch1/1.7_RotateMatrix.cpp) 
+[**8**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch1/1.8_ZeroMatrix.cpp)
+
+**Ch 2 (Linked Lists)...**
+[**1**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch2/2.1_RemoveDups.cpp)
+[**2**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch2/2.2_ReturnKthtoLast.cpp)
+[**6**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch2/2.6_Palindrome.cpp)
+[**8**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch2/2.8_LoopDetection.cpp) (incomplete)
+
+**Ch 3 (Stacks and Queues)...**
+[**2**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch3/3.2_StackMin_INCOMPLETE.cpp) (incomplete) 
+[**3**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch3/3.3_StackOfPlates.cpp)
+[**4**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch3/3.4_QueueViaStacks.cpp)
+
+**Ch 4 (Trees and Graphs)...**
+
+**Ch 5 (Bit Manipulation)...**
+[**2**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch5/5.2_BanaryToString.cpp)
+[**4**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch5/5.4_NextNumber.cpp)
+[**5**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch5/5.5_Debugger.cpp)
+[**6**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch5/5.6_Conversion.cpp)
+[**7**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch5/5.7_incomplete.cpp)
+
+**Ch 6 (Math and Logic Puzzles)... 1 2 3 4 6 9 10** (not really coding problems)
+
+**Ch 7 (Object-Oriented Design)...**
+
+**Ch 8 (Recursion and Dynamic Programming)...**
+[**1**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch8/8.1_TripleStep.cpp)
+[**2**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch8/8.2_RobotGrid.cpp)
+[**3**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch8/8.3_Magic_Index.cpp)
+[**5**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch8/8.5_RecursiveMultiply.cpp)
+[**7**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch8/8.7_permutations_without_dups.cpp)
+[**8**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch8/8.8_permutations_with_dups.cpp) 
+[**9**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch8/8.9_Parens.cpp)
+
+**Ch 9 (System Design and Scalability)...**
+
+**Ch 10 (Sorting and Searching)...**
+
+**Ch 16 (Moderate)...**
+[**1**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch16/16.1_Number_Swap.cpp)
+[**10**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/ch16/16.10_LivingPeople.cpp)
+  
+
 
 **2/26/19 ...**
 
