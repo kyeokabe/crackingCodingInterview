@@ -675,4 +675,5 @@ struggled on the A/B soup devide problem (LC 808). Have recursion solution, but 
 [LC 111 Minimum Depth Of Binary Tree](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/311_MinimumDepthOfBinaryTree.cpp)
 
 **04/23/2019**
+
 [LC 1008 Construct Binary Search Tree from Preorder Traversal](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1008_ConstructBinatySearchTreeFromPreorderTraversal.cpp)
