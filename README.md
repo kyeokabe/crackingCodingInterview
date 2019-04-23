@@ -197,8 +197,8 @@
 
 [**976**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/976_LargestPerimeterTriangle.cpp)
 
+[**1008**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1008_ConstructBinatySearchTreeFromPreorderTraversal.cpp)
 [**1010**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1010_PairsOfSongsWithTotalDurationsDivisibleBy60.cpp)
-
 [**1013**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1013_PartitionArrayIntoThreePartsWithEqualSum.cpp)
 
 **2/26/19 ...**
@@ -673,3 +673,6 @@ struggled on the A/B soup devide problem (LC 808). Have recursion solution, but 
 [LC 319 Bulb Switcher](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/319_BulbSwitcher.cpp)
 
 [LC 111 Minimum Depth Of Binary Tree](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/311_MinimumDepthOfBinaryTree.cpp)
+
+**04/23/2019**
+[LC 1008 Construct Binary Search Tree from Preorder Traversal](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1008_ConstructBinatySearchTreeFromPreorderTraversal.cpp)
