@@ -201,6 +201,8 @@
 [**1010**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1010_PairsOfSongsWithTotalDurationsDivisibleBy60.cpp)
 [**1013**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1013_PartitionArrayIntoThreePartsWithEqualSum.cpp)
 
+[**1022**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1022_SumOfRootToLeafBinaryNumbers.cpp)
+
 **2/26/19 ...**
 
 6.1 (heavy pill) ... Idea problem hard to think of. Interesting solution.
@@ -677,3 +679,5 @@ struggled on the A/B soup devide problem (LC 808). Have recursion solution, but 
 **04/23/2019**
 
 [LC 1008 Construct Binary Search Tree from Preorder Traversal](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1008_ConstructBinatySearchTreeFromPreorderTraversal.cpp)
+
+[LC 1022 Sum of Root To Leaf Binary Numbers](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1022_SumOfRootToLeafBinaryNumbers.cpp)
