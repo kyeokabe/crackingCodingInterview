@@ -132,6 +132,7 @@
 
 [**263**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/263_UglyNumber.cpp)
 
+[**311**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/311_MinimumDepthOfBinaryTree.cpp)
 [**319**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/319_BulbSwitcher.cpp)
 
 [**326**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/326_PowerOfThree.cpp)
@@ -671,4 +672,4 @@ struggled on the A/B soup devide problem (LC 808). Have recursion solution, but 
 
 [LC 319 Bulb Switcher](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/319_BulbSwitcher.cpp)
 
-[LC 111 Minimum Depth Of Binary Tree)
+[LC 111 Minimum Depth Of Binary Tree](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/311_MinimumDepthOfBinaryTree.cpp)
