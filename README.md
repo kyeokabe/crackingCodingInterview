@@ -147,6 +147,8 @@
 
 [**976**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/976_LargestPerimeterTriangle.cpp)
 
+[**1006**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1006_ClumsyFactorial.cpp)
+
 [**1008**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1008_ConstructBinatySearchTreeFromPreorderTraversal.cpp)
 [**1010**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1010_PairsOfSongsWithTotalDurationsDivisibleBy60.cpp)
 [**1013**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1013_PartitionArrayIntoThreePartsWithEqualSum.cpp)
@@ -687,3 +689,5 @@ struggled on the A/B soup devide problem (LC 808). Have recursion solution, but 
 **04/24/2019**
 
 [LC 1023 Camel Case Matching](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1023_CamelcaseMatching.cpp)
+
+[LC 1006 Clumsy Factorial](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1006_ClumsyFactorial.cpp)
