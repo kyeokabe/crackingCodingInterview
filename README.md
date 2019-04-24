@@ -1,3 +1,5 @@
+https://github.com/kyeokabe/crackingCodingInterview/blob/master/pictures/4_24_2019_stats.png
+
 **Leet Code**
 
 [**2**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/2_AddTwoNumbers.cpp)
