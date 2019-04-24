@@ -108,11 +108,13 @@
 [**496**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/496_NextGreaterElementI.cpp)
 
 [**513**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/513_FindBottomLeftTreeValue.cpp)
+
 [**520**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/520_DetectCapital.cpp)
 
 [**566**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/566_ReshapeTheMatrix.cpp)
 
 [**637**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/637_AverageOfLevelsInBinaryTree.cpp)
+
 [**669**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/669_TrimABinarySearchTree.cpp)
 
 [**693**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/693_BinaryNumberWithAlternatingBits.cpp)
@@ -134,6 +136,7 @@
 [**852**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/852_PeakIndexInAMountainArray.cpp)
 
 [**876**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/876_MiddleOfTheLinkedList.cpp)
+
 [**896**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/896_MonotonicArray.cpp)
 
 [**905**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/905_SortArrayByParity.cpp)
@@ -148,7 +151,6 @@
 [**976**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/976_LargestPerimeterTriangle.cpp)
 
 [**1006**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1006_ClumsyFactorial.cpp)
-
 [**1008**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1008_ConstructBinatySearchTreeFromPreorderTraversal.cpp)
 [**1010**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1010_PairsOfSongsWithTotalDurationsDivisibleBy60.cpp)
 [**1013**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1013_PartitionArrayIntoThreePartsWithEqualSum.cpp)
