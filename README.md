@@ -683,3 +683,6 @@ struggled on the A/B soup devide problem (LC 808). Have recursion solution, but 
 [LC 1008 Construct Binary Search Tree from Preorder Traversal](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1008_ConstructBinatySearchTreeFromPreorderTraversal.cpp)
 
 [LC 1022 Sum of Root To Leaf Binary Numbers](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1022_SumOfRootToLeafBinaryNumbers.cpp)
+
+**04/24/2019**
+
