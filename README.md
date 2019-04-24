@@ -161,6 +161,7 @@ LeetCode Progress as of 4/24/2019:
 
 [**1022**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1022_SumOfRootToLeafBinaryNumbers.cpp)
 [**1023**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1023_CamelcaseMatching.cpp)
+[**1026**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1026_MaxDifferenceBetweenNodeAndAncestor.cpp)
 
 **Cracking The Coding Interview**
 
@@ -697,3 +698,5 @@ struggled on the A/B soup devide problem (LC 808). Have recursion solution, but 
 [LC 1023 Camel Case Matching](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1023_CamelcaseMatching.cpp)
 
 [LC 1006 Clumsy Factorial](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1006_ClumsyFactorial.cpp)
+
+[LC 1026 Maximum Difference Between Node and Ancestor](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1026_MaxDifferenceBetweenNodeAndAncestor.cpp)
