@@ -119,6 +119,8 @@ LeetCode Progress as of 4/24/2019:
 
 [**637**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/637_AverageOfLevelsInBinaryTree.cpp)
 
+[**654**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/654_MaximumBinaryTree.cpp)
+
 [**669**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/669_TrimABinarySearchTree.cpp)
 
 [**693**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/693_BinaryNumberWithAlternatingBits.cpp)
@@ -714,3 +716,5 @@ struggled on the A/B soup devide problem (LC 808). Have recursion solution, but 
 [LC 867 Transpose Matrix](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/867_TransposeMatrix.cpp)
 
 [LC 817 Linked List Components](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/817_LinkedListComponents.cpp)
+
+[LC 654 Maximum Binary Tree](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/654_MaximumBinaryTree.cpp)
