@@ -110,6 +110,7 @@
 
 [**412**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/412_FizzBuzz.cpp)
 
+[**442**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/442_FindAllDuplicatesInAnArray.cpp)
 [**445**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/445_AddTwoNumbersII.cpp)
 
 [**476**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/476_NumberCompliment.cpp)
@@ -733,3 +734,5 @@ struggled on the A/B soup devide problem (LC 808). Have recursion solution, but 
 [LC 268 Missing Number](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/268_MissingNumber.cpp)
 
 [LC Add Two Numbers II](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/445_AddTwoNumbersII.cpp)
+
+[LC Find All Duplicates In An Array](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/442_FindAllDuplicatesInAnArray.cpp)
