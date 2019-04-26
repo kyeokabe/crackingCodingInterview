@@ -1,4 +1,4 @@
-LeetCode Progress as of 4/24/2019:
+**LeetCode Progress as of 4/26/2019:**
 
 ![alt text](https://github.com/kyeokabe/crackingCodingInterview/blob/master/pictures/4_26_2019_stats.png)
 
