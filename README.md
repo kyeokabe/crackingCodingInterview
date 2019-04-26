@@ -50,6 +50,7 @@ LeetCode Progress as of 4/24/2019:
 
 [**121**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/121_BestTimeToBuyAndSellStock.cpp)
 [**122**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/122_BestTimeToBuyAndSellStockII.cpp)
+[**129**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/129_SumRootToLeafNumbers.cpp)
 
 [**136**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/136_SingleNumber.cpp)
 
@@ -721,3 +722,5 @@ struggled on the A/B soup devide problem (LC 808). Have recursion solution, but 
 [LC 654 Maximum Binary Tree](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/654_MaximumBinaryTree.cpp)
 
 [LC 118 Pascal's Triangle](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/118_PascalsTriangle.cpp)
+
+[LC 129 Sum Root to Leaf Numbers](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/129_SumRootToLeafNumbers.cpp)
