@@ -87,6 +87,7 @@
 [**258**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/258_AddDigits.cpp)
 
 [**263**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/263_UglyNumber.cpp)
+[**268**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/268_MissingNumber.cpp)
 
 [**311**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/311_MinimumDepthOfBinaryTree.cpp)
 [**319**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/319_BulbSwitcher.cpp)
@@ -724,3 +725,7 @@ struggled on the A/B soup devide problem (LC 808). Have recursion solution, but 
 [LC 118 Pascal's Triangle](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/118_PascalsTriangle.cpp)
 
 [LC 129 Sum Root to Leaf Numbers](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/129_SumRootToLeafNumbers.cpp)
+
+**04/26/2019**
+
+[LC 268 Missing Number](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/268_MissingNumber.cpp)
