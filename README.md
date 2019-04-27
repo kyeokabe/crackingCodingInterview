@@ -735,8 +735,8 @@ struggled on the A/B soup devide problem (LC 808). Have recursion solution, but 
 
 [LC 268 Missing Number](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/268_MissingNumber.cpp)
 
-[LC Add Two Numbers II](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/445_AddTwoNumbersII.cpp)
+[LC 445 Add Two Numbers II](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/445_AddTwoNumbersII.cpp)
 
-[LC Find All Duplicates In An Array](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/442_FindAllDuplicatesInAnArray.cpp)
+[LC 442 Find All Duplicates In An Array](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/442_FindAllDuplicatesInAnArray.cpp)
 
-[LC N-ary Tree Preorder Traversal](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/589_NaryTreePreorderTraversal.cpp)
+[LC 589 N-ary Tree Preorder Traversal](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/589_NaryTreePreorderTraversal.cpp)
