@@ -123,6 +123,8 @@
 
 [**566**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/566_ReshapeTheMatrix.cpp)
 
+[**589**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/589_NaryTreePreorderTraversal.cpp)
+
 [**637**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/637_AverageOfLevelsInBinaryTree.cpp)
 
 [**654**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/654_MaximumBinaryTree.cpp)
@@ -736,3 +738,5 @@ struggled on the A/B soup devide problem (LC 808). Have recursion solution, but 
 [LC Add Two Numbers II](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/445_AddTwoNumbersII.cpp)
 
 [LC Find All Duplicates In An Array](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/442_FindAllDuplicatesInAnArray.cpp)
+
+[LC N-ary Tree Preorder Traversal](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/589_NaryTreePreorderTraversal.cpp)
