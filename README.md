@@ -81,6 +81,7 @@
 
 [**217**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/217_ContainsDuplicate.cpp)
 
+[**222**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/222_CountCompleteTreeNodes.cpp)
 [**226**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/226_InvertBinaryTree.cpp)
 
 [**230**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/230_KthSmallestElementInABST.cpp)
@@ -765,3 +766,5 @@ struggled on the A/B soup devide problem (LC 808). Have recursion solution, but 
 [LC 119 Pascal's Triangle II](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/119_PascalsTriangleII.cpp)
 
 [LC 189 Rotate Array](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/189_RotateArray.cpp)
+
+LC 222 Count Complete Tree Nodes](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/222_CountCompleteTreeNodes.cpp)
