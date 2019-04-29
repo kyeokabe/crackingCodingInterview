@@ -783,4 +783,4 @@ struggled on the A/B soup devide problem (LC 808). Have recursion solution, but 
 
 [LC 670 Maximum Swap](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/670_MaximumSwap.cpp) ... revisit again!
 
-[LC 1014 Best Sightseeing Pair](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1014_BestSightseeingPair.cpp)
+[LC 1014 Best Sightseeing Pair](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1014_BestSightseeingPair.cpp) ... **technique** ... when maximizing a value w multiple components (e.g., A(i)+i+A(j)-j), think if the components can be split up and calculated separately to simplify the problem.
