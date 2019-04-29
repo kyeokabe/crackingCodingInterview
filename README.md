@@ -102,6 +102,7 @@
 [**326**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/326_PowerOfThree.cpp)
 [**328**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/328_OddEvenLinkedList.cpp)
 
+[**342**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/342_PowerOfFour.cpp)
 [**344**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/344_ReverseString.cpp)
 [**349**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/349_IntersectionOfTwoArrays.cpp)
 
@@ -767,4 +768,6 @@ struggled on the A/B soup devide problem (LC 808). Have recursion solution, but 
 
 [LC 189 Rotate Array](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/189_RotateArray.cpp)
 
-LC 222 Count Complete Tree Nodes](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/222_CountCompleteTreeNodes.cpp)
+[LC 222 Count Complete Tree Nodes](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/222_CountCompleteTreeNodes.cpp)
+
+[LC 342 Power of Four](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/342_PowerOfFour.cpp)
