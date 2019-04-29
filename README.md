@@ -125,6 +125,8 @@
 
 [**496**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/496_NextGreaterElementI.cpp)
 
+[**504**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/504_Base7.cpp)
+
 [**513**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/513_FindBottomLeftTreeValue.cpp)
 [**515**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/515_FindLargestValueInEachTreeRow.cpp)
 
@@ -771,3 +773,7 @@ struggled on the A/B soup devide problem (LC 808). Have recursion solution, but 
 [LC 222 Count Complete Tree Nodes](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/222_CountCompleteTreeNodes.cpp)
 
 [LC 342 Power of Four](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/342_PowerOfFour.cpp)
+
+**04/29/2019**
+
+[LC 504 Base 7](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/504_Base7.cpp)
