@@ -91,6 +91,7 @@
 
 [**242**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/242_ValidAnagram.cpp)
 
+[**257**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/257_BinaryTreePaths.cpp)
 [**258**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/258_AddDigits.cpp)
 
 [**263**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/263_UglyNumber.cpp)
@@ -796,3 +797,5 @@ for (int i=0;i<SIZE;i++)
     odd += num[i]&1; // sums number of odd components
 ```
 ...Revisit again later!
+
+[LC 257 Binary Tree Paths](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/257_BinaryTreePaths.cpp)
