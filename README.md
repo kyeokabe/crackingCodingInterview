@@ -115,6 +115,7 @@
 [**389**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/389_FindTheDifference.cpp)
 
 [**404**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/404_SumOfLeftLeaves.cpp)
+[**409**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/409_LongestPalindrome.cpp)
 
 [**412**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/412_FizzBuzz.cpp)
 
@@ -784,3 +785,14 @@ struggled on the A/B soup devide problem (LC 808). Have recursion solution, but 
 [LC 670 Maximum Swap](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/670_MaximumSwap.cpp) ... Revisit again later!
 
 [LC 1014 Best Sightseeing Pair](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1014_BestSightseeingPair.cpp) ... **technique**  when maximizing a value w multiple components (e.g., A(i)+i+A(j)-j), think if the components can be split up and calculated separately to simplify the problem. Revisit again later!
+
+[LC 409](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/409_LongestPalindrome.cpp) ... **technique** 
+```
+count(s.begin(),s.end(),c) //counts num of char c in string s
+```
+```
+int odd=0;
+for (int i=0;i<SIZE;i++)
+    odd += num[i]&1; // sums number of odd components
+```
+...Revisit again later!
