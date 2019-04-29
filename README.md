@@ -799,3 +799,11 @@ for (int i=0;i<SIZE;i++)
 ...Revisit again later!
 
 [LC 257 Binary Tree Paths](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/257_BinaryTreePaths.cpp)
+
+**syntax**
+to convert int to string...
+
+```
+int foo=425;
+string s=to_string(foo);
+```
