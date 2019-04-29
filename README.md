@@ -142,6 +142,8 @@
 
 [**669**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/669_TrimABinarySearchTree.cpp)
 
+[**670**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/670_MaximumSwap.cpp)
+
 [**693**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/693_BinaryNumberWithAlternatingBits.cpp)
 
 [**700**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/700_SearchInABinarySearchTree.cpp)
@@ -777,3 +779,5 @@ struggled on the A/B soup devide problem (LC 808). Have recursion solution, but 
 **04/29/2019**
 
 [LC 504 Base 7](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/504_Base7.cpp)
+
+[LC 670 Maximum Swap](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/670_MaximumSwap.cpp) ... revisit again!
