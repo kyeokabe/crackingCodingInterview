@@ -179,6 +179,7 @@
 [**876**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/876_MiddleOfTheLinkedList.cpp)
 
 [**896**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/896_MonotonicArray.cpp)
+[**897**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/897_IncreasingOrderSearchTree.cpp)
 
 [**905**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/905_SortArrayByParity.cpp)
 
@@ -830,3 +831,5 @@ if(a&b) //unintuitively, this line returns true if any "1" bit(s) of a and b are
 [LC 628 Maximum Product of Three Numbers](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/628_MaximumProductOfThreeNumbers.cpp)
 
 [LC 492 Construct the Rectangle](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/492_ConstructTheRectangle.cpp)
+
+[LC 897 Increasing Order Search Tree](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/897_IncreasingOrderSearchTree.cpp)
