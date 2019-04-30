@@ -139,6 +139,8 @@
 
 [**589**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/589_NaryTreePreorderTraversal.cpp)
 
+[**628**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/628_MaximumProductOfThreeNumbers.cpp)
+
 [**637**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/637_AverageOfLevelsInBinaryTree.cpp)
 
 [**654**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/654_MaximumBinaryTree.cpp)
@@ -824,3 +826,4 @@ int b=8+2;
 if(a&b) //unintuitively, this line returns true if any "1" bit(s) of a and b are common.
   cout<<"foo"<<endl; // foo will be outputted
 ```
+[LC 628 Maximum Product of Three Numbers](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/628_MaximumProductOfThreeNumbers.cpp)
