@@ -126,6 +126,7 @@
 
 [**476**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/476_NumberCompliment.cpp)
 
+[**492**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/492_ConstructTheRectangle.cpp)
 [**496**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/496_NextGreaterElementI.cpp)
 
 [**504**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/504_Base7.cpp)
@@ -827,3 +828,5 @@ if(a&b) //unintuitively, this line returns true if any "1" bit(s) of a and b are
   cout<<"foo"<<endl; // foo will be outputted
 ```
 [LC 628 Maximum Product of Three Numbers](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/628_MaximumProductOfThreeNumbers.cpp)
+
+[LC 492 Construct the Rectangle](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/492_ConstructTheRectangle.cpp)
