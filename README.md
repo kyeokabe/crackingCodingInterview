@@ -94,6 +94,7 @@
 [**257**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/257_BinaryTreePaths.cpp)
 [**258**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/258_AddDigits.cpp)
 
+[**260**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/260_SingleNumberIII.cpp)
 [**263**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/263_UglyNumber.cpp)
 [**268**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/268_MissingNumber.cpp)
 
@@ -806,4 +807,20 @@ to convert int to string...
 ```
 int foo=425;
 string s=to_string(foo);
+```
+
+**04/30/2019**
+
+[LC 260 Single Number III](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/260_SingleNumberIII.cpp) ... **techniques**
+
+```
+int k=632;
+k=k&(-k); //returns least common "1" bit which is 8.
+```
+
+```
+int a=8;
+int b=8+2;
+if(a&b) //unintuitively, this line returns true if any "1" bit(s) of a and b are common.
+  cout<<"foo"<<endl; // foo will be outputted
 ```
