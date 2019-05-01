@@ -1,6 +1,7 @@
 **LeetCode Progress as of 4/29/2019:**
 
 ![alt text](https://github.com/kyeokabe/crackingCodingInterview/blob/master/pictures/4_29_2019_stats.png)
+![alt text](https://github.com/kyeokabe/crackingCodingInterview/blob/master/pictures/LCrank_5_1_2019.png)
 
 **Leet Code**
 
