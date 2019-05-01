@@ -28,6 +28,7 @@
 
 [**70**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/70_ClimbingStairs.cpp)
 [**74**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/74_SearchA2DMatrix.cpp)
+[**78**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/78_Subsets.cpp)
 
 [**82**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/82_RemoveDuplicatesFromSortedListII.cpp)
 [**83**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/83_RemoveDuplicatesFromSortedList.cpp)
@@ -845,3 +846,5 @@ if(a&b) //unintuitively, this line returns true if any "1" bit(s) of a and b are
 [LC 747 Largest Number At Least Twice Of Others](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/747_LargestNumberAtLeastTwiceOfOthers.cpp)
 
 [LC 461 Hamming Distance](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/461_HammingDistance.cpp)
+
+[LC 78 Subsets](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/78_Subsets.cpp)
