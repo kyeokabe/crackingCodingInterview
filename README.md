@@ -840,4 +840,4 @@ if(a&b) //unintuitively, this line returns true if any "1" bit(s) of a and b are
 
 [LC 623 Add One Row to Tree](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/623_AddOneRowToTree.cpp)
 
-[LC 747 Largest Number At Least Twice Of Others]9https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/747_LargestNumberAtLeastTwiceOfOthers.cpp)
+[LC 747 Largest Number At Least Twice Of Others](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/747_LargestNumberAtLeastTwiceOfOthers.cpp)
