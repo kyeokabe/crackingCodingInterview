@@ -55,6 +55,7 @@
 
 [**121**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/121_BestTimeToBuyAndSellStock.cpp)
 [**122**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/122_BestTimeToBuyAndSellStockII.cpp)
+[**125**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/125_ValidPalindrome.cpp)
 [**129**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/129_SumRootToLeafNumbers.cpp)
 
 [**136**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/136_SingleNumber.cpp)
@@ -854,3 +855,7 @@ if(a&b) //unintuitively, this line returns true if any "1" bit(s) of a and b are
 **05/01/2019**
 
 [LC 917 Reverse Only Letters](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/917_ReverseOnlyLetters.cpp)
+
+**05/02/2019**
+
+[LC 125 Valid Palindrome](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/125_ValidPalindrome.cpp)
