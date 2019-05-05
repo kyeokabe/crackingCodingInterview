@@ -218,6 +218,7 @@
 [**1023**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1023_CamelcaseMatching.cpp)
 [**1026**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1026_MaxDifferenceBetweenNodeAndAncestor.cpp)
 
+[**1037**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1037_ValidBoomerang.cpp)
 [**1038**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1038_BinarySearchTreeToGreaterSumTree.cpp)
 
 **Cracking The Coding Interview**
@@ -885,3 +886,5 @@ if(a&b) //unintuitively, this line returns true if any "1" bit(s) of a and b are
 **05/05/2019**
 
 [LC 1038 Binary Search Tree to Greater Sum Tree](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1038_BinarySearchTreeToGreaterSumTree.cpp)
+
+[LC 1037 Valid Boomerang](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1037_ValidBoomerang.cpp)
