@@ -218,6 +218,8 @@
 [**1023**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1023_CamelcaseMatching.cpp)
 [**1026**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1026_MaxDifferenceBetweenNodeAndAncestor.cpp)
 
+[**1038**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1038_BinarySearchTreeToGreaterSumTree.cpp)
+
 **Cracking The Coding Interview**
 
 **Ch 1 (Arrays and Strings)...**
@@ -879,3 +881,5 @@ if(a&b) //unintuitively, this line returns true if any "1" bit(s) of a and b are
 [LC 108 Convert Sorted Array To Binary Search Tree](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/108_ConvertSortedArrayToBinarySearchTree.cpp)
 
 [LC 988 Smallest String Starting From Leaf](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/988_SmallestStringStartingFromLeaf.cpp)
+
+[LC 1038 Binary Search Tree to Greater Sum Tree](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1038_BinarySearchTreeToGreaterSumTree.cpp)
