@@ -121,6 +121,8 @@
 [**387**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/387_FirstUniqueCharacterInAString.cpp)
 [**389**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/389_FindTheDifference.cpp)
 
+[**394**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/394_DecodeString.cpp)
+
 [**404**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/404_SumOfLeftLeaves.cpp)
 [**409**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/409_LongestPalindrome.cpp)
 
@@ -906,3 +908,5 @@ if(a&b) //unintuitively, this line returns true if any "1" bit(s) of a and b are
 [LC 674 Longest Continuous Increasing Subsequence](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/674_LongestContinuousIncreasingSubsequence.cpp)
 
 [LC 559 Maximum Depth Of N-ary Tree](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/559_MaximumDepthOfN-aryTree.cpp)
+
+[LC 394 Decode String](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/394_DecodeString.cpp)
