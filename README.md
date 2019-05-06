@@ -213,6 +213,7 @@
 [**1010**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1010_PairsOfSongsWithTotalDurationsDivisibleBy60.cpp)
 [**1013**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1013_PartitionArrayIntoThreePartsWithEqualSum.cpp)
 [**1014**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1014_BestSightseeingPair.cpp)
+[**1019**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1019_NextGreaterNode.cpp)
 
 [**1020**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1020_NumberOfEnclaves.cpp)
 [**1022**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1022_SumOfRootToLeafBinaryNumbers.cpp)
@@ -891,3 +892,5 @@ if(a&b) //unintuitively, this line returns true if any "1" bit(s) of a and b are
 [LC 1037 Valid Boomerang](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1037_ValidBoomerang.cpp)
 
 [LC 1020 Number Of Enclaves](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1020_NumberOfEnclaves.cpp)
+
+[LC 1019 Next Greater Node in Linked List](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1019_NextGreaterNode.cpp)
