@@ -136,6 +136,7 @@
 [**492**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/492_ConstructTheRectangle.cpp)
 [**496**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/496_NextGreaterElementI.cpp)
 
+[**503**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/503_NextGreaerElementII.cpp)
 [**504**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/504_Base7.cpp)
 
 [**513**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/513_FindBottomLeftTreeValue.cpp)
@@ -893,4 +894,8 @@ if(a&b) //unintuitively, this line returns true if any "1" bit(s) of a and b are
 
 [LC 1020 Number Of Enclaves](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1020_NumberOfEnclaves.cpp)
 
+**05/06/2019**
+
 [LC 1019 Next Greater Node in Linked List](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1019_NextGreaterNode.cpp)
+
+[LC 503 Next Greater Element II](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/503_NextGreaerElementII.cpp)
