@@ -159,6 +159,7 @@
 [**669**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/669_TrimABinarySearchTree.cpp)
 
 [**670**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/670_MaximumSwap.cpp)
+[**674**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/674_LongestContinuousIncreasingSubsequence.cpp)
 
 [**680**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/680_ValidPalindromeII.cpp)
 
@@ -899,3 +900,5 @@ if(a&b) //unintuitively, this line returns true if any "1" bit(s) of a and b are
 [LC 1019 Next Greater Node in Linked List](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1019_NextGreaterNode.cpp)
 
 [LC 503 Next Greater Element II](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/503_NextGreaerElementII.cpp)
+
+[LC 674 Longest Continuous Increasing Subsequence](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/674_LongestContinuousIncreasingSubsequence.cpp)
