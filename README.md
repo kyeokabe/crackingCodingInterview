@@ -144,6 +144,8 @@
 
 [**520**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/520_DetectCapital.cpp)
 
+[**559**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/559_MaximumDepthOfN-aryTree.cpp)
+
 [**566**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/566_ReshapeTheMatrix.cpp)
 
 [**589**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/589_NaryTreePreorderTraversal.cpp)
@@ -902,3 +904,5 @@ if(a&b) //unintuitively, this line returns true if any "1" bit(s) of a and b are
 [LC 503 Next Greater Element II](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/503_NextGreaerElementII.cpp)
 
 [LC 674 Longest Continuous Increasing Subsequence](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/674_LongestContinuousIncreasingSubsequence.cpp)
+
+[LC 559 Maximum Depth Of N-ary Tree](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/559_MaximumDepthOfN-aryTree.cpp)
