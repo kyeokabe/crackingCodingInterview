@@ -138,6 +138,7 @@
 [**492**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/492_ConstructTheRectangle.cpp)
 [**496**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/496_NextGreaterElementI.cpp)
 
+[**500**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/500_KeyboardRow.cpp)
 [**503**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/503_NextGreaerElementII.cpp)
 [**504**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/504_Base7.cpp)
 
@@ -910,3 +911,5 @@ if(a&b) //unintuitively, this line returns true if any "1" bit(s) of a and b are
 [LC 559 Maximum Depth Of N-ary Tree](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/559_MaximumDepthOfN-aryTree.cpp)
 
 [LC 394 Decode String](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/394_DecodeString.cpp)
+
+[LC 500 Keyboard Rows](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/500_KeyboardRow.cpp)
