@@ -149,6 +149,8 @@
 
 [**520**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/520_DetectCapital.cpp)
 
+[**553**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/553_OptimalDivision.cpp)
+
 [**559**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/559_MaximumDepthOfN-aryTree.cpp)
 
 [**566**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/566_ReshapeTheMatrix.cpp)
@@ -919,3 +921,5 @@ if(a&b) //unintuitively, this line returns true if any "1" bit(s) of a and b are
 [LC 485 Max Consecutive Ones](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/485_MaxConsecutiveOnes.cpp)
 
 **05/07/2019**
+
+[LC 553 Optimal Division](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/553_OptimalDivision.cpp) ... not necessarily a good problem.
