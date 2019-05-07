@@ -135,6 +135,8 @@
 
 [**476**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/476_NumberCompliment.cpp)
 
+[**485**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/485_MaxConsecutiveOnes.cpp)
+
 [**492**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/492_ConstructTheRectangle.cpp)
 [**496**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/496_NextGreaterElementI.cpp)
 
@@ -913,3 +915,5 @@ if(a&b) //unintuitively, this line returns true if any "1" bit(s) of a and b are
 [LC 394 Decode String](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/394_DecodeString.cpp)
 
 [LC 500 Keyboard Rows](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/500_KeyboardRow.cpp)
+
+[LC 485 Max Consecutive Ones](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/485_MaxConsecutiveOnes.cpp)
