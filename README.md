@@ -934,6 +934,7 @@ if(a&b) //unintuitively, this line returns true if any "1" bit(s) of a and b are
 
 unordered_map<int,int> m;
 //...some key to value assignments...
+m[2]++; // key 2 is assigned to val 1
 for(auto it=m.begin();it!=m.end();it++){
   if(it->second==foo)
      //etc...
