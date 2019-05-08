@@ -143,6 +143,7 @@
 [**500**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/500_KeyboardRow.cpp)
 [**503**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/503_NextGreaerElementII.cpp)
 [**504**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/504_Base7.cpp)
+[**508**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/508_MostFrequentSubtreeSum.cpp)
 
 [**513**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/513_FindBottomLeftTreeValue.cpp)
 [**515**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/515_FindLargestValueInEachTreeRow.cpp)
@@ -923,3 +924,18 @@ if(a&b) //unintuitively, this line returns true if any "1" bit(s) of a and b are
 **05/07/2019**
 
 [LC 553 Optimal Division](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/553_OptimalDivision.cpp) ... not necessarily a good problem.
+
+**05/08/2019**
+
+[LC 508 Most Frequent Subtree Sum](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/508_MostFrequentSubtreeSum.cpp) ... Very good problem. Unusual type of binary tree question. Learned three things. i) "unordered_map" can be used just like "map", and on average has faster access time (O(1) unordered_map vs O(log(n)) for map). Worst case is slower (O(n) vs O(log(n)). ii) map values are initialized to 0, so you can just ++ without explicit initializing. iii) iterate over map keys
+
+```
+//sample code for map key iterations
+
+unordered_map<int,int> m;
+//...some key to value assignments...
+for(auto it=m.begin();it!=m.end();it++){
+  if(it->second==foo)
+     //etc...
+}
+```
