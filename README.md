@@ -149,6 +149,7 @@
 [**515**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/515_FindLargestValueInEachTreeRow.cpp)
 
 [**520**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/520_DetectCapital.cpp)
+[**525**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/525_ContiguousArray.cpp)
 
 [**553**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/553_OptimalDivision.cpp)
 
@@ -943,3 +944,5 @@ for(auto it=m.begin();it!=m.end();it++){
 }
 ```
 [LC 572 Subtree Of Another Subtree](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/572_SubtreeOfAnotherSubtree.cpp) ... for some reason, took 3 tries to get it right. Shouldn't be that hard. Try again later. (Part of the problem was trying to fit branch cases into cases that wouldn't work too well...)
+
+[LC 525 Contiguous Array](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/525_ContiguousArray.cpp) ... Unintuitive catch (or trick) used in the solution. Revisit again.
