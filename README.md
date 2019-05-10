@@ -142,6 +142,7 @@
 [**496**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/496_NextGreaterElementI.cpp)
 
 [**500**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/500_KeyboardRow.cpp)
+[**501**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/501_FindModeInBinarySearchTree.cpp)
 [**503**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/503_NextGreaerElementII.cpp)
 [**504**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/504_Base7.cpp)
 [**508**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/508_MostFrequentSubtreeSum.cpp)
@@ -968,3 +969,5 @@ for(auto it=m.begin();it!=m.end();it++){
 [LC 647 Palindromic Substrings](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/647_PalindromicSubstrings.cpp)
 
 [LC 5 Longest Palindromic Substring](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/5_LongestPalindromicSubstring.cpp)
+
+[LC 501 Find Mode in Binary Search Tree](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/501_FindModeInBinarySearchTree.cpp)
