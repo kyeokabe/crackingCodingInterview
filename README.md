@@ -243,6 +243,8 @@
 [**1023**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1023_CamelcaseMatching.cpp)
 [**1026**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1026_MaxDifferenceBetweenNodeAndAncestor.cpp)
 
+[**1029**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1029_TwoCityScheduling.cpp)
+
 [**1037**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1037_ValidBoomerang.cpp)
 [**1038**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1038_BinarySearchTreeToGreaterSumTree.cpp)
 
@@ -974,3 +976,7 @@ for(auto it=m.begin();it!=m.end();it++){
 [LC 501 Find Mode in Binary Search Tree](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/501_FindModeInBinarySearchTree.cpp)
 
 [LC 814 Binary Tree Pruning](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/814_BinaryTreePruning.cpp)
+
+**05/11/2019**
+
+[LC 1029 Two City Scheduling](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1029_TwoCityScheduling.cpp)
