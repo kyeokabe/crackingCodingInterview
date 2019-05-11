@@ -155,6 +155,7 @@
 [**525**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/525_ContiguousArray.cpp)
 
 [**530**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/530_MinimumAbsoluteDifference.cpp)
+[**538**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/538_ConvertBSTToGreaterTree.cpp)
 [**539**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/539_MinimumTimeDifference.cpp)
 
 [**553**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/553_OptimalDivision.cpp)
@@ -990,3 +991,5 @@ for(auto it=m.begin();it!=m.end();it++){
 [LC 965 Univalued Binary Tree](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/965_UnivaluedBinaryTree.cpp)
 
 [LC 530 Minimum Absolute Difference](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/530_MinimumAbsoluteDifference.cpp)
+
+[LC 538 Convert BST to Greater Tree](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/538_ConvertBSTToGreaterTree.cpp)
