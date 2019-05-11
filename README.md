@@ -154,6 +154,7 @@
 [**520**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/520_DetectCapital.cpp)
 [**525**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/525_ContiguousArray.cpp)
 
+[**530**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/530_MinimumAbsoluteDifference.cpp)
 [**539**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/539_MinimumTimeDifference.cpp)
 
 [**553**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/553_OptimalDivision.cpp)
@@ -987,3 +988,5 @@ for(auto it=m.begin();it!=m.end();it++){
 [LC 590 N-ary Tree Postorder Traversal](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/590_N-aryTreePostorderTraversal.cpp)
 
 [LC 965 Univalued Binary Tree](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/965_UnivaluedBinaryTree.cpp)
+
+[LC 530 Minimum Absolute Difference](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/530_MinimumAbsoluteDifference.cpp)
