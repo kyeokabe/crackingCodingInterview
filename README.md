@@ -200,6 +200,7 @@
 
 [**784**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/784_MinimumDistanceBetweenBSTNodes.cpp)
 
+[**814**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/814_BinaryTreePruning.cpp)
 [**817**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/817_LinkedListComponents.cpp)
 
 [**821**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/821_ShortestDistanceToACharacter.cpp)
@@ -971,3 +972,5 @@ for(auto it=m.begin();it!=m.end();it++){
 [LC 5 Longest Palindromic Substring](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/5_LongestPalindromicSubstring.cpp)
 
 [LC 501 Find Mode in Binary Search Tree](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/501_FindModeInBinarySearchTree.cpp)
+
+[LC 814 Binary Tree Pruning](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/814_BinaryTreePruning.cpp)
