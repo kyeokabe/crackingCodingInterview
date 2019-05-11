@@ -164,6 +164,7 @@
 [**572**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/572_SubtreeOfAnotherSubtree.cpp)
 
 [**589**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/589_NaryTreePreorderTraversal.cpp)
+[**590**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/590_N-aryTreePostorderTraversal.cpp)
 
 [**623**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/623_AddOneRowToTree.cpp)
 
@@ -980,3 +981,5 @@ for(auto it=m.begin();it!=m.end();it++){
 **05/11/2019**
 
 [LC 1029 Two City Scheduling](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1029_TwoCityScheduling.cpp)
+
+[LC 590 N-ary Tree Postorder Traversal](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/590_N-aryTreePostorderTraversal.cpp)
