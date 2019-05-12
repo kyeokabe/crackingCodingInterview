@@ -158,6 +158,7 @@
 [**538**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/538_ConvertBSTToGreaterTree.cpp)
 [**539**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/539_MinimumTimeDifference.cpp)
 
+[**551*](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/551_StudentAttendanceRecordI.cpp)
 [**553**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/553_OptimalDivision.cpp)
 [**559**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/559_MaximumDepthOfN-aryTree.cpp)
 
@@ -993,3 +994,7 @@ for(auto it=m.begin();it!=m.end();it++){
 [LC 530 Minimum Absolute Difference](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/530_MinimumAbsoluteDifference.cpp)
 
 [LC 538 Convert BST to Greater Tree](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/538_ConvertBSTToGreaterTree.cpp)
+
+**05/12/2019**
+
+[LC 551 Student Attendance Record](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/551_StudentAttendanceRecordI.cpp)
