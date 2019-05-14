@@ -243,6 +243,7 @@
 [**965**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/965_UnivaluedBinaryTree.cpp)
 
 [**976**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/976_LargestPerimeterTriangle.cpp)
+[**977**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/977_SquaresOfASortedArray.cpp)
 
 [**988**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/988_SmallestStringStartingFromLeaf.cpp)
 
@@ -1030,3 +1031,5 @@ for(auto it=m.begin();it!=m.end();it++){
 **05/14/2019**
 
 [LC 106 Construct Binary Tree from Inorder and Postorder Traversal](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/106_ConstructBinaryTreeFromInorderAndPostorderTraversal.cpp)
+
+[LC 977 Squares of a Sorted Array](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/977_SquaresOfASortedArray.cpp)
