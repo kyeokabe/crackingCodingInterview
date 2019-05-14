@@ -259,7 +259,6 @@
 [**1022**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1022_SumOfRootToLeafBinaryNumbers.cpp)
 [**1023**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1023_CamelcaseMatching.cpp)
 [**1026**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1026_MaxDifferenceBetweenNodeAndAncestor.cpp)
-
 [**1029**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1029_TwoCityScheduling.cpp)
 
 [**1037**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1037_ValidBoomerang.cpp)
