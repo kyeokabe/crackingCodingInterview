@@ -30,6 +30,7 @@
  [**69**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/69_Sqrt(x).cpp)
 
 [**70**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/70_ClimbingStairs.cpp)
+[**73**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/73_SetMatrixZeros.cpp)
 [**74**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/74_SearchA2DMatrix.cpp)
 [**78**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/78_Subsets.cpp)
 
@@ -1032,3 +1033,5 @@ for(auto it=m.begin();it!=m.end();it++){
 [LC 106 Construct Binary Tree from Inorder and Postorder Traversal](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/106_ConstructBinaryTreeFromInorderAndPostorderTraversal.cpp)
 
 [LC 977 Squares of a Sorted Array](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/977_SquaresOfASortedArray.cpp)
+
+[LC 73 Set Matrix Zeros](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/73_SetMatrixZeros.cpp)
