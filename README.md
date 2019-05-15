@@ -1044,3 +1044,9 @@ for(auto it=m.begin();it!=m.end();it++){
 **05/15/2019**
 
 [LC 179 Largest Number](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/179_LargestNumber.cpp)
+
+**ugly but useful custom sorting lambda syntax**
+```
+sort(s.begin(),s.end(),[](string &s1, const string &s2){return s1+s2>s2+s1;});
+//Given {"3","30","9"}, will return {"9","3","30"}.
+```
