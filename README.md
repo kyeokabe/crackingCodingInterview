@@ -114,6 +114,8 @@
 [**264**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/264_UglyNumberII.cpp)
 [**268**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/268_MissingNumber.cpp)
 
+[**274**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/274_H-Index.cpp)
+
 [**311**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/311_MinimumDepthOfBinaryTree.cpp)
 [**319**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/319_BulbSwitcher.cpp)
 
