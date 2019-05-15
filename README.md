@@ -1055,3 +1055,5 @@ sort(s.begin(),s.end(),[](string &s1, const string &s2){return s1+s2>s2+s1;});
 ```
 
 [LC 264 Ugly Number II](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/264_UglyNumberII.cpp)
+
+[LC 274 H-Index](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/274_H-Index.cpp)
