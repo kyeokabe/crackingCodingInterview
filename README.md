@@ -120,6 +120,8 @@
 
 [**274**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/274_H-Index.cpp)
 
+[**290**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/290_WordPattern.cpp)
+
 [**311**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/311_MinimumDepthOfBinaryTree.cpp)
 [**319**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/319_BulbSwitcher.cpp)
 
@@ -1078,3 +1080,5 @@ sort(s.begin(),s.end(),[](string &s1, const string &s2){return s1+s2>s2+s1;});
 [LC 239 Sliding Window Maximum](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/239_SlidingWindowMaximum.cpp)
 
 [LC 205 Isomorphic Strings](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/205_IsomorphicStrings.cpp)
+
+[LC 290 Word Pattern](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/290_WordPattern.cpp)
