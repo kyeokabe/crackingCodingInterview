@@ -94,6 +94,7 @@
 [**200**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/200_NumberOfIslands.cpp)
 [**201**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/201_BitwiseANDofNumbersRange.cpp)
 [**202**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/202_HappyNumber.cpp)
+[**205**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/205_IsomorphicStrings.cpp)
 [**206**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/206_ReverseLinkedList.cpp)
 
 [**217**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/217_ContainsDuplicate.cpp)
@@ -1075,3 +1076,5 @@ sort(s.begin(),s.end(),[](string &s1, const string &s2){return s1+s2>s2+s1;});
 [LC 155 Min Stack](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/155_MinStack.cpp)
 
 [LC 239 Sliding Window Maximum](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/239_SlidingWindowMaximum.cpp)
+
+[LC 205 Isomorphic Strings](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/205_IsomorphicStrings.cpp)
