@@ -100,6 +100,7 @@
 [**217**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/217_ContainsDuplicate.cpp)
 
 [**222**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/222_CountCompleteTreeNodes.cpp)
+[**225**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/225_ImplementStackUsingQueues.cpp)
 [**226**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/226_InvertBinaryTree.cpp)
 
 [**230**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/230_KthSmallestElementInABST.cpp)
@@ -1090,3 +1091,5 @@ sort(s.begin(),s.end(),[](string &s1, const string &s2){return s1+s2>s2+s1;});
 **05/18/2019**
 
 [LC 232 Implement Queue Using Stacks](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/232_ImplementQueueUsingStacks.cpp)
+
+[LC 225 Implement Stack Using Queues](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/225_ImplementStackUsingQueues.cpp)
