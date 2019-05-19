@@ -80,6 +80,7 @@
 [**155**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/155_MinStack.cpp)
 
 [**160**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/160_IntersectionOfTwoLinkedLists.cpp)
+[**167**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/167_TwoSumII.cpp)
 [**169**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/169_MajorityElement.cpp)
 
 [**173**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/173_BinarySearchTreeIterator.cpp)
@@ -1112,3 +1113,5 @@ https://leetcode.com/problems/sum-of-two-integers/discuss/84278/A-summary%3A-how
 ```
 
 [LC 338 Counting Bits](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/338_CountingBits.cpp) ... Naiive solution is easy. Almost impossible to come up with/realize optimized solution...
+
+[LC 167 Two Sum II - Input Array is Sorted](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/167_TwoSumII.cpp)
