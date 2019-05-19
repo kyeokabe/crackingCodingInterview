@@ -145,6 +145,7 @@
 [**387**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/387_FirstUniqueCharacterInAString.cpp)
 [**389**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/389_FindTheDifference.cpp)
 
+[**393**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/393_UTF-8Validation.cpp)
 [**394**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/394_DecodeString.cpp)
 
 [**404**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/404_SumOfLeftLeaves.cpp)
@@ -1099,3 +1100,5 @@ sort(s.begin(),s.end(),[](string &s1, const string &s2){return s1+s2>s2+s1;});
 [LC 49 Group Anagrams](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/49_GroupAnagrams.cpp)
 
 [LC 1005 Minimum Sum Of Array After K Negations](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1005_MinimumSumOfArrayAfterKNegations.cpp)
+
+[LC 393 UTF-8 Validation](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/393_UTF-8Validation.cpp)
