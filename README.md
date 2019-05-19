@@ -1121,3 +1121,6 @@ https://leetcode.com/problems/sum-of-two-integers/discuss/84278/A-summary%3A-how
 [LC 1046 Last Stone Weight](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1046_LastStoneWeight.cpp)
 
 [LC 162 Find Peak Element](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/162_FindPeakElement.cpp)
+```
+//This question uses binary search. Make sure to review and be able to implement it.
+```
