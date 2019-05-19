@@ -267,6 +267,7 @@
 
 [**988**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/988_SmallestStringStartingFromLeaf.cpp)
 
+[**1005**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1005_MinimumSumOfArrayAfterKNegations.cpp)
 [**1006**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1006_ClumsyFactorial.cpp)
 [**1008**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1008_ConstructBinatySearchTreeFromPreorderTraversal.cpp)
 
@@ -1096,3 +1097,5 @@ sort(s.begin(),s.end(),[](string &s1, const string &s2){return s1+s2>s2+s1;});
 [LC 225 Implement Stack Using Queues](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/225_ImplementStackUsingQueues.cpp)
 
 [LC 49 Group Anagrams](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/49_GroupAnagrams.cpp)
+
+[LC 1005 Minimum Sum Of Array After K Negations](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1005_MinimumSumOfArrayAfterKNegations.cpp)
