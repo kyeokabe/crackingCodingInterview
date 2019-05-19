@@ -77,6 +77,7 @@
 [**144**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/144_BinaryTreePreOrderTraversal.cpp)
 [**145**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/145_BinaryTreePostorderTraversal.cpp)
 
+[**153**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/153_FindMinimumInRotatedSortedArray.cpp)
 [**155**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/155_MinStack.cpp)
 
 [**160**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/160_IntersectionOfTwoLinkedLists.cpp)
@@ -1129,3 +1130,5 @@ https://leetcode.com/problems/sum-of-two-integers/discuss/84278/A-summary%3A-how
 **05/19/2019**
 
 [LC 1047 Remove All Adjacent Duplicates In String](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1047_RemoveAllAdjacentDuplicatesInString.cpp)
+
+[LC 153 Find Minimum In Rotated Sorted Array](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/153_FindMinimumInRotatedSortedArray.cpp)
