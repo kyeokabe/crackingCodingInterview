@@ -292,6 +292,7 @@
 
 [**1041**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1041_RobotBoundedInCircle.cpp)
 [**1046**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1046_LastStoneWeight.cpp)
+[**1047**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1047_RemoveAllAdjacentDuplicatesInString.cpp)
 
 **Cracking The Coding Interview**
 
@@ -1124,3 +1125,7 @@ https://leetcode.com/problems/sum-of-two-integers/discuss/84278/A-summary%3A-how
 ```
 //This question uses binary search. Make sure to review and be able to implement it.
 ```
+
+**05/19/2019**
+
+[LC 1047 Remove All Adjacent Duplicates In String](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1047_RemoveAllAdjacentDuplicatesInString.cpp)
