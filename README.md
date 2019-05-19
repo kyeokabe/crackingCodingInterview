@@ -131,6 +131,8 @@
 [**326**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/326_PowerOfThree.cpp)
 [**328**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/328_OddEvenLinkedList.cpp)
 
+[**338**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/338_CountingBits.cpp)
+
 [**342**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/342_PowerOfFour.cpp)
 [**344**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/344_ReverseString.cpp)
 [**349**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/349_IntersectionOfTwoArrays.cpp)
@@ -1108,3 +1110,5 @@ sort(s.begin(),s.end(),[](string &s1, const string &s2){return s1+s2>s2+s1;});
 ```
 https://leetcode.com/problems/sum-of-two-integers/discuss/84278/A-summary%3A-how-to-use-bit-manipulation-to-solve-problems-easily-and-efficiently
 ```
+
+[LC 338 Counting Bits](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/338_CountingBits.cpp) ... Naiive solution is easy. Almost impossible to come up with/realize optimized solution...
