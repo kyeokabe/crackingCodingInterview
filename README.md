@@ -290,6 +290,7 @@
 [**1038**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1038_BinarySearchTreeToGreaterSumTree.cpp)
 
 [**1041**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1041_RobotBoundedInCircle.cpp)
+[**1046**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1046_LastStoneWeight.cpp)
 
 **Cracking The Coding Interview**
 
@@ -1115,3 +1116,5 @@ https://leetcode.com/problems/sum-of-two-integers/discuss/84278/A-summary%3A-how
 [LC 338 Counting Bits](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/338_CountingBits.cpp) ... Naiive solution is easy. Almost impossible to come up with/realize optimized solution...
 
 [LC 167 Two Sum II - Input Array is Sorted](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/167_TwoSumII.cpp)
+
+[LC 1046 Last Stone Weight](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1046_LastStoneWeight.cpp)
