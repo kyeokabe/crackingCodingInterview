@@ -65,6 +65,7 @@
 [**118**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/118_PascalsTriangle.cpp)
 [**119**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/119_PascalsTriangleII.cpp)
 
+[**120**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/120_Triangle.cpp)
 [**121**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/121_BestTimeToBuyAndSellStock.cpp)
 [**122**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/122_BestTimeToBuyAndSellStockII.cpp)
 [**125**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/125_ValidPalindrome.cpp)
@@ -1136,3 +1137,5 @@ https://leetcode.com/problems/sum-of-two-integers/discuss/84278/A-summary%3A-how
 5/20~5/24 sick + SRC review meeting
 
 **05/25/2019**
+
+[LC 120 Triangle](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/120_Triangle.cpp)
