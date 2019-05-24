@@ -1132,3 +1132,7 @@ https://leetcode.com/problems/sum-of-two-integers/discuss/84278/A-summary%3A-how
 [LC 1047 Remove All Adjacent Duplicates In String](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1047_RemoveAllAdjacentDuplicatesInString.cpp)
 
 [LC 153 Find Minimum In Rotated Sorted Array](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/153_FindMinimumInRotatedSortedArray.cpp)
+
+5/20~5/24 sick + SRC review meeting
+
+**05/25/2019**
