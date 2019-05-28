@@ -296,6 +296,8 @@
 [**1046**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1046_LastStoneWeight.cpp)
 [**1047**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1047_RemoveAllAdjacentDuplicatesInString.cpp)
 
+[**1052**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1052_GrumpyBookstoreOwner.cpp)
+
 **Cracking The Coding Interview**
 
 **Ch 1 (Arrays and Strings)...**
@@ -1139,3 +1141,8 @@ https://leetcode.com/problems/sum-of-two-integers/discuss/84278/A-summary%3A-how
 **05/25/2019**
 
 [LC 120 Triangle](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/120_Triangle.cpp)
+
+
+**05/29/2019**
+
+[LC 1052 Grumpy Bookstore Owner](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1052_GrumpyBookstoreOwner.cpp) ... Good problem to get a feel of how "sliding window" technique works. Worth revisiting if time permits.
