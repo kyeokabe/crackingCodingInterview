@@ -1145,4 +1145,4 @@ https://leetcode.com/problems/sum-of-two-integers/discuss/84278/A-summary%3A-how
 
 **05/29/2019**
 
-[LC 1052 Grumpy Bookstore Owner](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1052_GrumpyBookstoreOwner.cpp) ... Good problem to get a feel of how "sliding window" technique works. Worth revisiting if time permits.
+[LC 1052 Grumpy Bookstore Owner](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1052_GrumpyBookstoreOwner.cpp) ... Good problem to get a feel of how the "sliding window" technique works. Worth revisiting if time permits.
