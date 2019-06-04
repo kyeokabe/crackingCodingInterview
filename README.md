@@ -196,6 +196,7 @@
 
 [**551**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/551_StudentAttendanceRecordI.cpp)
 [**553**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/553_OptimalDivision.cpp)
+[**556**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/556_NextGreaterElementIII.cpp)
 [**559**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/559_MaximumDepthOfN-aryTree.cpp)
 
 [**566**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/566_ReshapeTheMatrix.cpp)
@@ -1153,3 +1154,15 @@ https://leetcode.com/problems/sum-of-two-integers/discuss/84278/A-summary%3A-how
 **06/04/2018**
 
 [LC 496 Next Greater Element I](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/496_NextGreaterElementIOptimal.cpp) ... previously solved with O(nxn). This solution is O(n).
+
+[LC 556 Next Greater Element III](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/556_NextGreaterElementIII.cpp) ...
+
+need to know
+```
+vector<int> v;
+while(!s.empty()){
+    v.push_back(s.top());
+    s.pop();
+}
+next_permutation(v.begin(), v.end());
+```
