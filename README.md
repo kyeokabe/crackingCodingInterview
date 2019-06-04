@@ -1149,3 +1149,7 @@ https://leetcode.com/problems/sum-of-two-integers/discuss/84278/A-summary%3A-how
 [LC 1052 Grumpy Bookstore Owner](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1052_GrumpyBookstoreOwner.cpp) ... Good problem to get a feel of how the "sliding window" technique works. Worth revisiting if time permits.
 
 [LC 75 Sort Colors](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/75_SortColors.cpp) ... Not the solution Leetcode wants, but passes test. Could come back for alternative solution, but low priority.
+
+**06/04/2018**
+
+[LC 496 Next Greater Element I](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/496_NextGreaterElementIOptimal.cpp) ... previously solved with O(nxn). This solution is O(n).
