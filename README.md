@@ -269,6 +269,8 @@
 
 [**941**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/941_ValidMountainArray.cpp)
 
+[**958**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/958_CheckCompletenessOfABinaryTree.cpp)
+
 [**965**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/965_UnivaluedBinaryTree.cpp)
 
 [**976**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/976_LargestPerimeterTriangle.cpp)
@@ -1176,3 +1178,4 @@ next_permutation(v.begin(), v.end());
 
 **06/07/2019**
 
+[LC 958 Check Completeness of a Binary Tree](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/958_CheckCompletenessOfABinaryTree.cpp)
