@@ -1173,3 +1173,6 @@ next_permutation(v.begin(), v.end());
 [LC 1025 Divisor Game](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1025_DivisorGame.cpp)
 
 [LC 70 Climbing Stairs](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/70_ClimbingStairs_Revisited.cpp) ... Revisited. Uses simple **dynamic programming**
+
+**06/07/2019**
+
