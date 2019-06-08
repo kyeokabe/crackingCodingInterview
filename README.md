@@ -273,6 +273,7 @@
 
 [**965**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/965_UnivaluedBinaryTree.cpp)
 
+[**973**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/973_KClosestPointsToOrigin.cpp)
 [**976**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/976_LargestPerimeterTriangle.cpp)
 [**977**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/977_SquaresOfASortedArray.cpp)
 
@@ -1179,3 +1180,5 @@ next_permutation(v.begin(), v.end());
 **06/07/2019**
 
 [LC 958 Check Completeness of a Binary Tree](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/958_CheckCompletenessOfABinaryTree.cpp)
+
+[LC 973 K Closest Points to Origin](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/973_KClosestPointsToOrigin.cpp)
