@@ -10,6 +10,7 @@
 [**7**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/07_Reverse_Integer.cpp)
 [**9**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/09_PalindromeNumber.cpp)
 
+[**15**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/15_3Sum.cpp)
 [**19**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/19_RemoveNthNodeFromEndOfList.cpp)
 
 [**20**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/20_ValidParentheses.cpp)
@@ -1186,3 +1187,5 @@ next_permutation(v.begin(), v.end());
 ```
 sort(points.begin(),points.end(),[](vector<int> &p,vector<int> &q){return p[0]*p[0]+p[1]*p[1]<q[0]*q[0]+q[1]*q[1];});
 ```
+
+[LC 15 3 Sum](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/15_3Sum.cpp) ... **not easy**
