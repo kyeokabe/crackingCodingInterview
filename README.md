@@ -1182,3 +1182,7 @@ next_permutation(v.begin(), v.end());
 [LC 958 Check Completeness of a Binary Tree](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/958_CheckCompletenessOfABinaryTree.cpp)
 
 [LC 973 K Closest Points to Origin](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/973_KClosestPointsToOrigin.cpp)
+**sort lambda syntax**
+```
+sort(points.begin(),points.end(),[](vector<int> &p,vector<int> &q){return p[0]*p[0]+p[1]*p[1]<q[0]*q[0]+q[1]*q[1];});
+```
