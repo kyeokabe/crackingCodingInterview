@@ -1202,3 +1202,7 @@ sort(points.begin(),points.end(),[](vector<int> &p,vector<int> &q){return p[0]*p
 **06/11/2019**
 
 [LC 292 Nim Game](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/292_NimGame.cpp)
+
+**08/19/2019**
+
+[LC 260 Single Number III (revisit)]
