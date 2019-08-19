@@ -1207,4 +1207,4 @@ sort(points.begin(),points.end(),[](vector<int> &p,vector<int> &q){return p[0]*p
 
 [LC 260 Single Number III (revisit)](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/260_SingleNumberIII_revisiting.cpp)
 
-[LC 275 H-Index II](https://github.com/kyeokabe/crackingCodingInterview/commit/439777f4f176e9cdfb761145f7b23708c39f5356)
+[LC 275 H-Index II](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/275_H-IndexII.cpp)
