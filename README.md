@@ -1212,3 +1212,5 @@ sort(points.begin(),points.end(),[](vector<int> &p,vector<int> &q){return p[0]*p
 [LC 275 H-Index II](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/275_H-IndexII.cpp)
 
 [LC 283 Move Zeros](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/283_MoveZeroes.cpp)
+
+[LC 27 Remove Element (revisit)](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/27_RemoveElement_revisit.cpp)
