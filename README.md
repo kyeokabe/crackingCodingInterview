@@ -130,6 +130,8 @@
 
 [**274**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/274_H-Index.cpp)
 
+[**283**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/283_MoveZeroes.cpp)
+
 [**290**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/290_WordPattern.cpp)
 [**292**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/292_NimGame.cpp)
 
@@ -1208,3 +1210,5 @@ sort(points.begin(),points.end(),[](vector<int> &p,vector<int> &q){return p[0]*p
 [LC 260 Single Number III (revisit)](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/260_SingleNumberIII_revisiting.cpp)
 
 [LC 275 H-Index II](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/275_H-IndexII.cpp)
+
+[LC 283 Move Zeros](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/283_MoveZeroes.cpp)
