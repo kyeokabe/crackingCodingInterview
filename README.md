@@ -77,6 +77,7 @@
 [**137**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/137_SingleNumberII.cpp)
 
 [**141**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/141_LinkedListCycle.cpp)
+[**142**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/142_LinkedListCycle_II.cpp)
 [**143**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/143_ReorderList.cpp)
 [**144**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/144_BinaryTreePreOrderTraversal.cpp)
 [**145**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/145_BinaryTreePostorderTraversal.cpp)
@@ -1214,3 +1215,7 @@ sort(points.begin(),points.end(),[](vector<int> &p,vector<int> &q){return p[0]*p
 [LC 283 Move Zeros](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/283_MoveZeroes.cpp)
 
 [LC 27 Remove Element (revisit)](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/27_RemoveElement_revisit.cpp)
+
+**08/20/2019**
+
+[LC 142 Linked List Cycle II](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/142_LinkedListCycle_II.cpp)
