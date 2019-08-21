@@ -1222,3 +1222,5 @@ sort(points.begin(),points.end(),[](vector<int> &p,vector<int> &q){return p[0]*p
 [LC 142 Linked List Cycle II](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/142_LinkedListCycle_II.cpp)
 
 [LC 279 Perfect Squares](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/279_PerfectSquares.cpp)
+
+[LC 264 Ugly Number II revisit](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/264_UglyNumber_II_revisit.cpp)
