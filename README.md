@@ -138,6 +138,7 @@
 [**292**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/292_NimGame.cpp)
 
 [**311**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/311_MinimumDepthOfBinaryTree.cpp)
+[**313**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/313_SuperUglyNumber.cpp)
 [**319**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/319_BulbSwitcher.cpp)
 
 [**326**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/326_PowerOfThree.cpp)
@@ -1221,6 +1222,10 @@ sort(points.begin(),points.end(),[](vector<int> &p,vector<int> &q){return p[0]*p
 
 [LC 142 Linked List Cycle II](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/142_LinkedListCycle_II.cpp)
 
+**08/21/2019**
+
 [LC 279 Perfect Squares](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/279_PerfectSquares.cpp)
 
 [LC 264 Ugly Number II revisit](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/264_UglyNumber_II_revisit.cpp)
+
+[LC 313 Super Ugly Number](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/313_SuperUglyNumber.cpp)
