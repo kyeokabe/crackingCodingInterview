@@ -6,6 +6,7 @@
 **Leet Code**
 
 [**2**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/2_AddTwoNumbers.cpp)
+[**3**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/3_LongestSubstringWithoutRepeatingCharacters.cpp)
 [**5**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/5_LongestPalindromicSubstring.cpp)
 [**7**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/07_Reverse_Integer.cpp)
 [**9**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/09_PalindromeNumber.cpp)
@@ -1234,3 +1235,7 @@ sort(points.begin(),points.end(),[](vector<int> &p,vector<int> &q){return p[0]*p
 **08/22/2019**
 
 [LC 567 Permutation on String](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/567_PermulationInString.cpp)
+
+**08/23/2019**
+
+[LC 3 Longest Substring Without Repeating Characters](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/3_LongestSubstringWithoutRepeatingCharacters.cpp)
