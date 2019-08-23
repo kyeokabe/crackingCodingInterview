@@ -208,6 +208,7 @@
 [**559**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/559_MaximumDepthOfN-aryTree.cpp)
 
 [**566**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/566_ReshapeTheMatrix.cpp)
+[**567**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/567_PermulationInString.cpp)
 
 [**572**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/572_SubtreeOfAnotherSubtree.cpp)
 
@@ -1229,3 +1230,7 @@ sort(points.begin(),points.end(),[](vector<int> &p,vector<int> &q){return p[0]*p
 [LC 264 Ugly Number II revisit](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/264_UglyNumber_II_revisit.cpp)
 
 [LC 313 Super Ugly Number](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/313_SuperUglyNumber.cpp)
+
+**08/22/2019**
+
+[LC 567 Permutation on String](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/567_PermulationInString.cpp)
