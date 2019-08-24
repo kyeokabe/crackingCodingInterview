@@ -1,3 +1,6 @@
+//adapted from Stefan Pochmann solution
+//https://leetcode.com/problems/remove-duplicates-from-sorted-array-ii/discuss/27976/3-6-easy-lines-C%2B%2B-Java-Python-Ruby
+
 class Solution {
 public:
     int removeDuplicates(vector<int>& nums) {
