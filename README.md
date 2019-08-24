@@ -1239,3 +1239,5 @@ sort(points.begin(),points.end(),[](vector<int> &p,vector<int> &q){return p[0]*p
 **08/23/2019**
 
 [LC 3 Longest Substring Without Repeating Characters](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/3_LongestSubstringWithoutRepeatingCharacters.cpp)
+
+[LC 153 Find Minimum in Rotated Sorted Array revisit]9https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/153_FindMinimumInRotatedSortedArray_revisit.cpp) ... This time using binary search! O[log(n)]
