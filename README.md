@@ -135,6 +135,7 @@
 [**279**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/279_PerfectSquares.cpp)
 
 [**283**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/283_MoveZeroes.cpp)
+[**287**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/287_FindTheDuplicateNumber.cpp)
 
 [**290**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/290_WordPattern.cpp)
 [**292**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/292_NimGame.cpp)
@@ -1246,3 +1247,5 @@ sort(points.begin(),points.end(),[](vector<int> &p,vector<int> &q){return p[0]*p
 **08/24/2019**
 
 [LC 80 Remove Duplicates from Sorted Array II](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/80_RemoveDuplicatesFromSOrtedArrayII.cpp)
+
+[LC 287 Find the Duplicate Number](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/287_FindTheDuplicateNumber.cpp)
