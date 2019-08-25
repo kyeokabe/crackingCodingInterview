@@ -1248,4 +1248,4 @@ sort(points.begin(),points.end(),[](vector<int> &p,vector<int> &q){return p[0]*p
 
 [LC 80 Remove Duplicates from Sorted Array II](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/80_RemoveDuplicatesFromSOrtedArrayII.cpp)
 
-[LC 287 Find the Duplicate Number](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/287_FindTheDuplicateNumber.cpp)
+[LC 287 Find the Duplicate Number](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/287_FindTheDuplicateNumber.cpp) ... binary search excersize
