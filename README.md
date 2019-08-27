@@ -1253,4 +1253,4 @@ sort(points.begin(),points.end(),[](vector<int> &p,vector<int> &q){return p[0]*p
 
 **08/26/2019**
 
-[LC Max Consecutive Ones III](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1004_MaxConsecutiveOnesIII.cpp)
+[LC Max Consecutive Ones III](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1004_MaxConsecutiveOnesIII.cpp) ... probably relatively standard "sliding window" problem. Tricky to get everything correct the first time. Trick: add 0s to an array for convenience of edge cases.
