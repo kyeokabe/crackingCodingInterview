@@ -132,6 +132,7 @@
 [**268**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/268_MissingNumber.cpp)
 
 [**274**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/274_H-Index.cpp)
+[**278**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/278_FirstBadVersion.cpp)
 [**279**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/279_PerfectSquares.cpp)
 
 [**283**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/283_MoveZeroes.cpp)
@@ -1254,3 +1255,7 @@ sort(points.begin(),points.end(),[](vector<int> &p,vector<int> &q){return p[0]*p
 **08/26/2019**
 
 [LC Max Consecutive Ones III](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1004_MaxConsecutiveOnesIII.cpp) ... probably relatively standard "sliding window" problem. Tricky to get everything correct the first time. Trick: add 0s to an array for convenience of edge cases.
+
+**08/30/2019**
+
+[LC 278 First Bad Version](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/278_FirstBadVersion.cpp) ... Basic Binary Search Problem
