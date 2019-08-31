@@ -121,6 +121,7 @@
 [**237**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/237_DeleteNodeInALinkedList.cpp)
 [**239**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/239_SlidingWindowMaximum.cpp)
 
+[**240**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/240_SearchA2DMatrixII.cpp)
 [**242**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/242_ValidAnagram.cpp)
 
 [**257**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/257_BinaryTreePaths.cpp)
@@ -1259,3 +1260,7 @@ sort(points.begin(),points.end(),[](vector<int> &p,vector<int> &q){return p[0]*p
 **08/30/2019**
 
 [LC 278 First Bad Version](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/278_FirstBadVersion.cpp) ... Basic Binary Search Problem
+
+**-0/31/2019**
+
+[LC 240 Search a 2D Matrix](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/240_SearchA2DMatrixII.cpp) ... once you know the trick it is easy. Overthough about using binary sort...
