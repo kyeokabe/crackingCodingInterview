@@ -107,6 +107,7 @@
 [**202**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/202_HappyNumber.cpp)
 [**205**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/205_IsomorphicStrings.cpp)
 [**206**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/206_ReverseLinkedList.cpp)
+[**209**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/209_MinimumSizeSubarraySum.cpp)
 
 [**217**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/217_ContainsDuplicate.cpp)
 
@@ -1261,6 +1262,10 @@ sort(points.begin(),points.end(),[](vector<int> &p,vector<int> &q){return p[0]*p
 
 [LC 278 First Bad Version](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/278_FirstBadVersion.cpp) ... Basic Binary Search Problem
 
-**-0/31/2019**
+**08/31/2019**
 
 [LC 240 Search a 2D Matrix](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/240_SearchA2DMatrixII.cpp) ... once you know the trick it is easy. Overthough about using binary sort...
+
+**09/02/2019**
+
+[LC 209 Minimum Size Subarray Sum](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/209_MinimumSizeSubarraySum.cpp) ... standard "sliding window" problem. Writing out an example on a sheet of paper and going through what happens step by step is a good way to verify algorithm edge cases.
