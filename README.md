@@ -274,6 +274,7 @@
 [**896**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/896_MonotonicArray.cpp)
 [**897**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/897_IncreasingOrderSearchTree.cpp)
 
+[**904**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/904_FruitIntoBaskets.cpp)
 [**905**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/905_SortArrayByParity.cpp)
 
 [**912**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/912_SortAnArray.cpp)
@@ -1269,3 +1270,7 @@ sort(points.begin(),points.end(),[](vector<int> &p,vector<int> &q){return p[0]*p
 **09/02/2019**
 
 [LC 209 Minimum Size Subarray Sum](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/209_MinimumSizeSubarraySum.cpp) ... standard "sliding window" problem. Writing out an example on a sheet of paper and going through what happens step by step is a good way to verify algorithm edge cases.
+
+**09/03/2019**
+
+[LC 904 Fruit Into Baskets](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/904_FruitIntoBaskets.cpp) ...Another "sliding window" problem. Used two queues to solve this particular problem. Probably standard (= medium) difficulty.
