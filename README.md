@@ -139,6 +139,7 @@
 
 [**283**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/283_MoveZeroes.cpp)
 [**287**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/287_FindTheDuplicateNumber.cpp)
+[**289**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/289_GameOfLife.cpp)
 
 [**290**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/290_WordPattern.cpp)
 [**292**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/292_NimGame.cpp)
@@ -1274,3 +1275,7 @@ sort(points.begin(),points.end(),[](vector<int> &p,vector<int> &q){return p[0]*p
 **09/03/2019**
 
 [LC 904 Fruit Into Baskets](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/904_FruitIntoBaskets.cpp) ...Another "sliding window" problem. Used two queues to solve this particular problem. Probably standard (= medium) difficulty.
+
+**09/04/2018**
+
+[LC 284 Game of Life](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/289_GameOfLife.cpp) ... trick for inplace processing is to make your own encoding scheme.
