@@ -323,6 +323,8 @@
 
 [**1052**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1052_GrumpyBookstoreOwner.cpp)
 
+[**1176**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1176_DietPlanPerformance.cpp)
+
 **Cracking The Coding Interview**
 
 **Ch 1 (Arrays and Strings)...**
@@ -1279,3 +1281,5 @@ sort(points.begin(),points.end(),[](vector<int> &p,vector<int> &q){return p[0]*p
 **09/04/2018**
 
 [LC 284 Game of Life](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/289_GameOfLife.cpp) ... trick for inplace processing is to make your own encoding scheme.
+
+[LC 1176 Diet Plan Performance)[https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1176_DietPlanPerformance.cpp] ... Very basic form of "sliding window" problem.
