@@ -120,6 +120,7 @@
 [**232**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/232_ImplementQueueUsingStacks.cpp)
 [**234**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/234_PalindromeLinkedList.cpp)
 [**237**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/237_DeleteNodeInALinkedList.cpp)
+[**238**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/238_ProductOfArrayExceptSelf.cpp)
 [**239**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/239_SlidingWindowMaximum.cpp)
 
 [**240**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/240_SearchA2DMatrixII.cpp)
@@ -1278,8 +1279,11 @@ sort(points.begin(),points.end(),[](vector<int> &p,vector<int> &q){return p[0]*p
 
 [LC 904 Fruit Into Baskets](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/904_FruitIntoBaskets.cpp) ...Another "sliding window" problem. Used two queues to solve this particular problem. Probably standard (= medium) difficulty.
 
-**09/04/2018**
+**09/04/2019**
 
 [LC 284 Game of Life](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/289_GameOfLife.cpp) ... trick for inplace processing is to make your own encoding scheme.
 
 [LC 1176 Diet Plan Performance](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1176_DietPlanPerformance.cpp) ... Very basic form of "sliding window" problem.
+
+**09/05/2019**
+[LC 238 Product of Array Except Self](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/238_ProductOfArrayExceptSelf.cpp) ...Felt like this is the type of problem whether you either know how to solve or have no idea. Trick is to realize product of all elements except self can be broken down to product of everything to the left times product of everything to the right. Further more, memory can be reduced from O(n) to O(1) by storing one of the arrays above as the answer and computing the other "array" on the fly and only storing the most recent result as an integer.
