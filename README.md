@@ -231,6 +231,7 @@
 
 [**637**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/637_AverageOfLevelsInBinaryTree.cpp)
 
+[**643**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/643_MaximumAverageSubarrayI.cpp)
 [**647**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/647_PalindromicSubstrings.cpp)
 
 [**654**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/654_MaximumBinaryTree.cpp)
@@ -1293,3 +1294,5 @@ sort(points.begin(),points.end(),[](vector<int> &p,vector<int> &q){return p[0]*p
 **09/06/2019**
 
 [LC 498 Diagonal Traverse](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/498_DiagonalTraverse.cpp) ... not too difficult to find the "pattern", but need to be careful about "edge cases" (= r=1 or c=1 input).
+
+[LC 643 Maximum Average Subarray I](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/643_MaximumAverageSubarrayI.cpp) ... easy "two pointer" problem.
