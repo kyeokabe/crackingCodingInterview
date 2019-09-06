@@ -190,6 +190,7 @@
 
 [**492**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/492_ConstructTheRectangle.cpp)
 [**496**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/496_NextGreaterElementI.cpp)
+[**498**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/498_DiagonalTraverse.cpp)
 
 [**500**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/500_KeyboardRow.cpp)
 [**501**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/501_FindModeInBinarySearchTree.cpp)
@@ -1288,3 +1289,7 @@ sort(points.begin(),points.end(),[](vector<int> &p,vector<int> &q){return p[0]*p
 **09/05/2019**
 
 [LC 238 Product of Array Except Self](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/238_ProductOfArrayExceptSelf.cpp) ...Felt like this is the type of problem whether you either know how to solve or have no idea. Trick is to realize product of all elements except self can be broken down to product of everything to the left times product of everything to the right. Further more, memory can be reduced from O(n) to O(1) by storing one of the arrays above as the answer and computing the other "array" on the fly and only storing the most recent result as an integer.
+
+**09/06/2019**
+
+[LC 498 Diagonal Traverse](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/498_DiagonalTraverse.cpp) ... not too difficult to find the "pattern", but need to be careful about "edge cases" (= r=1 or c=1 input).
