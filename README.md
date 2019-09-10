@@ -146,6 +146,7 @@
 [**292**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/292_NimGame.cpp)
 
 [**304**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/304_RangeSumQuery2D.cpp)
+[**307**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/307_RangeSumQuery.cpp)
 
 [**311**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/311_MinimumDepthOfBinaryTree.cpp)
 [**313**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/313_SuperUglyNumber.cpp)
@@ -1313,3 +1314,5 @@ sort(points.begin(),points.end(),[](vector<int> &p,vector<int> &q){return p[0]*p
 **09/10/2019**
 
 [LC 304 Range Sum Query 2D](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/304_RangeSumQuery2D.cpp)
+
+[LC 307 Range Sum Query](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/307_RangeSumQuery.cpp) ... not sure why it is medium difficulty
