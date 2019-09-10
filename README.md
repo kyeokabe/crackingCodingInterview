@@ -177,6 +177,8 @@
 [**412**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/412_FizzBuzz.cpp)
 [**415**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/415_AddStrings.cpp)
 
+[**429**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/429_N-aryTreeLevelOrderTraversal.cpp)
+
 [**437**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/437_PathSumIII.cpp)
 
 [**442**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/442_FindAllDuplicatesInAnArray.cpp)
@@ -1298,4 +1300,9 @@ sort(points.begin(),points.end(),[](vector<int> &p,vector<int> &q){return p[0]*p
 
 [LC 643 Maximum Average Subarray I](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/643_MaximumAverageSubarrayI.cpp) ... easy "two pointer" problem.
 
+**09/08/2019**
+
 [LC 470 Implement Rand10() using Rand7()](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/470_ImplementRand10UsingRand7.cpp)
+
+**09/09/2019**
+[LC 429 N-ary Tree Level Order Traversal](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/429_N-aryTreeLevelOrderTraversal.cpp)
