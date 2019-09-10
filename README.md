@@ -145,6 +145,8 @@
 [**290**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/290_WordPattern.cpp)
 [**292**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/292_NimGame.cpp)
 
+[**304**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/304_RangeSumQuery2D.cpp)
+
 [**311**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/311_MinimumDepthOfBinaryTree.cpp)
 [**313**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/313_SuperUglyNumber.cpp)
 [**319**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/319_BulbSwitcher.cpp)
@@ -1307,3 +1309,7 @@ sort(points.begin(),points.end(),[](vector<int> &p,vector<int> &q){return p[0]*p
 **09/09/2019**
 
 [LC 429 N-ary Tree Level Order Traversal](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/429_N-aryTreeLevelOrderTraversal.cpp) ... simple algorithm tree problem. Good refresher for basic tree class syntax.
+
+**09/10/2019**
+
+[LC 304 Range Sum Query 2D](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/304_RangeSumQuery2D.cpp)
