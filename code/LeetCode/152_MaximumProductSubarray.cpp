@@ -1,3 +1,6 @@
+//adapted from mzchen
+//https://leetcode.com/problems/maximum-product-subarray/discuss/48230/Possibly-simplest-solution-with-O(n)-time-complexity
+
 class Solution {
 public:
     
