@@ -123,6 +123,7 @@
 [**232**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/232_ImplementQueueUsingStacks.cpp)
 [**234**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/234_PalindromeLinkedList.cpp)
 [**235**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/235_LowestCommonAncestorOfABinarySearchTree.cpp)
+[**236**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/236_Lowest%20CommonAncestorOfABinaryTree.cpp)
 [**237**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/237_DeleteNodeInALinkedList.cpp)
 [**238**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/238_ProductOfArrayExceptSelf.cpp)
 [**239**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/239_SlidingWindowMaximum.cpp)
@@ -1330,3 +1331,5 @@ sort(points.begin(),points.end(),[](vector<int> &p,vector<int> &q){return p[0]*p
 [LC 152 Maximum Product Subarray](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/152_MaximumProductSubarray.cpp) ... Very tricky subarray problem. Probably could not solve again without looking at solution.
 
 [LC 235 Lowest Common Ancestor Of A Binary Search Tree](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/235_LowestCommonAncestorOfABinarySearchTree.cpp) ... Easy to solve if you can think which direction to search relative to roo->val, p->val, and q->val relationship.
+
+[LC 236 Lowest Common Ancestor Of A Binary Tree](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/236_Lowest%20CommonAncestorOfABinaryTree.cpp) ... Solved it using same idea as LC 235. However, there is probably a more efficient way of doing this.
