@@ -84,6 +84,7 @@
 [**144**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/144_BinaryTreePreOrderTraversal.cpp)
 [**145**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/145_BinaryTreePostorderTraversal.cpp)
 
+[**152**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/152_MaximumProductSubarray.cpp)
 [**153**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/153_FindMinimumInRotatedSortedArray.cpp)
 [**155**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/155_MinStack.cpp)
 
@@ -1322,3 +1323,7 @@ sort(points.begin(),points.end(),[](vector<int> &p,vector<int> &q){return p[0]*p
 [LC 229 Majority Element II](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/229_MajorityElementII.cpp) ... interesting problem. Had to check discussion board to understand solution. Worth revisiting.
 
 [LC 219 Contains Duplicate](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/219_ContainsDuplicateII.cpp) ... easy problem that uses unordered map
+
+**09/11/2019**
+
+[LC 152 Maximum Product Subarray](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/152_MaximumProductSubarray.cpp) ... Very tricky subarray problem. Probably could not solve again without looking at solution.
