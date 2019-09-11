@@ -110,6 +110,7 @@
 [**209**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/209_MinimumSizeSubarraySum.cpp)
 
 [**217**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/217_ContainsDuplicate.cpp)
+[**219**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/219_ContainsDuplicateII.cpp)
 
 [**222**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/222_CountCompleteTreeNodes.cpp)
 [**225**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/225_ImplementStackUsingQueues.cpp)
@@ -1319,3 +1320,5 @@ sort(points.begin(),points.end(),[](vector<int> &p,vector<int> &q){return p[0]*p
 [LC 307 Range Sum Query](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/307_RangeSumQuery.cpp) ... not sure why it is medium difficulty
 
 [LC 229 Majority Element II](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/229_MajorityElementII.cpp) ... interesting problem. Had to check discussion board to understand solution. Worth revisiting.
+
+[LC 219 Contains Duplicate](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/219_ContainsDuplicateII.cpp) ... easy problem that uses unordered map
