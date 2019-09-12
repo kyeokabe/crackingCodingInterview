@@ -1333,3 +1333,7 @@ sort(points.begin(),points.end(),[](vector<int> &p,vector<int> &q){return p[0]*p
 [LC 235 Lowest Common Ancestor Of A Binary Search Tree](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/235_LowestCommonAncestorOfABinarySearchTree.cpp) ... Easy to solve if you can think which direction to search relative to roo->val, p->val, and q->val relationship.
 
 [LC 236 Lowest Common Ancestor Of A Binary Tree](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/236_Lowest%20CommonAncestorOfABinaryTree.cpp) ... Solved it using same idea as LC 235. However, there is probably a more efficient way of doing this.
+
+**09/12/2019**
+
+Read [this post](https://leetcode.com/problems/house-robber/discuss/156523/From-good-to-great.-How-to-approach-most-of-DP-problems.) about dynamic programming!
