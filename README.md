@@ -1340,6 +1340,6 @@ Read [this post](https://leetcode.com/problems/house-robber/discuss/156523/From-
 
 [LC 509 Fibonacci Number revisiting](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/509_FibonacciNumber_revisit.cpp) ... 
 
-```
+
 Very good session reviewing difference between **dynamic programming** and **memoization**. Both techniques are about avoiding duplicate computation. **Dynamic programming** is when the code is framed to solve **bottom up** which is typically **iterative** whereas **memoization** is when the code is framed to solve **top to bottom** which is typically **recursive**. 
-```
+
