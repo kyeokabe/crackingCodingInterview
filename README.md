@@ -1343,7 +1343,7 @@ Read [this post](https://leetcode.com/problems/house-robber/discuss/156523/From-
 
 Very good session reviewing difference between **dynamic programming** and **memoization**. Both techniques are about avoiding duplicate computation. **Dynamic programming** is when the code is framed to solve **bottom up** which is typically **iterative** whereas **memoization** is when the code is framed to solve **top to bottom** which is typically **recursive**. 
 
-Worked on [this post](https://leetcode.com/problems/fibonacci-number/discuss/380938/C%2B%2B-How-to-Approach-Dynamic-ProgrammingMemoization-Problems) about dynamic programming & memoization
+Wrote [this post](https://leetcode.com/problems/fibonacci-number/discuss/380938/C%2B%2B-How-to-Approach-Dynamic-ProgrammingMemoization-Problems) about dynamic programming & memoization
 
 **09/13/2019**
 
