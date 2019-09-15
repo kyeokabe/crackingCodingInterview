@@ -11,29 +11,20 @@ public:
         if(root==nullptr)
             return 0;
         
-        if(root->right==nullptr&&root->left==nullptr)
-            return root->val;
-        if(root->right==nullptr&&root->left!=nullptr)
-            return max(root->val+rob2(root->left,true),rob2(root->left,false));
-        if(root->right!=nullptr&&root->left==nullptr)
-            return max(root->val+rob2(root->right,true),rob2(root->right,false));
-        
-        int a = root->val+rob2(root->right,true)+rob2(root->left,true);
-        int b = rob2(root->right,false)+rob2(root->left,false);
-        return max(a,b);
+        int option1=root->val;
+        if(root->right!=nullptr){
+            option1+=rob(root->right->right);
+            option1+=rob(root->right->left);
         }
+        if(root->left!=nullptr){
+            option1+=rob(root->left->left);
+            option1+=rob(root->left->right);
+        }
+        
+        int option2=rob(root->right)+rob(root->left);
     
-    int rob2(TreeNode* root, bool skipMe){
-        if(root==nullptr)
-            return 0;
         
-        if(!skipMe){
-            int a=rob2(root->left,false)+rob2(root->right,false);
-            int b=root->val+rob2(root->left,true)+rob2(root->right,true);
-            return max(a,b);
-        }
-        else
-            return rob2(root->left,false)+rob2(root->right,false);
+        return max(option1,option2);
     }
 };
 
