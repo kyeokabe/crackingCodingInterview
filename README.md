@@ -344,6 +344,8 @@
 
 [**1189**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1189_MaximumNumberOfBalloons.cpp)
 
+[**1191**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1191_K-ConcatenationMaximumSum.cpp)
+
 **Cracking The Coding Interview**
 
 **Ch 1 (Arrays and Strings)...**
@@ -1366,3 +1368,4 @@ Wrote [this post](https://leetcode.com/problems/fibonacci-number/discuss/380938/
 
 [LC 1189 Maximum Number of Balloons](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1189_MaximumNumberOfBalloons.cpp)
 
+[LC 1191 K-Concatenation Maximum Sum](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1191_K-ConcatenationMaximumSum.cpp)
