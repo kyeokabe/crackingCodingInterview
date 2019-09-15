@@ -178,6 +178,7 @@
 [**387**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/387_FirstUniqueCharacterInAString.cpp)
 [**389**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/389_FindTheDifference.cpp)
 
+[**392**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/392_IsSubsequence.cpp)
 [**393**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/393_UTF-8Validation.cpp)
 [**394**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/394_DecodeString.cpp)
 
@@ -1356,3 +1357,8 @@ Wrote [this post](https://leetcode.com/problems/fibonacci-number/discuss/380938/
 **09/14/2019**
 
 [LC 337 House Robber III](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/337_HouseRobberIII.cpp) ... Still need to try iterative solution!
+
+**09/14/2019**
+
+[LC 392 Is Subsequence](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/392_IsSubsequence.cpp)
+
