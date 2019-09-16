@@ -43,6 +43,7 @@
 [**80**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/80_RemoveDuplicatesFromSOrtedArrayII.cpp)
 [**82**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/82_RemoveDuplicatesFromSortedListII.cpp)
 [**83**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/83_RemoveDuplicatesFromSortedList.cpp)
+[**84**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/84_LargestRectangleInHistogram.cpp)
 [**86**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/86_PartitionList.cpp)
 [**88**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/88_MergeSortedArray.cpp)
 
@@ -1379,3 +1380,5 @@ Wrote [this post](https://leetcode.com/problems/fibonacci-number/discuss/380938/
 **09/15/2019**
 
 [LC 1154 Day of the Year](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1154_DayOfTheYear.cpp)
+
+[LC 84 Largest Rectangle in Histogram](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/84_LargestRectangleInHistogram.cpp) ... **Very difficult!** Try again. Type of problem where you maintain maximum area using a stack.
