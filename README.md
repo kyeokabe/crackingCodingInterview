@@ -340,6 +340,8 @@
 
 [**1052**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1052_GrumpyBookstoreOwner.cpp)
 
+[**1154**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1154_DayOfTheYear.cpp)
+
 [**1161**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1161_MaximumLevelSumOfABinaryTree.cpp)
 
 [**1176**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1176_DietPlanPerformance.cpp)
@@ -1373,3 +1375,7 @@ Wrote [this post](https://leetcode.com/problems/fibonacci-number/discuss/380938/
 [LC 1191 K-Concatenation Maximum Sum](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1191_K-ConcatenationMaximumSum.cpp)
 
 [LC 1161 Maximum Level Sum of a Binary Tree](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1161_MaximumLevelSumOfABinaryTree.cpp)
+
+**09/15/2019**
+
+[LC 1154 Day of the Year](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1154_DayOfTheYear.cpp)
