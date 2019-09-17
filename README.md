@@ -339,6 +339,7 @@
 [**1046**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1046_LastStoneWeight.cpp)
 [**1047**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1047_RemoveAllAdjacentDuplicatesInString.cpp)
 
+[**1051**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1051_HeightChecker.cpp)
 [**1052**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1052_GrumpyBookstoreOwner.cpp)
 
 [**1154**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1154_DayOfTheYear.cpp)
@@ -1387,3 +1388,6 @@ Wrote [this post](https://leetcode.com/problems/fibonacci-number/discuss/380938/
 **09/16/2019**
 
 [LC 67 Add Binary](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/67_AddBinary_revisit.cpp) ... revisited
+
+[LC 1051 Height Checker](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1051_HeightChecker.cpp)
+
