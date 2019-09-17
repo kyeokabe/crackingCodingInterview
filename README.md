@@ -304,6 +304,7 @@
 
 [**941**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/941_ValidMountainArray.cpp)
 
+[**951**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/951_FlipEquivalentBinaryTrees.cpp)
 [**958**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/958_CheckCompletenessOfABinaryTree.cpp)
 
 [**965**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/965_UnivaluedBinaryTree.cpp)
@@ -1394,3 +1395,5 @@ Wrote [this post](https://leetcode.com/problems/fibonacci-number/discuss/380938/
 [LC 1051 Height Checker](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1051_HeightChecker.cpp)
 
 [LC 994 Rotting Oranges](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/994_RottingOranges.cpp)
+
+[LC 951 Flip Equivalent Binary Trees](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/951_FlipEquivalentBinaryTrees.cpp) ... Pretty easy.
