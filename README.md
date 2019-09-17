@@ -315,6 +315,8 @@
 [**984**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/984_StringWithoutAAAorBBB.cpp)
 [**988**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/988_SmallestStringStartingFromLeaf.cpp)
 
+[**994**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/994_RottingOranges.cpp)
+
 [**1004**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1004_MaxConsecutiveOnesIII.cpp)
 [**1005**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1005_MinimumSumOfArrayAfterKNegations.cpp)
 [**1006**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1006_ClumsyFactorial.cpp)
@@ -1391,3 +1393,4 @@ Wrote [this post](https://leetcode.com/problems/fibonacci-number/discuss/380938/
 
 [LC 1051 Height Checker](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1051_HeightChecker.cpp)
 
+[LC 994 Rotting Oranges](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/994_RottingOranges.cpp)
