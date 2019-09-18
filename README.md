@@ -313,6 +313,7 @@
 [**976**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/976_LargestPerimeterTriangle.cpp)
 [**977**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/977_SquaresOfASortedArray.cpp)
 
+[**983**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/983_MinimumCostForTickets.cpp)
 [**984**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/984_StringWithoutAAAorBBB.cpp)
 [**988**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/988_SmallestStringStartingFromLeaf.cpp)
 
@@ -1397,3 +1398,7 @@ Wrote [this post](https://leetcode.com/problems/fibonacci-number/discuss/380938/
 [LC 994 Rotting Oranges](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/994_RottingOranges.cpp)
 
 [LC 951 Flip Equivalent Binary Trees](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/951_FlipEquivalentBinaryTrees.cpp) ... Pretty easy.
+
+**09/17/2019**
+
+[LC 983 Minimum Cost for Tickets](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/983_MinimumCostForTickets.cpp) ... Fortunately was able to solve it within ~45 min or so, but not that easy. First submission was with just recursion. Second submission was with +DP modification.
