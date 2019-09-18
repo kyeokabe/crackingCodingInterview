@@ -315,6 +315,7 @@
 
 [**983**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/983_MinimumCostForTickets.cpp)
 [**984**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/984_StringWithoutAAAorBBB.cpp)
+[**985**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/985_SumOfEvenNumbersAfterQueries.cpp)
 [**988**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/988_SmallestStringStartingFromLeaf.cpp)
 
 [**994**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/994_RottingOranges.cpp)
@@ -1402,3 +1403,5 @@ Wrote [this post](https://leetcode.com/problems/fibonacci-number/discuss/380938/
 **09/17/2019**
 
 [LC 983 Minimum Cost for Tickets](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/983_MinimumCostForTickets.cpp) ... Fortunately was able to solve it within ~45 min or so, but not that easy. First submission was with just recursion. Second submission was with +DP modification.
+
+[LC 985 Sum of Even Numbers After Queries](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/985_SumOfEvenNumbersAfterQueries.cpp) ... missed negative odd mod even pos results. **e.g., -3%2->-1 (not 1)**
