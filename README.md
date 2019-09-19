@@ -349,6 +349,8 @@
 [**1051**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1051_HeightChecker.cpp)
 [**1052**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1052_GrumpyBookstoreOwner.cpp)
 
+[**1072**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1072_FlipColumnsForMaximumNumbersOfEqualRows.cpp)
+
 [**1154**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1154_DayOfTheYear.cpp)
 
 [**1161**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1161_MaximumLevelSumOfABinaryTree.cpp)
@@ -1413,3 +1415,5 @@ Wrote [this post](https://leetcode.com/problems/fibonacci-number/discuss/380938/
 **09/19/2019**
 
 [LC 987 Vertical Order Tracersal of a Binary Tree](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/987_VerticalOrderTraversalOfABinaryTree.cpp) ... not algorighmically hard, but was annoying to get it right.
+
+[LC 1072 Flip Columns For Maximum Numbers Of Equal Rows](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1072_FlipColumnsForMaximumNumbersOfEqualRows.cpp)
