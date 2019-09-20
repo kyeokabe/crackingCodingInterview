@@ -367,12 +367,17 @@
 
 **Leet Code by Problem Category (needs to be updated)**
 
+**Unclassified**
+
+[**49**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/49_GroupAnagrams.cpp)
+
 **Linked List**
 
 [**2**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/2_AddTwoNumbers.cpp)
 [**21**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/21_MergeTwoSortedLists.cpp)
 [**23**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/23_MergeKSortedLists.cpp)
 [**24**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/24_SwapNodesInPairs.cpp)
+[**61**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/61_RotateList.cpp)
 
 **Two Pointers/Sliding Window**
 
@@ -381,12 +386,21 @@
 **Two Pointers/Array**
 
 [**15**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/15_3Sum.cpp)
+
 [**27**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/27_RemoveElement.cpp)
 check 27 again
 
 **Two Pointers/Linked List**
 
 [**19**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/19_RemoveNthNodeFromEndOfList.cpp)
+
+**Binary Search (easy)**
+
+[**35**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/35_InsertPosition.cpp)
+
+**Vector/Map Lookup**
+
+[**36**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/36_ValidSudoku.cpp)
 
 **Palindrome**
 
@@ -397,6 +411,17 @@ check 27 again
 
 [**7**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/07_Reverse_Integer.cpp)
 [**20**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/20_ValidParentheses.cpp)
+
+**In-Place Matrix Operation**
+
+[**48**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/48_RotateImage.cpp)
+
+
+**Recurrsion**
+
+[**50**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/50_Pow(x%2Cn).cpp)
+
+
 
 ***************************
 
