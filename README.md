@@ -1417,3 +1417,7 @@ Wrote [this post](https://leetcode.com/problems/fibonacci-number/discuss/380938/
 [LC 987 Vertical Order Tracersal of a Binary Tree](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/987_VerticalOrderTraversalOfABinaryTree.cpp) ... not algorighmically hard, but was annoying to get it right.
 
 [LC 1072 Flip Columns For Maximum Numbers Of Equal Rows](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1072_FlipColumnsForMaximumNumbersOfEqualRows.cpp) ... learned that **unordered_map** does **not** have pre defined operator to use vector<int> as keys but **map** does.
+
+**09/20/2019**
+
+[LC 3 Longest Substring Without Repeating Characters](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/3_LongestSubstringWithoutRepeatingCharacters_revisit.cpp) ... Revisited. This time, solved with "two pointers" making time complexity O(n) rather than O(n^2)
