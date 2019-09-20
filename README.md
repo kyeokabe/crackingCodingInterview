@@ -3,7 +3,7 @@
 ![alt text](https://github.com/kyeokabe/crackingCodingInterview/blob/master/pictures/5_25_2019_stats.png)
 ![alt text](https://github.com/kyeokabe/crackingCodingInterview/blob/master/pictures/LCrank_5_25_2019.png)
 
-**Leet Code**
+**Leet Code by Problem Numbers**
 
 [**2**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/2_AddTwoNumbers.cpp)
 [**3**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/3_LongestSubstringWithoutRepeatingCharacters.cpp)
@@ -360,6 +360,41 @@
 [**1189**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1189_MaximumNumberOfBalloons.cpp)
 
 [**1191**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1191_K-ConcatenationMaximumSum.cpp)
+
+**Leet Code by Problem Category (needs to be updated)**
+
+**Linked List**
+
+[**2**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/2_AddTwoNumbers.cpp)
+[**21**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/21_MergeTwoSortedLists.cpp)
+[**23**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/23_MergeKSortedLists.cpp)
+[**24**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/24_SwapNodesInPairs.cpp)
+
+**Two Pointers/Sliding Window**
+
+[**3**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/3_LongestSubstringWithoutRepeatingCharacters.cpp)
+
+**Two Pointers/Array**
+
+[**15**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/15_3Sum.cpp)
+[**27**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/27_RemoveElement.cpp)
+check 27 again
+
+**Two Pointers/Linked List**
+
+[**19**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/19_RemoveNthNodeFromEndOfList.cpp)
+
+**Palindrome**
+
+[**5**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/5_LongestPalindromicSubstring.cpp)
+[**9**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/09_PalindromeNumber.cpp)
+
+**Stacks**
+
+[**7**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/07_Reverse_Integer.cpp)
+[**20**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/20_ValidParentheses.cpp)
+
+***************************
 
 **Cracking The Coding Interview**
 
