@@ -33,8 +33,8 @@
 [**61**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/61_RotateList.cpp)
 [**62**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/62_UniquePaths.cpp)
 [**66**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/66_PlusOne.cpp)
- [**67**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/67_AddBinary.cpp)
- [**69**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/69_Sqrt(x).cpp)
+[**67**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/67_AddBinary.cpp)
+[**69**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/69_Sqrt(x).cpp)
 
 [**70**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/70_ClimbingStairs.cpp)
 [**73**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/73_SetMatrixZeros.cpp)
@@ -370,6 +370,8 @@
 **Unclassified**
 
 [**49**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/49_GroupAnagrams.cpp)
+[**67**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/67_AddBinary.cpp)
+[**69**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/69_Sqrt(x).cpp)
 
 **Linked List**
 
@@ -411,16 +413,21 @@ check 27 again
 
 [**7**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/07_Reverse_Integer.cpp)
 [**20**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/20_ValidParentheses.cpp)
+[**66**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/66_PlusOne.cpp)
 
 **In-Place Matrix Operation**
 
 [**48**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/48_RotateImage.cpp)
+[**73**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/73_SetMatrixZeros.cpp)
 
-
-**Recurrsion**
+**Recurrsion (basic)**
 
 [**50**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/50_Pow(x%2Cn).cpp)
 
+**Recurrsion (memoization i.e., top-down)**
+
+[**62**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/62_UniquePaths.cpp)
+[**70**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/70_ClimbingStairs.cpp)
 
 
 ***************************
