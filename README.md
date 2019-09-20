@@ -3,7 +3,9 @@
 ![alt text](https://github.com/kyeokabe/crackingCodingInterview/blob/master/pictures/5_25_2019_stats.png)
 ![alt text](https://github.com/kyeokabe/crackingCodingInterview/blob/master/pictures/LCrank_5_25_2019.png)
 
-**Leet Code by Problem Numbers**
+***************************
+
+**Leet Code by Problem Number**
 
 [**2**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/2_AddTwoNumbers.cpp)
 [**3**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/3_LongestSubstringWithoutRepeatingCharacters.cpp)
@@ -360,6 +362,8 @@
 [**1189**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1189_MaximumNumberOfBalloons.cpp)
 
 [**1191**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1191_K-ConcatenationMaximumSum.cpp)
+
+***************************
 
 **Leet Code by Problem Category (needs to be updated)**
 
