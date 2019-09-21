@@ -419,6 +419,10 @@ check 27 again
 
 [**48**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/48_RotateImage.cpp)
 [**73**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/73_SetMatrixZeros.cpp)
+[**75**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/75_SortColors.cpp)
+
+**Matrix Traversal**
+[**74**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/74_SearchA2DMatrix.cpp)
 
 **Recurrsion (basic)**
 
@@ -429,6 +433,9 @@ check 27 again
 [**62**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/62_UniquePaths.cpp)
 [**70**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/70_ClimbingStairs.cpp)
 
+**Find All Subsets**
+
+[**78**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/78_Subsets.cpp)
 
 ***************************
 
