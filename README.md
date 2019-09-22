@@ -372,6 +372,10 @@
 [**49**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/49_GroupAnagrams.cpp)
 [**67**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/67_AddBinary.cpp)
 [**69**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/69_Sqrt(x).cpp)
+[**88**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/88_MergeSortedArray.cpp)
+
+**Binary Trees**
+[**94**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/94_BinaryTreeInorderTraversal.cpp)
 
 **Linked List**
 
@@ -380,6 +384,13 @@
 [**23**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/23_MergeKSortedLists.cpp)
 [**24**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/24_SwapNodesInPairs.cpp)
 [**61**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/61_RotateList.cpp)
+[**86**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/86_PartitionList.cpp)
+
+**Two Pointers/Linked List**
+
+[**19**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/19_RemoveNthNodeFromEndOfList.cpp)
+[**82**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/82_RemoveDuplicatesFromSortedListII.cpp)
+[**83**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/83_RemoveDuplicatesFromSortedList.cpp)
 
 **Two Pointers/Sliding Window**
 
@@ -392,9 +403,8 @@
 [**27**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/27_RemoveElement.cpp)
 check 27 again
 
-**Two Pointers/Linked List**
-
-[**19**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/19_RemoveNthNodeFromEndOfList.cpp)
+[**80**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/80_RemoveDuplicatesFromSOrtedArrayII.cpp)
+tricky...try 80 again
 
 **Binary Search (easy)**
 
@@ -414,6 +424,11 @@ check 27 again
 [**7**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/07_Reverse_Integer.cpp)
 [**20**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/20_ValidParentheses.cpp)
 [**66**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/66_PlusOne.cpp)
+
+**Stacks and Tricky Algo**
+
+[**84**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/84_LargestRectangleInHistogram.cpp)
+
 
 **In-Place Matrix Operation**
 
