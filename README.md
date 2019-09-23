@@ -1529,3 +1529,7 @@ Wrote [this post](https://leetcode.com/problems/fibonacci-number/discuss/380938/
 **09/20/2019**
 
 [LC 3 Longest Substring Without Repeating Characters](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/3_LongestSubstringWithoutRepeatingCharacters_revisit.cpp) ... Revisited. This time, solved with "two pointers" making time complexity O(n) rather than O(n^2)
+
+**09/23/2019**
+
+revisited [LC 973 K Closest Points to Origin](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/973_KClosestPointsToOrigin.cpp) ... **lambda sort syntax is tricky!**
