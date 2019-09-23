@@ -233,6 +233,7 @@
 [**556**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/556_NextGreaterElementIII.cpp)
 [**559**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/559_MaximumDepthOfN-aryTree.cpp)
 
+[**560**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/560_SubarraySumEqualsK.cpp)
 [**566**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/566_ReshapeTheMatrix.cpp)
 [**567**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/567_PermulationInString.cpp)
 
@@ -466,6 +467,10 @@ tricky...try 80 again
 **Find All Subsets**
 
 [**78**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/78_Subsets.cpp)
+
+**Array with Hashtables**
+
+[**560**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/560_SubarraySumEqualsK.cpp)
 
 ***************************
 
@@ -1533,3 +1538,5 @@ Wrote [this post](https://leetcode.com/problems/fibonacci-number/discuss/380938/
 **09/23/2019**
 
 revisited [LC 973 K Closest Points to Origin](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/973_KClosestPointsToOrigin.cpp) ... **lambda sort syntax is tricky!**
+
+[LC 560 Subarray Sum Equals K](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/560_SubarraySumEqualsK.cpp)
