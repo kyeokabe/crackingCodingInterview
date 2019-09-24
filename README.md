@@ -288,6 +288,7 @@
 
 [**852**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/852_PeakIndexInAMountainArray.cpp)
 
+[**863**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/863_AllNodesDistanceKInBinaryTree.cpp)
 [**867**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/867_TransposeMatrix.cpp)
 
 [**873**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/873_LongestFibonacciSunsequence.cpp)
@@ -391,7 +392,6 @@
 [**107**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/107_BinaryTreeLevelOrderTraversalII.cpp)
 [**108**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/108_ConvertSortedArrayToBinarySearchTree.cpp)
 [**109**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/109_ConvertSortedListToBinarySearchTree.cpp)
-
 
 **Linked List**
 
@@ -1544,3 +1544,7 @@ revisited [LC 973 K Closest Points to Origin](https://github.com/kyeokabe/cracki
 [LC 560 Subarray Sum Equals K](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/560_SubarraySumEqualsK.cpp)
 
 [LC 953 Verifying An Alien Dictionary](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/953_VerifyingAnAlienDictioanary.cpp)
+
+**09/24/2019**
+
+[LC 863 All Nodes Distance K in Binary Tree](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/863_AllNodesDistanceKInBinaryTree.cpp) ... Good question. New concept: 1. Use maps to move from child to parent node. 2. Use queue for breadth first search, stacks for deoth first search.
