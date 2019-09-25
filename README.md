@@ -135,6 +135,7 @@
 [**240**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/240_SearchA2DMatrixII.cpp)
 [**242**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/242_ValidAnagram.cpp)
 
+[**252**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/252_MeetingRooms.cpp)
 [**253**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/253_MeetingRoomsII.cpp)
 [**257**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/257_BinaryTreePaths.cpp)
 [**258**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/258_AddDigits.cpp)
@@ -1558,3 +1559,5 @@ revisited [LC 973 K Closest Points to Origin](https://github.com/kyeokabe/cracki
 vector<vector<int> v; //v=[[30,40],[50,60],[20,30]]
 sort(v.begin(),v.end()); //v=[[20,30],[30,40],[50,60]]
 ```
+
+[LC 252 Meeting Rooms](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/252_MeetingRooms.cpp) ... Eassier version of meeting rooms II, but the basic idea (i.e., trick) is the same.
