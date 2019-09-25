@@ -135,6 +135,7 @@
 [**240**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/240_SearchA2DMatrixII.cpp)
 [**242**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/242_ValidAnagram.cpp)
 
+[**253**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/253_MeetingRoomsII.cpp)
 [**257**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/257_BinaryTreePaths.cpp)
 [**258**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/258_AddDigits.cpp)
 
@@ -1548,3 +1549,12 @@ revisited [LC 973 K Closest Points to Origin](https://github.com/kyeokabe/cracki
 **09/24/2019**
 
 [LC 863 All Nodes Distance K in Binary Tree](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/863_AllNodesDistanceKInBinaryTree.cpp) ... Good question. New concept: 1. Use maps to move from child to parent node. 2. Use queue for breadth first search, stacks for deoth first search.
+
+**09/25/2019**
+
+[LC 253 Meeting Rooms II](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/253_MeetingRoomsII.cpp) ... The tricky part is to realize that this problem can be easily solved by sorting based on starting times. Note that to sort based on the first element, this is all you need to do.
+
+```
+vector<vector<int> v; //v=[[30,40],[50,60],[20,30]]
+sort(v.begin(),v.end()); //v=[[20,30],[30,40],[50,60]]
+```
