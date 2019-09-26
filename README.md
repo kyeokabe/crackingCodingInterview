@@ -25,6 +25,7 @@
 [**35**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/35_InsertPosition.cpp)
 [**36**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/36_ValidSudoku.cpp)
 
+[**41**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/41_FirstMissingPositive.cpp)
 [**48**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/48_RotateImage.cpp)
 [**49**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/49_GroupAnagrams.cpp)
 
@@ -475,6 +476,9 @@ tricky...try 80 again
 
 [**560**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/560_SubarraySumEqualsK.cpp)
 [**953**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/953_VerifyingAnAlienDictioanary.cpp)
+
+**Array using Element as Index**
+[**41**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/41_FirstMissingPositive.cpp)
 
 ***************************
 
@@ -1561,3 +1565,5 @@ sort(v.begin(),v.end()); //v=[[20,30],[30,40],[50,60]]
 ```
 
 [LC 252 Meeting Rooms](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/252_MeetingRooms.cpp) ... Eassier version of meeting rooms II, but the basic idea (i.e., trick) is the same.
+
+[LC 41 First Missing Positive](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/41_FirstMissingPositive.cpp) ... Was able to come up with the trick. The trick is to use the elements as indicies and keep hopping to the corresponding element while it is a valid range and mark it (=INT_MIN) as existing. i.e., n_i = INT_MIN means that i was a positive integer in the array.
