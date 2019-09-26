@@ -26,6 +26,7 @@
 [**36**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/36_ValidSudoku.cpp)
 
 [**41**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/41_FirstMissingPositive.cpp)
+[**42**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/42_TrappingRainWater.cpp)
 [**48**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/48_RotateImage.cpp)
 [**49**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/49_GroupAnagrams.cpp)
 
@@ -475,6 +476,7 @@ tricky...try 80 again
 
 **Array with Hashtables**
 
+[**42**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/42_TrappingRainWater.cpp)
 [**560**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/560_SubarraySumEqualsK.cpp)
 [**953**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/953_VerifyingAnAlienDictioanary.cpp)
 
@@ -1573,3 +1575,8 @@ sort(v.begin(),v.end()); //v=[[20,30],[30,40],[50,60]]
 [LC 41 First Missing Positive](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/41_FirstMissingPositive.cpp) ... Was able to come up with the trick. The trick is to use the elements as indicies and keep hopping to the corresponding element while it is a valid range and mark it (=INT_MIN) as existing. i.e., n_i = INT_MIN means that i was a positive integer in the array.
 
 [LC 53 Maximum Subarray](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/53_MaximumSubarray.cpp) ... Watched youtube channel ["Back To Back SWE"](https://www.youtube.com/watch?v=2MmGzdiKR9Y) to get the answer.
+
+
+**09/26/2019**
+
+[LC 43 Trapping Rain](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/42_TrappingRainWater.cpp)
