@@ -1572,4 +1572,4 @@ sort(v.begin(),v.end()); //v=[[20,30],[30,40],[50,60]]
 
 [LC 41 First Missing Positive](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/41_FirstMissingPositive.cpp) ... Was able to come up with the trick. The trick is to use the elements as indicies and keep hopping to the corresponding element while it is a valid range and mark it (=INT_MIN) as existing. i.e., n_i = INT_MIN means that i was a positive integer in the array.
 
-[LC 53](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/53_MaximumSubarray.cpp) ... Watched youtube channel ["Back To Back SWE"](https://www.youtube.com/watch?v=2MmGzdiKR9Y) to get the answer.
+[LC 53 Maximum Subarray](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/53_MaximumSubarray.cpp) ... Watched youtube channel ["Back To Back SWE"](https://www.youtube.com/watch?v=2MmGzdiKR9Y) to get the answer.
