@@ -96,6 +96,7 @@
 [**155**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/155_MinStack.cpp)
 
 [**160**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/160_IntersectionOfTwoLinkedLists.cpp)
+[**161**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/161_OneEditDistance.cpp)
 [**162**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/162_FindPeakElement.cpp)
 [**167**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/167_TwoSumII.cpp)
 [**169**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/169_MajorityElement.cpp)
@@ -482,14 +483,20 @@ tricky...try 80 again
 [**953**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/953_VerifyingAnAlienDictioanary.cpp)
 
 **Array using Element as Index**
+
 [**41**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/41_FirstMissingPositive.cpp)
 
 **Array & Dynamic Programming**
+
 [**53**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/53_MaximumSubarray.cpp)
 
 **Array ... Sort and Process**
 
 [**56**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/56_MergeIntervals.cpp)
+
+**Array (other)**
+
+[**161**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/161_OneEditDistance.cpp)
 
 ***************************
 
@@ -1587,3 +1594,5 @@ sort(v.begin(),v.end()); //v=[[20,30],[30,40],[50,60]]
 [LC 43 Trapping Rain](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/42_TrappingRainWater.cpp)
 
 [LC 56 Merge Intervals](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/56_MergeIntervals.cpp)
+
+[LC 161 One Edit Distance](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/161_OneEditDistance.cpp)
