@@ -1585,3 +1585,5 @@ sort(v.begin(),v.end()); //v=[[20,30],[30,40],[50,60]]
 **09/26/2019**
 
 [LC 43 Trapping Rain](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/42_TrappingRainWater.cpp)
+
+[LC 56 Merge Intervals](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/56_MergeIntervals.cpp)
