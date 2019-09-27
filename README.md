@@ -184,6 +184,7 @@
 
 [**377**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/377_CombinationSumIV.cpp)
 
+[**380**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/380_InsertDeleteGetRandom1.cpp)
 [**383**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/383_RansomNote.cpp)
 [**387**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/387_FirstUniqueCharacterInAString.cpp)
 [**389**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/389_FindTheDifference.cpp)
@@ -479,6 +480,7 @@ tricky...try 80 again
 **Array with Hashtables**
 
 [**42**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/42_TrappingRainWater.cpp)
+[**380**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/380_InsertDeleteGetRandom1.cpp)
 [**560**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/560_SubarraySumEqualsK.cpp)
 [**953**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/953_VerifyingAnAlienDictioanary.cpp)
 
@@ -1596,3 +1598,7 @@ sort(v.begin(),v.end()); //v=[[20,30],[30,40],[50,60]]
 [LC 56 Merge Intervals](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/56_MergeIntervals.cpp)
 
 [LC 161 One Edit Distance](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/161_OneEditDistance.cpp)
+
+**09/27/2019**
+
+[LC 380 Insert Delete GetRandom O(1)](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/380_InsertDeleteGetRandom1.cpp) ... Great problem. The trick for O(1) return is to use rand()%size on an array. The problem is how to delete an element in an array. The trick is to fill a particular element with the last number of the array and pop_back the array.
