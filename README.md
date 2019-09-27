@@ -1604,3 +1604,5 @@ sort(v.begin(),v.end()); //v=[[20,30],[30,40],[50,60]]
 **09/27/2019**
 
 [LC 380 Insert Delete GetRandom O(1)](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/380_InsertDeleteGetRandom1.cpp) ... Great problem. The trick for O(1) return is to use rand()%size on an array. The problem is how to delete an element in an array. The trick is to fill a particular element with the last number of the array and pop_back the array.
+
+[LC 11 Container With Most Water](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/11_ContainerWithMostWater.cpp) ... Not too difficult if you can realize it can be solved using the "two pointer sliding window" technique.
