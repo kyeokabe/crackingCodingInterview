@@ -10,6 +10,7 @@
 [**2**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/2_AddTwoNumbers.cpp)
 [**3**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/3_LongestSubstringWithoutRepeatingCharacters.cpp)
 [**5**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/5_LongestPalindromicSubstring.cpp)
+[**6**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/06_ZigZagConversion.cpp)
 [**7**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/07_Reverse_Integer.cpp)
 [**9**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/09_PalindromeNumber.cpp)
 
@@ -461,6 +462,10 @@ tricky...try 80 again
 [**48**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/48_RotateImage.cpp)
 [**73**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/73_SetMatrixZeros.cpp)
 [**75**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/75_SortColors.cpp)
+
+**Matrix Operation**
+
+[**6**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/06_ZigZagConversion.cpp)
 
 **Matrix Traversal**
 
@@ -1606,3 +1611,5 @@ sort(v.begin(),v.end()); //v=[[20,30],[30,40],[50,60]]
 [LC 380 Insert Delete GetRandom O(1)](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/380_InsertDeleteGetRandom1.cpp) ... Great problem. The trick for O(1) return is to use rand()%size on an array. The problem is how to delete an element in an array. The trick is to fill a particular element with the last number of the array and pop_back the array.
 
 [LC 11 Container With Most Water](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/11_ContainerWithMostWater.cpp) ... Not too difficult if you can realize it can be solved using the "two pointer sliding window" technique.
+
+[LC 6 ZigZag Conversion](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/06_ZigZagConversion.cpp) ... Algorithm was not too hard but encountered a few bugs before getting it correct.
