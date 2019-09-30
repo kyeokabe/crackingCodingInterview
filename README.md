@@ -36,6 +36,7 @@
 
 [**50**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/50_Pow(x%2Cn).cpp)
 [**53**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/53_MaximumSubarray.cpp)
+[**55**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/55_JumpGame.cpp)
 [**56**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/56_MergeIntervals.cpp)
 
 [**61**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/61_RotateList.cpp)
@@ -514,7 +515,7 @@ tricky...try 80 again
 [**40**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/40_CombinationSumII.cpp)
 
 **Array (other)**
-
+[**55**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/55_JumpGame.cpp)
 [**161**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/161_OneEditDistance.cpp)
 
 ***************************
@@ -1633,3 +1634,5 @@ sort(v.begin(),v.end()); //v=[[20,30],[30,40],[50,60]]
 [LC 39 Combination Sum](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/39_CombinationSum.cpp) ... Got the answer correct the first time but a bit tricky. May not be able to solve on an off day.
 
 [LC 40 Combination Sum II](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/40_CombinationSumII.cpp) ... My solution seems a bit messy. Probably room to improve.
+
+[LC 55 Jump Game](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/55_JumpGame.cpp) ... trick 1: You only need to think about where the 0s are, and what precedes them. trick 2: You don't need to consider the last 0 because if there was a 0 before it the algo will check whether it jumped over it and arrived on the last index.
