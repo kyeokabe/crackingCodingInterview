@@ -377,6 +377,7 @@
 [**1191**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1191_K-ConcatenationMaximumSum.cpp)
 
 [**1207**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1207_UniqueNumberOfOccurrences.cpp)
+[**1208**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1208_GetEqualSubstringsWithinBudget.cpp)
 
 ***************************
 
@@ -1618,4 +1619,6 @@ sort(v.begin(),v.end()); //v=[[20,30],[30,40],[50,60]]
 
 **09/31/2019**
 
-[LC 1207](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1207_UniqueNumberOfOccurrences.cpp)
+[LC 1207](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1207_UniqueNumberOfOccurrences.cpp) ... Easy problem. No real tricks.
+
+[LC 1208](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1208_GetEqualSubstringsWithinBudget.cpp) ... Basically standard sliding window problem, but struggled much more than I should due to overthinking ptr1 termination conditions.
