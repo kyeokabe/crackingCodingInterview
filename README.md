@@ -1624,8 +1624,8 @@ sort(v.begin(),v.end()); //v=[[20,30],[30,40],[50,60]]
 
 **09/31/2019**
 
-[LC 1207](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1207_UniqueNumberOfOccurrences.cpp) ... Easy problem. No real tricks.
+[LC 1207 Unique Number of Occurrences](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1207_UniqueNumberOfOccurrences.cpp) ... Easy problem. No real tricks.
 
-[LC 1208](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1208_GetEqualSubstringsWithinBudget.cpp) ... Basically standard sliding window problem, but struggled much more than I should due to overthinking ptr1 termination conditions.
+[LC 1208 Get Equal Substrings Within Budget](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1208_GetEqualSubstringsWithinBudget.cpp) ... Basically standard sliding window problem, but struggled much more than I should due to overthinking ptr1 termination conditions.
 
-[LC 39](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/39_CombinationSum.cpp) ... Got the answer correct the first time but a bit tricky. May not be able to solve on an off day.
+[LC 39 Combination Sum](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/39_CombinationSum.cpp) ... Got the answer correct the first time but a bit tricky. May not be able to solve on an off day.
