@@ -26,6 +26,7 @@
 
 [**35**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/35_InsertPosition.cpp)
 [**36**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/36_ValidSudoku.cpp)
+[**39**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/39_CombinationSum.cpp)
 
 [**41**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/41_FirstMissingPositive.cpp)
 [**42**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/42_TrappingRainWater.cpp)
@@ -505,6 +506,10 @@ tricky...try 80 again
 **Array ... Sort and Process**
 
 [**56**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/56_MergeIntervals.cpp)
+
+**Array ... Combination with Duplicates**
+
+[**39**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/39_CombinationSum.cpp) ... tricky
 
 **Array (other)**
 
@@ -1622,3 +1627,5 @@ sort(v.begin(),v.end()); //v=[[20,30],[30,40],[50,60]]
 [LC 1207](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1207_UniqueNumberOfOccurrences.cpp) ... Easy problem. No real tricks.
 
 [LC 1208](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1208_GetEqualSubstringsWithinBudget.cpp) ... Basically standard sliding window problem, but struggled much more than I should due to overthinking ptr1 termination conditions.
+
+[LC 39](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/39_CombinationSum.cpp) ... Got the answer correct the first time but a bit tricky. May not be able to solve on an off day.
