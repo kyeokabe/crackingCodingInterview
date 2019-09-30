@@ -28,6 +28,7 @@
 [**36**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/36_ValidSudoku.cpp)
 [**39**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/39_CombinationSum.cpp)
 
+[**40**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/40_CombinationSumII.cpp)
 [**41**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/41_FirstMissingPositive.cpp)
 [**42**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/42_TrappingRainWater.cpp)
 [**48**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/48_RotateImage.cpp)
@@ -507,9 +508,10 @@ tricky...try 80 again
 
 [**56**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/56_MergeIntervals.cpp)
 
-**Array ... Combination with Duplicates**
+**Array ... Combinations**
 
 [**39**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/39_CombinationSum.cpp) ... tricky
+[**40**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/40_CombinationSumII.cpp)
 
 **Array (other)**
 
@@ -1629,3 +1631,5 @@ sort(v.begin(),v.end()); //v=[[20,30],[30,40],[50,60]]
 [LC 1208 Get Equal Substrings Within Budget](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1208_GetEqualSubstringsWithinBudget.cpp) ... Basically standard sliding window problem, but struggled much more than I should due to overthinking ptr1 termination conditions.
 
 [LC 39 Combination Sum](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/39_CombinationSum.cpp) ... Got the answer correct the first time but a bit tricky. May not be able to solve on an off day.
+
+[LC 40 Combination Sum II](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/40_CombinationSumII.cpp) ... My solution seems a bit messy. Probably room to improve.
