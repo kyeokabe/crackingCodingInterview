@@ -376,6 +376,8 @@
 
 [**1191**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1191_K-ConcatenationMaximumSum.cpp)
 
+[**1207**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1207_UniqueNumberOfOccurrences.cpp)
+
 ***************************
 
 **Leet Code by Problem Category (needs to be updated)**
@@ -1613,3 +1615,7 @@ sort(v.begin(),v.end()); //v=[[20,30],[30,40],[50,60]]
 [LC 11 Container With Most Water](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/11_ContainerWithMostWater.cpp) ... Not too difficult if you can realize it can be solved using the "two pointer sliding window" technique.
 
 [LC 6 ZigZag Conversion](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/06_ZigZagConversion.cpp) ... Algorithm was not too hard but encountered a few bugs before getting it correct.
+
+**09/31/2019**
+
+[LC 1207](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1207_UniqueNumberOfOccurrences.cpp)
