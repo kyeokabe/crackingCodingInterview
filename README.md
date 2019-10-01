@@ -24,6 +24,7 @@
 [**24**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/24_SwapNodesInPairs.cpp)
 [**27**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/27_RemoveElement.cpp)
 
+[**34**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/34_FindFirstAndLastPositionOfElementInSortedArray.cpp)
 [**35**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/35_InsertPosition.cpp)
 [**36**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/36_ValidSudoku.cpp)
 [**39**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/39_CombinationSum.cpp)
@@ -443,6 +444,10 @@ tricky...try 80 again
 **Binary Search (easy)**
 
 [**35**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/35_InsertPosition.cpp)
+
+**Binary Search**
+
+[**34**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/34_FindFirstAndLastPositionOfElementInSortedArray.cpp)
 
 **Vector/Map Lookup**
 
@@ -1641,3 +1646,5 @@ sort(v.begin(),v.end()); //v=[[20,30],[30,40],[50,60]]
 **10/01/2019**
 
 [LC 300 Longest Increasing Subsequence](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/300_LongestIncreasingSubsequence.cpp)
+
+[LC 34 Find First and Last Position of Element In Sorted Array](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/34_FindFirstAndLastPositionOfElementInSortedArray.cpp) ... Trick was to use binary search twice to individually search for first and last element. My prefernece for implementing binary search is to alway use mid=(right-left)/2+left and update left, right index recurrsion with either (mid,right) or (left, mid). Deal with base case of righ-left<=1 to avoid getting stuck in a loop.
