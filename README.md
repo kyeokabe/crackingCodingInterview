@@ -97,6 +97,7 @@
 [**144**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/144_BinaryTreePreOrderTraversal.cpp)
 [**145**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/145_BinaryTreePostorderTraversal.cpp)
 
+[**150**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/150_EvaluateReversePolishNotation.cpp)
 [**152**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/152_MaximumProductSubarray.cpp)
 [**153**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/153_FindMinimumInRotatedSortedArray.cpp)
 [**155**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/155_MinStack.cpp)
@@ -1648,3 +1649,5 @@ sort(v.begin(),v.end()); //v=[[20,30],[30,40],[50,60]]
 [LC 300 Longest Increasing Subsequence](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/300_LongestIncreasingSubsequence.cpp)
 
 [LC 34 Find First and Last Position of Element In Sorted Array](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/34_FindFirstAndLastPositionOfElementInSortedArray.cpp) ... Trick was to use binary search twice to individually search for first and last element. My prefernece for implementing binary search is to alway use mid=(right-left)/2+left and update left, right index recurrsion with either (mid,right) or (left, mid). Deal with base case of righ-left<=1 to avoid getting stuck in a loop.
+
+[LC 150 Evaluate Reverse Polish Notation](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/150_EvaluateReversePolishNotation.cpp) ... Very easy question using one stack. Do not bother to revisit.
