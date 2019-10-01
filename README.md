@@ -166,6 +166,7 @@
 [**290**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/290_WordPattern.cpp)
 [**292**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/292_NimGame.cpp)
 
+[**300**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/300_LongestIncreasingSubsequence.cpp)
 [**304**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/304_RangeSumQuery2D.cpp)
 [**307**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/307_RangeSumQuery.cpp)
 
@@ -1636,3 +1637,7 @@ sort(v.begin(),v.end()); //v=[[20,30],[30,40],[50,60]]
 [LC 40 Combination Sum II](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/40_CombinationSumII.cpp) ... My solution seems a bit messy. Probably room to improve.
 
 [LC 55 Jump Game](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/55_JumpGame.cpp) ... trick 1: You only need to think about where the 0s are, and what precedes them. trick 2: If the final index is 0, it doesn't matter whether it is jumpable or not because you will land on it if everything before is jumpable.
+
+**10/01/2019**
+
+[LC 300 Longest Increasing Subsequence](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/300_LongestIncreasingSubsequence.cpp)
