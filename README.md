@@ -86,6 +86,7 @@
 [**121**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/121_BestTimeToBuyAndSellStock.cpp)
 [**122**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/122_BestTimeToBuyAndSellStockII.cpp)
 [**125**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/125_ValidPalindrome.cpp)
+[**127**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/127_WordLadder.cpp)
 [**129**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/129_SumRootToLeafNumbers.cpp)
 
 [**136**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/136_SingleNumber.cpp)
@@ -1654,3 +1655,7 @@ sort(v.begin(),v.end()); //v=[[20,30],[30,40],[50,60]]
 [LC 150 Evaluate Reverse Polish Notation](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/150_EvaluateReversePolishNotation.cpp) ... Very easy question using one stack. Do not bother to revisit.
 
 [LC 742 Closest Leaf in a Binary Tree](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/742_ClosestLeafInABinaryTree.cpp) ... Similar to problem [LC 863 All Nodes Distance K in Binary Tree](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/863_AllNodesDistanceKInBinaryTree.cpp)
+
+**10/02/2019**
+
+[LC 127 Word Ladder](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/127_WordLadder.cpp) ... Surprisingly got the basic idea pretty quickly. However, took time debugging details. A good idea I had was to use the competitive programming technique to delete an element in wordList. The basic idea is to replace wordList[j] with wordList[wordList.size()-1]. However, if j!=wordList.size()-1, j-- is necessary so the next iteration will consider whether the new entry needs to be evaluated.
