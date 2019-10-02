@@ -285,6 +285,7 @@
 
 [**728**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/728_SelfDividingNumbers.cpp)
 
+[**742**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/742_ClosestLeafInABinaryTree.cpp)
 [**747**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/747_LargestNumberAtLeastTwiceOfOthers.cpp)
 
 [**766**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/766_ToeplitzMatrix.cpp)
@@ -1651,3 +1652,5 @@ sort(v.begin(),v.end()); //v=[[20,30],[30,40],[50,60]]
 [LC 34 Find First and Last Position of Element In Sorted Array](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/34_FindFirstAndLastPositionOfElementInSortedArray.cpp) ... Trick was to use binary search twice to individually search for first and last element. My prefernece for implementing binary search is to alway use mid=(right-left)/2+left and update left, right index recurrsion with either (mid,right) or (left, mid). Deal with base case of righ-left<=1 to avoid getting stuck in a loop.
 
 [LC 150 Evaluate Reverse Polish Notation](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/150_EvaluateReversePolishNotation.cpp) ... Very easy question using one stack. Do not bother to revisit.
+
+[LC 742 Closest Leaf in a Binary Tree](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/742_ClosestLeafInABinaryTree.cpp) ... Similar to problem [LC 863 All Nodes Distance K in Binary Tree](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/863_AllNodesDistanceKInBinaryTree.cpp)
