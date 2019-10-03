@@ -24,6 +24,7 @@
 [**24**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/24_SwapNodesInPairs.cpp)
 [**27**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/27_RemoveElement.cpp)
 
+[**33**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/33_SearchInRotatedSortedArray.cpp)
 [**34**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/34_FindFirstAndLastPositionOfElementInSortedArray.cpp)
 [**35**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/35_InsertPosition.cpp)
 [**36**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/36_ValidSudoku.cpp)
@@ -448,8 +449,9 @@ tricky...try 80 again
 
 [**35**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/35_InsertPosition.cpp)
 
-**Binary Search**
+**Binary Search (apply twice)**
 
+[**33**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/33_SearchInRotatedSortedArray.cpp)
 [**34**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/34_FindFirstAndLastPositionOfElementInSortedArray.cpp)
 
 **Vector/Map Lookup**
@@ -1659,3 +1661,7 @@ sort(v.begin(),v.end()); //v=[[20,30],[30,40],[50,60]]
 **10/02/2019**
 
 [LC 127 Word Ladder](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/127_WordLadder.cpp) ... Surprisingly got the basic idea pretty quickly. However, took time debugging details. A good idea I had was to use the competitive programming technique to delete an element in wordList. The basic idea is to replace wordList[j] with wordList[wordList.size()-1]. However, if j!=wordList.size()-1, j-- is necessary so the next iteration will consider whether the new entry needs to be evaluated.
+
+**10/03/2019**
+
+[LC 33 Search in Rotated Array](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/33_SearchInRotatedSortedArray.cpp) ... Trick is to apply binary search twice. The first search is for finding the pivot point. Similar to [LC 34 Find First and Last Position of Element In Sorted Array](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/34_FindFirstAndLastPositionOfElementInSortedArray.cpp).
