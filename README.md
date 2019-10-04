@@ -23,6 +23,7 @@
 [**23**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/23_MergeKSortedLists.cpp)
 [**24**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/24_SwapNodesInPairs.cpp)
 [**27**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/27_RemoveElement.cpp)
+[**28**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/28_Implement_strStr().cpp)
 
 [**33**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/33_SearchInRotatedSortedArray.cpp)
 [**34**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/34_FindFirstAndLastPositionOfElementInSortedArray.cpp)
@@ -526,6 +527,7 @@ tricky...try 80 again
 [**40**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/40_CombinationSumII.cpp)
 
 **Array (other)**
+[**28**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/28_Implement_strStr().cpp)
 [**55**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/55_JumpGame.cpp)
 [**161**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/161_OneEditDistance.cpp)
 
@@ -1665,3 +1667,5 @@ sort(v.begin(),v.end()); //v=[[20,30],[30,40],[50,60]]
 **10/03/2019**
 
 [LC 33 Search in Rotated Array](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/33_SearchInRotatedSortedArray.cpp) ... Trick is to apply binary search twice. The first search is for finding the pivot point. Similar to [LC 34 Find First and Last Position of Element In Sorted Array](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/34_FindFirstAndLastPositionOfElementInSortedArray.cpp).
+
+[LC 28 Implement strStr()](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/28_Implement_strStr().cpp) ... Basic array string problem.
