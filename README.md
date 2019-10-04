@@ -1673,4 +1673,9 @@ sort(v.begin(),v.end()); //v=[[20,30],[30,40],[50,60]]
 
 [LC 933 Number of Recent Calls](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/933_NumberOfRecentCalls.cpp) ... API not clear.
 
+
+**10/04/2019**
+
+[LC 121 Best Time to Buy and Sell Stock revisited](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/121_BestTimeToBuyAndSellStock_revisited.cpp) ... Trick is to think from back of the array and store the max selling price. Compare with current price and if gains are greater, store as temperary answer.
+
 TODO ... permutations, best time to buy/sell, DP bootcamp
