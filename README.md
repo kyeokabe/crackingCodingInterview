@@ -187,6 +187,7 @@
 
 [**342**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/342_PowerOfFour.cpp)
 [**344**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/344_ReverseString.cpp)
+[**346**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/346_MovingAverageFromDataStream.cpp)
 [**349**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/349_IntersectionOfTwoArrays.cpp)
 
 [**350**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/350_IntersectionOfTwoArraysII.cpp)
@@ -1677,5 +1678,7 @@ sort(v.begin(),v.end()); //v=[[20,30],[30,40],[50,60]]
 **10/04/2019**
 
 [LC 121 Best Time to Buy and Sell Stock revisited](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/121_BestTimeToBuyAndSellStock_revisited.cpp) ... Trick is to think from back of the array and store the max selling price. Compare with current price and if gains are greater, store as temperary answer.
+
+[LC 346 Moving Average from Data Stream](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/346_MovingAverageFromDataStream.cpp) ... Easy problem...
 
 TODO ... permutations, best time to buy/sell, DP bootcamp
