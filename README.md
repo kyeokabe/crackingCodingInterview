@@ -211,6 +211,7 @@
 [**412**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/412_FizzBuzz.cpp)
 [**415**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/415_AddStrings.cpp)
 
+[**426**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/426_ConvertBinarySearchTreeToSortedDoublyLinkedList.cpp)
 [**429**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/429_N-aryTreeLevelOrderTraversal.cpp)
 
 [**437**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/437_PathSumIII.cpp)
@@ -1681,4 +1682,9 @@ sort(v.begin(),v.end()); //v=[[20,30],[30,40],[50,60]]
 
 [LC 346 Moving Average from Data Stream](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/346_MovingAverageFromDataStream.cpp) ... Easy problem...
 
+[LC 426 Convert Binary Search Tree to Sorted Doubly Linked List](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/426_ConvertBinarySearchTreeToSortedDoublyLinkedList.cpp) ... Tricky problem! Should realize that basic function should resemble in-order processing format due to linked list vs tree node relationships. Trick 1: In-order code structure. Trick 2: Private ```Node* temp```variable. Trick 3: 
+```
+Node* dummy = new Node(0,nullptr,nullptr);
+temp=dummy;
+```
 TODO ... permutations, best time to buy/sell, DP bootcamp
