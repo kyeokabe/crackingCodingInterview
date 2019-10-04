@@ -1672,3 +1672,5 @@ sort(v.begin(),v.end()); //v=[[20,30],[30,40],[50,60]]
 [LC 28 Implement strStr()](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/28_Implement_strStr().cpp) ... Basic array string problem.
 
 [LC 933 Number of Recent Calls](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/933_NumberOfRecentCalls.cpp) ... API not clear.
+
+TODO ... permutations, best time to buy/sell, DP bootcamp
