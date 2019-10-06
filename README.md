@@ -394,6 +394,7 @@
 
 [**1217**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1217_PlayWithChips.cpp)
 [**1218**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1218_LongestArithmeticSubsequenceOfGivenDifference.cpp)
+[**1220**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1220_CountVowelsPermutation.cpp)
 
 ***************************
 
@@ -1694,5 +1695,7 @@ temp=dummy;
 **10/05/2019**
 
 [LC 1217 Play with Chips](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1217_PlayWithChips.cpp) ... Relatively easy problem. Got it correct first try in 10 min or so.
+
+[LC 1220 Count Vowels Permutation](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1220_CountVowelsPermutation.cpp) ... Did not find too difficult despite it being a hard problem.
 
 TODO ... permutations, best time to buy/sell, DP bootcamp
