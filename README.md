@@ -393,6 +393,7 @@
 [**1208**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1208_GetEqualSubstringsWithinBudget.cpp)
 
 [**1217**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1217_PlayWithChips.cpp)
+[**1218**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1218_LongestArithmeticSubsequenceOfGivenDifference.cpp)
 
 ***************************
 
