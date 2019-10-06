@@ -392,6 +392,8 @@
 [**1207**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1207_UniqueNumberOfOccurrences.cpp)
 [**1208**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1208_GetEqualSubstringsWithinBudget.cpp)
 
+[**1217**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1217_PlayWithChips.cpp)
+
 ***************************
 
 **Leet Code by Problem Category (needs to be updated)**
@@ -1687,4 +1689,9 @@ sort(v.begin(),v.end()); //v=[[20,30],[30,40],[50,60]]
 Node* dummy = new Node(0,nullptr,nullptr);
 temp=dummy;
 ```
+
+**10/05/2019**
+
+[LC 1217 Play with Chips](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1217_PlayWithChips.cpp) ... Relatively easy problem. Got it correct first try in 10 min or so.
+
 TODO ... permutations, best time to buy/sell, DP bootcamp
