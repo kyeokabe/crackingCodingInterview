@@ -392,6 +392,7 @@
 [**1207**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1207_UniqueNumberOfOccurrences.cpp)
 [**1208**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1208_GetEqualSubstringsWithinBudget.cpp)
 
+[**1213**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1213_IntersectionOfThreeSortedArrays.cpp)
 [**1214**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1214_TwoSumBSTs.cpp)
 [**1217**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1217_PlayWithChips.cpp)
 [**1218**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1218_LongestArithmeticSubsequenceOfGivenDifference.cpp)
@@ -1702,5 +1703,7 @@ temp=dummy;
 **10/07/2019**
 
 [LC 1214 Two Sum BSTs](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1214_TwoSumBSTs.cpp) ... Easy standard question traversing BST and storing vals in HashTables.
+
+[LC 1213 Intersection of Three Sorted Arrays](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1213_IntersectionOfThreeSortedArrays.cpp) ... Easy "three pointers" problem.
 
 TODO ... permutations, best time to buy/sell, DP bootcamp
