@@ -396,6 +396,7 @@
 [**1214**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1214_TwoSumBSTs.cpp)
 [**1217**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1217_PlayWithChips.cpp)
 [**1218**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1218_LongestArithmeticSubsequenceOfGivenDifference.cpp)
+[**1219**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1219_PathWithMaximumGold.cpp)
 [**1220**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1220_CountVowelsPermutation.cpp)
 
 ***************************
@@ -1705,5 +1706,20 @@ temp=dummy;
 [LC 1214 Two Sum BSTs](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1214_TwoSumBSTs.cpp) ... Easy standard question traversing BST and storing vals in HashTables.
 
 [LC 1213 Intersection of Three Sorted Arrays](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1213_IntersectionOfThreeSortedArrays.cpp) ... Easy "three pointers" problem.
+
+[LC 1219 Path with Maximum Gold](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1219_PathWithMaximumGold.cpp) ... Very important problem. Great excersize for depth first search. The tricky part of this problem is to think of how we can search a grid showing places we have already visited just by passing the grid by reference. The basic idea is
+
+```
+//store grid value
+int temp=grid[r][c];
+//mark grid as visited
+grid[r][c]=0;
+//recursively visit other grids
+help(grid, r+1,c, etc.)
+help(... etc)
+//unmark grid
+grid[r][c]=temp;
+```
+Since only valid grid positions can be marked as visited and after the recursion function the unmark is always called, there is no worry for the algorithm to forget to "unmark" a grid. Worth visiting later again.
 
 TODO ... permutations, best time to buy/sell, DP bootcamp
