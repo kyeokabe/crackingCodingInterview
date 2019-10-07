@@ -1707,7 +1707,7 @@ temp=dummy;
 
 [LC 1213 Intersection of Three Sorted Arrays](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1213_IntersectionOfThreeSortedArrays.cpp) ... Easy "three pointers" problem.
 
-[LC 1219 Path with Maximum Gold](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1219_PathWithMaximumGold.cpp) ... Very important problem. Great excersize for depth first search. The tricky part of this problem is to think of how we can search a grid showing places we have already visited just by passing the grid by reference. The basic idea is
+[LC 1219 Path with Maximum Gold](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1219_PathWithMaximumGold.cpp) ... Very important problem. Great excersize for depth first search. The tricky part of this problem is to think of how we can search a grid showing places we have already visited just by passing the grid by reference (so we can save memory). The basic idea is
 
 ```
 //store grid value
