@@ -392,6 +392,7 @@
 [**1207**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1207_UniqueNumberOfOccurrences.cpp)
 [**1208**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1208_GetEqualSubstringsWithinBudget.cpp)
 
+[**1214**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1214_TwoSumBSTs.cpp)
 [**1217**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1217_PlayWithChips.cpp)
 [**1218**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1218_LongestArithmeticSubsequenceOfGivenDifference.cpp)
 [**1220**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1220_CountVowelsPermutation.cpp)
@@ -1697,5 +1698,9 @@ temp=dummy;
 [LC 1217 Play with Chips](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1217_PlayWithChips.cpp) ... Relatively easy problem. Got it correct first try in 10 min or so.
 
 [LC 1220 Count Vowels Permutation](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1220_CountVowelsPermutation.cpp) ... Did not find too difficult despite it being a hard problem.
+
+**10/07/2019**
+
+[LC 1214 Two Sum BSTs](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1214_TwoSumBSTs.cpp) ... Easy standard question traversing BST and storing vals in HashTables.
 
 TODO ... permutations, best time to buy/sell, DP bootcamp
