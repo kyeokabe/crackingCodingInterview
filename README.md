@@ -63,9 +63,9 @@
 [**88**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/88_MergeSortedArray.cpp)
 
 [**94**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/94_BinaryTreeInorderTraversal.cpp)
-  [**97**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/97_InterleavingString.cpp)
- [**98**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/98_ValidateBinarySearchTree.cpp)
-
+[**97**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/97_InterleavingString.cpp)
+[**98**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/98_ValidateBinarySearchTree.cpp)
+[**99**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/99_RecoverBinarySearchTree.cpp)
 
 [**100**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/100_SameTree.cpp)
 [**101**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/101_Symmetric_Tree.cpp)
@@ -1727,6 +1727,8 @@ grid[r][c]=temp;
 ```
 Since only valid grid positions can be marked as visited and after the recursion function the unmark is always called, there is no worry for the algorithm to forget to "unmark" a grid. Worth visiting later again.
 
-[LC 22 Generate Parentheses](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/22_GenerateParentheses.cpp) ... used idea shown above (LC 1219) for saving memory. Backtracking/combinations problem.
+[LC 22 Generate Parentheses](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/22_GenerateParentheses.cpp) ... Used idea shown above (LC 1219) for saving memory. Backtracking/combinations problem.
+
+[LC 99 Recover Binary Search Tree](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/99_RecoverBinarySearchTree.cpp) ... Had to look at discussions to get a hint for how to solve the problem. The idea is that in-order traversal for BST gives sorted order. This idea has appeared previously in one of the questions. Should get it right next time. 
 
 TODO ... permutations, best time to buy/sell, DP bootcamp
