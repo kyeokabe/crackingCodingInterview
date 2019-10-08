@@ -7,27 +7,29 @@ public:
         //maps arbitrary email address to name
         unordered_map<string, string> owner;
         //maps arbitrary email address to parent email address
-        unordered_map<string, string> parents;
+        unordered_map<string, string> AnyE_to_ParentsE;
+        //used to map findparent(arbitrary email) to set
         unordered_map<string, set<string>> unions;
+        
         for (int i = 0; i < acts.size(); i++) {
             for (int j = 1; j < acts[i].size(); j++) {
                 //all email addresses are assigned itself as parent
-                parents[acts[i][j]] = acts[i][j];
+                AnyE_to_ParentsE[acts[i][j]] = acts[i][j];
                 //mapps all email address to name
                 owner[acts[i][j]] = acts[i][0];
             }
         }
         for (int i = 0; i < acts.size(); i++) {
-            string p = find(acts[i][1], parents);
+            string p = findParentEmail(acts[i][1], AnyE_to_ParentsE);
             //remapps all email addresses
             //mapped value is parent of first email
             for (int j = 2; j < acts[i].size(); j++)
-                parents[find(acts[i][j], parents)] = p;
+                AnyE_to_ParentsE[findParentEmail(acts[i][j], AnyE_to_ParentsE)] = p;
         }
         for (int i = 0; i < acts.size(); i++)
             for (int j = 1; j < acts[i].size(); j++){
                 //all email addresses are mapped into parent set
-                unions[find(acts[i][j], parents)].insert(acts[i][j]);
+                unions[findParentEmail(acts[i][j], AnyE_to_ParentsE)].insert(acts[i][j]);
             }
 
         vector<vector<string>> res;
@@ -45,8 +47,8 @@ public:
     }
 private:
     //this function takes arbitrary email address s and 
-    //arbitrary email to parent email address map p & return parant email address
-    string find(string s, unordered_map<string, string>& p) {
-        return p[s] == s ? s : find(p[s], p);
+    //arbitrary email to parent email address map p & return parent email address
+    string findParentEmail(string s, unordered_map<string, string>& p) {
+        return p[s] == s ? s : findParentEmail(p[s], p);
     }
 };
