@@ -1731,4 +1731,8 @@ Since only valid grid positions can be marked as visited and after the recursion
 
 [LC 99 Recover Binary Search Tree](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/99_RecoverBinarySearchTree.cpp) ... Had to look at discussions to get a hint for how to solve the problem. The idea is that in-order traversal for BST gives sorted order. This idea has appeared previously in one of the questions. Should get it right next time. 
 
+**10/08/2019**
+
+read [**union find algorighm**](https://leetcode.com/problems/accounts-merge/discuss/109157/JavaC%2B%2B-Union-Find)
+
 TODO ... permutations, best time to buy/sell, DP bootcamp
