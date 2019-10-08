@@ -20,6 +20,7 @@
 
 [**20**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/20_ValidParentheses.cpp)
 [**21**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/21_MergeTwoSortedLists.cpp)
+[**22**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/22_GenerateParentheses.cpp)
 [**23**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/23_MergeKSortedLists.cpp)
 [**24**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/24_SwapNodesInPairs.cpp)
 [**27**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/27_RemoveElement.cpp)
@@ -410,6 +411,10 @@
 [**69**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/69_Sqrt(x).cpp)
 [**88**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/88_MergeSortedArray.cpp)
 [**97**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/97_InterleavingString.cpp)
+
+**Combinations**
+
+[**22**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/22_GenerateParentheses.cpp)
 
 **Binary Trees**
 
@@ -1721,5 +1726,7 @@ help(... etc)
 grid[r][c]=temp;
 ```
 Since only valid grid positions can be marked as visited and after the recursion function the unmark is always called, there is no worry for the algorithm to forget to "unmark" a grid. Worth visiting later again.
+
+[LC 22 Generate Parentheses](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/22_GenerateParentheses.cpp) ... used idea shown above (LC 1219) for saving memory. Backtracking/combinations problem.
 
 TODO ... permutations, best time to buy/sell, DP bootcamp
