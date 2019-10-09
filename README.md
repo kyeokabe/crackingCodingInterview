@@ -211,6 +211,7 @@
 [**409**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/409_LongestPalindrome.cpp)
 
 [**412**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/412_FizzBuzz.cpp)
+[**413**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/413_ArithmeticSlices.cpp)
 [**414**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/414_ThirdMaximumNumber.cpp)
 [**415**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/415_AddStrings.cpp)
 
@@ -1750,5 +1751,7 @@ reviewed [min/max heaps](https://www.youtube.com/watch?v=g9YK6sftDi0)
 [LC 18 4Sum](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/18_4Sum.cpp) ...Found it fairly straight forward.
 
 [LC 454 4Sum II](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/454_4SumII.cpp)
+
+[LC 413 Arithmetic Slices](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/413_ArithmeticSlices.cpp) ... Seemed to use similar technique to one of the Back to Back SWE youtube videos I watched previously. Wrote two answers (one with O(n) time, O(1) memory, the other with O(n) time, O(n) memory.)
 
 TODO ... permutations, best time to buy/sell, DP bootcamp
