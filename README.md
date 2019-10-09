@@ -210,6 +210,7 @@
 [**409**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/409_LongestPalindrome.cpp)
 
 [**412**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/412_FizzBuzz.cpp)
+[**414**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/414_ThirdMaximumNumber.cpp)
 [**415**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/415_AddStrings.cpp)
 
 [**426**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/426_ConvertBinarySearchTreeToSortedDoublyLinkedList.cpp)
@@ -1734,5 +1735,9 @@ Since only valid grid positions can be marked as visited and after the recursion
 **10/08/2019**
 
 read [**union find algorighm**](https://leetcode.com/problems/accounts-merge/discuss/109157/JavaC%2B%2B-Union-Find)
+
+reviewed [min/max heaps](https://www.youtube.com/watch?v=g9YK6sftDi0)
+
+[LC 414 Third Maximum Number](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/414_ThirdMaximumNumber.cpp) ... Fairly straight forward.
 
 TODO ... permutations, best time to buy/sell, DP bootcamp
