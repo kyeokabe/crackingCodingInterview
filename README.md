@@ -1740,4 +1740,10 @@ reviewed [min/max heaps](https://www.youtube.com/watch?v=g9YK6sftDi0)
 
 [LC 414 Third Maximum Number](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/414_ThirdMaximumNumber.cpp) ... Fairly straight forward.
 
+[Pramp Array Quadruplet] preparation
+
+**10/09/2019**
+
+[LC 18 4Sum](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/18_4Sum.cpp) ...Found it fairly straight forward.
+
 TODO ... permutations, best time to buy/sell, DP bootcamp
