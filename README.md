@@ -222,6 +222,8 @@
 [**442**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/442_FindAllDuplicatesInAnArray.cpp)
 [**445**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/445_AddTwoNumbersII.cpp)
 
+[**454**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/454_4SumII.cpp)
+
 [**461**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/461_HammingDistance.cpp)
 
 [**470**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/470_ImplementRand10UsingRand7.cpp)
@@ -1746,5 +1748,7 @@ reviewed [min/max heaps](https://www.youtube.com/watch?v=g9YK6sftDi0)
 **10/09/2019**
 
 [LC 18 4Sum](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/18_4Sum.cpp) ...Found it fairly straight forward.
+
+[LC 454 4Sum II](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/454_4SumII.cpp)
 
 TODO ... permutations, best time to buy/sell, DP bootcamp
