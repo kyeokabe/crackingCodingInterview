@@ -30,3 +30,35 @@ public:
         inorderTraversal(root->right,foo);
     }
 };
+
+
+/*
+
+//iterative solution added 10/10/2019
+//O(n) time
+//O(n) memory
+//adapted from lvlolitte
+//https://leetcode.com/problems/binary-tree-inorder-traversal/discuss/31213/Iterative-solution-in-Java-simple-and-readable
+
+class Solution {
+public:
+    vector<int> inorderTraversal(TreeNode* root) {
+        vector<int> v;
+        stack<TreeNode*> s;
+        
+        while(root!=nullptr||!s.empty()){
+            while(root!=nullptr){
+                s.push(root);
+                root=root->left;
+            }
+            root=s.top();
+            s.pop();
+            v.push_back(root->val);
+            root=root->right;
+        }
+        
+        return v;
+    }
+};
+
+*/
