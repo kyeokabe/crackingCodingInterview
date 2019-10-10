@@ -229,6 +229,7 @@
 
 [**470**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/470_ImplementRand10UsingRand7.cpp)
 [**476**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/476_NumberCompliment.cpp)
+[**478**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/478_GenerateRandomPointInACircle.cpp)
 
 [**485**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/485_MaxConsecutiveOnes.cpp)
 
@@ -1835,5 +1836,12 @@ reviewed [min/max heaps](https://www.youtube.com/watch?v=g9YK6sftDi0)
 **10/10/2019**
 
 [LC 94 Binary Tree Inorder Traveral](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/94_BinaryTreeInorderTraversal.cpp) ... Added iterative solution which was not trivial. Uses a stack.
+
+[LC 478 Generat Random Point in a Circle](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/478_GenerateRandomPointInACircle.cpp) ... Sample rejection method was my original thought but it timed out. Using polar coordintates was the first trick. Second trick was
+
+```
+double(double(rand())/RAND_MAX)
+```
+which will give you a uniform float distribution between 0 and 1. Third trick was to sqrt the radius to make the distribution uniform.
 
 TODO ... permutations, best time to buy/sell, DP bootcamp
