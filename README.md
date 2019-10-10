@@ -556,17 +556,29 @@ tricky...try 80 again
 **Byte by Byte to Leet Code Mapping**
 
 **01 Median of Arrays** -> LC 4
+
 **02 0-1 Knapsack**
+
 **03 Matrix Product**
+
 **04 Find Duplicates**
+
 **05 Consecutive Array**
+
 **06 Zero Matrix**
+
 **07 Square Submatrix**
-**08 Merge K Arrays**
+
+**08 Merge K Arrays** -> LC 23 (similar)
+
 **09 Matrix Search** -> LC 74
+
 **10 Merge Arrays**
+
 **11 Zero Sum Subarray**
+
 **12 Permutations**
+
 **13 N Stacks**
 **14 Anagrams**
 **15 Build Order**
@@ -575,7 +587,9 @@ tricky...try 80 again
 **18 Lowest Common Ancestor**
 **19 Sum**
 **20 Reverse Stack**
-**21 Tree to Doubly Linked List**
+
+**21 Tree to Doubly Linked List** -> LC 426
+
 **22 Longest Consecutive Branch**
 **23 Print Reversed Linked List**
 **24 Balanced Binary Tree**
@@ -588,7 +602,9 @@ tricky...try 80 again
 **31 Max Stacks**
 **32 Two Missing Numbers**
 **33 Big Int Modules**
-**34 Swap Variables**
+
+**34 Swap Variables** -> a=a-b -> b=b+a -> a=b-a
+
 **35 Gray Code**
 **36 Rotate Bits**
 **37 Number of Ones In a Binary Number**
@@ -597,13 +613,18 @@ tricky...try 80 again
 **40 Dedup Linked List**
 **41 Split a Linked List**
 **42 Nth to the Last Element**
+
 **43 Three Sum** ............................... LC 15
-**44 Tree Level Order**
+
+**44 Tree Level Order** ... LC 102
+
 **45 Autocomplete**
 **46 String Deletion**
 **47 Longest Common Substring** 
 **48 String Compression**
-**49 Fibonacci Number**
+
+**49 Fibonacci Number** ... LC 509
+
 **50 Priority Queue**
 **51 Kth Most Frequent String**
 
