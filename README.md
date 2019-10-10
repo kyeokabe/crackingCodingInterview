@@ -584,7 +584,9 @@ tricky...try 80 again
 **15 Build Order**
 **16 Shortest Path**
 **17 Random Binary Tree**
-**18 Lowest Common Ancestor**
+
+**18 Lowest Common Ancestor** -> LC 236
+
 **19 Sum**
 **20 Reverse Stack**
 
@@ -603,7 +605,7 @@ tricky...try 80 again
 **32 Two Missing Numbers**
 **33 Big Int Modules**
 
-**34 Swap Variables** -> a=a-b -> b=b+a -> a=b-a
+**34 Swap Variables** -> a=a-b -> b=b+a -> a=b-a (done!)
 
 **35 Gray Code**
 **36 Rotate Bits**
