@@ -1754,4 +1754,8 @@ reviewed [min/max heaps](https://www.youtube.com/watch?v=g9YK6sftDi0)
 
 [LC 413 Arithmetic Slices](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/413_ArithmeticSlices.cpp) ... Seemed to use similar technique to one of the Back to Back SWE youtube videos I watched previously. Wrote two answers (one with O(n) time, O(1) memory, the other with O(n) time, O(n) memory.)
 
+**10/10/2019**
+
+[LC 94 Binary Tree Inorder Traveral](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/94_BinaryTreeInorderTraversal.cpp) ... Added iterative solution which was not trivial. Uses a stack.
+
 TODO ... permutations, best time to buy/sell, DP bootcamp
