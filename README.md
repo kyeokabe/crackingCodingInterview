@@ -553,6 +553,61 @@ tricky...try 80 again
 
 ***************************
 
+**Byte by Byte to Leet Code Mapping**
+
+**01 Median of Arrays** -> LC 4
+**02 0-1 Knapsack**
+**03 Matrix Product**
+**04 Find Duplicates**
+**05 Consecutive Array**
+**06 Zero Matrix**
+**07 Square Submatrix**
+**08 Merge K Arrays**
+**09 Matrix Search** -> LC 74
+**10 Merge Arrays**
+**11 Zero Sum Subarray**
+**12 Permutations**
+**13 N Stacks**
+**14 Anagrams**
+**15 Build Order**
+**16 Shortest Path**
+**17 Random Binary Tree**
+**18 Lowest Common Ancestor**
+**19 Sum**
+**20 Reverse Stack**
+**21 Tree to Doubly Linked List**
+**22 Longest Consecutive Branch**
+**23 Print Reversed Linked List**
+**24 Balanced Binary Tree**
+**25 Binary Search Tree Verification**
+**26 Smallest Change**
+**27 Inorder Traversal 
+**28 Sort Stacks**
+**29 Stacks from Queues** 
+**30 Palindromes**
+**31 Max Stacks**
+**32 Two Missing Numbers**
+**33 Big Int Modules**
+**34 Swap Variables**
+**35 Gray Code**
+**36 Rotate Bits**
+**37 Number of Ones In a Binary Number**
+**38 Linked List Cycles**
+**39 Random Linked List**
+**40 Dedup Linked List**
+**41 Split a Linked List**
+**42 Nth to the Last Element**
+**43 Three Sum** ............................... LC 15
+**44 Tree Level Order**
+**45 Autocomplete**
+**46 String Deletion**
+**47 Longest Common Substring** 
+**48 String Compression**
+**49 Fibonacci Number**
+**50 Priority Queue**
+**51 Kth Most Frequent String**
+
+***************************
 **Cracking The Coding Interview**
 
 **Ch 1 (Arrays and Strings)...**
