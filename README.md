@@ -131,6 +131,7 @@
 [**209**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/209_MinimumSizeSubarraySum.cpp)
 
 [**213**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/213_HouseRobberII.cpp)
+[**215**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/215_KthLargestElementInAnArray.cpp)
 [**217**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/217_ContainsDuplicate.cpp)
 [**219**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/219_ContainsDuplicateII.cpp)
 
@@ -1859,5 +1860,7 @@ priority_queue<int,vector<int>, greater<int>> q;
 //also note that despite the name "queue" use
 //q.top() rather than q.front()
 ```
+
+[LC 215 Kth Largest Element in an Array](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/215_KthLargestElementInAnArray.cpp) ... Good practice to make sure you know min heap priority queue implementation.
 
 TODO ... permutations, best time to buy/sell, DP bootcamp
