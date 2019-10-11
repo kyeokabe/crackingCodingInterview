@@ -1849,4 +1849,6 @@ which will give you a uniform float distribution between 0 and 1. Third trick wa
 
 [LC 653 Two Sum IV - Input is a BST](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/653_TwoSumIV.cpp) ... Easy problem.
 
+Added new solution to [LC 253 Meeting Rooms II](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/253_MeetingRoomsII.cpp)
+
 TODO ... permutations, best time to buy/sell, DP bootcamp
