@@ -295,6 +295,7 @@
 
 [**700**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/700_SearchInABinarySearchTree.cpp)
 [**701**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/701_InsertIntoABinarySearchTree.cpp)
+[**703**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/703_KthLargestElementInAStream.cpp)
 [**709**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/709_ToLowerCase.cpp)
 
 [**728**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/728_SelfDividingNumbers.cpp)
@@ -1862,5 +1863,7 @@ priority_queue<int,vector<int>, greater<int>> q;
 ```
 
 [LC 215 Kth Largest Element in an Array](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/215_KthLargestElementInAnArray.cpp) ... Good practice to make sure you know min heap priority queue implementation.
+
+[LC 703 Kth Largetst Element in a Stream](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/703_KthLargestElementInAStream.cpp) ... Very similar to LC 215 (problem above).
 
 TODO ... permutations, best time to buy/sell, DP bootcamp
