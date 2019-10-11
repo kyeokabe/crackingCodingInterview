@@ -1,5 +1,5 @@
 //Ot ... nlog(n)
-//Om ... nlog(n)
+//Om ... nlog(n) //comment on 10/11/2019 ... is this right? seems like O(n) at first glance
 
 class Solution {
 public:
@@ -40,3 +40,45 @@ public:
         return totalroom;
     }
 };
+
+
+/*
+//New solution added 10/11/2019
+//O(nlog(n)) time
+//O(n) memory
+class Solution {
+public:
+    int minMeetingRooms(vector<vector<int>>& intervals) {
+        //sort(intervals.begin(),intervals.end(),[](const &vector<int> v1, const &vector<int> v2){return (v1[0]<v2[0]);});
+        sort(intervals.begin(),intervals.end());
+        int UsedRoom=0;
+        int MaxRoom=0;
+        priority_queue<int,vector<int>, greater<int>> q;
+        for(int i=0;i<intervals.size();i++){
+            if(q.empty()){
+                UsedRoom++;
+                if(MaxRoom<UsedRoom)
+                    MaxRoom=UsedRoom;
+                q.push(intervals[i][1]);
+            }
+            else{
+                if(q.top()<=intervals[i][0]){
+                    while(!q.empty()&&q.top()<=intervals[i][0]){
+                        q.pop();
+                        UsedRoom--;
+                    }
+                    q.push(intervals[i][1]);
+                    UsedRoom++;
+                }
+                else{
+                    UsedRoom++;
+                    if(MaxRoom<UsedRoom)
+                        MaxRoom=UsedRoom;
+                    q.push(intervals[i][1]);
+                }
+            }  
+        }
+        return MaxRoom;
+    }
+};
+*/
