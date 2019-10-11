@@ -280,6 +280,7 @@
 [**643**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/643_MaximumAverageSubarrayI.cpp)
 [**647**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/647_PalindromicSubstrings.cpp)
 
+[**653**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/653_TwoSumIV.cpp)
 [**654**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/654_MaximumBinaryTree.cpp)
 
 [**669**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/669_TrimABinarySearchTree.cpp)
@@ -1843,5 +1844,9 @@ reviewed [min/max heaps](https://www.youtube.com/watch?v=g9YK6sftDi0)
 double(double(rand())/RAND_MAX)
 ```
 which will give you a uniform float distribution between 0 and 1. Third trick was to sqrt the radius to make the distribution uniform.
+
+**10/11/2019**
+
+[LC 653 Two Sum IV - Input is a BST](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/653_TwoSumIV.cpp) ... Easy problem.
 
 TODO ... permutations, best time to buy/sell, DP bootcamp
