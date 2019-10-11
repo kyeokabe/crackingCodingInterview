@@ -49,7 +49,7 @@ public:
 class Solution {
 public:
     int minMeetingRooms(vector<vector<int>>& intervals) {
-        //sort(intervals.begin(),intervals.end(),[](const &vector<int> v1, const &vector<int> v2){return (v1[0]<v2[0]);});
+        //sort(intervals.begin(),intervals.end(),[](const vector<int> &v1, const vector<int> &v2){return (v1[0]<v2[0]);});
         sort(intervals.begin(),intervals.end());
         int UsedRoom=0;
         int MaxRoom=0;
