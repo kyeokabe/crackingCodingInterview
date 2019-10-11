@@ -1851,4 +1851,13 @@ which will give you a uniform float distribution between 0 and 1. Third trick wa
 
 Added new solution to [LC 253 Meeting Rooms II](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/253_MeetingRoomsII.cpp)
 
+```
+//priority queues are max heap by default.
+//to make them a min heap, use
+
+priority_queue<int,vector<int>, greater<int>> q;
+//also note that despite the name "queue" use
+//q.top() rather than q.front()
+```
+
 TODO ... permutations, best time to buy/sell, DP bootcamp
