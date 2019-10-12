@@ -399,6 +399,7 @@
 [**1189**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1189_MaximumNumberOfBalloons.cpp)
 
 [**1191**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1191_K-ConcatenationMaximumSum.cpp)
+[**1196**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1196_HowManyApplesCanYouPutIntoTheBasket.cpp)
 
 [**1207**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1207_UniqueNumberOfOccurrences.cpp)
 [**1208**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1208_GetEqualSubstringsWithinBudget.cpp)
@@ -1870,5 +1871,7 @@ priority_queue<int,vector<int>, greater<int>> q;
 **10/12/2019**
 
 [LC 208 Implement Trie (Prefix Tree)](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/208_Implement_Trie_(PrefixTree).cpp) ... Easy problem.
+
+[LC 1196 How Many Apples Can You Put into a Baskit](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1196_HowManyApplesCanYouPutIntoTheBasket.cpp) ... Easy problem.
 
 TODO ... permutations, best time to buy/sell, DP bootcamp
