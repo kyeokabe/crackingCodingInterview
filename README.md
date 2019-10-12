@@ -209,6 +209,7 @@
 [**393**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/393_UTF-8Validation.cpp)
 [**394**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/394_DecodeString.cpp)
 
+[**402**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/402_RemoveKDigits.cpp)
 [**404**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/404_SumOfLeftLeaves.cpp)
 [**409**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/409_LongestPalindrome.cpp)
 
@@ -1873,5 +1874,7 @@ priority_queue<int,vector<int>, greater<int>> q;
 [LC 208 Implement Trie (Prefix Tree)](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/208_Implement_Trie_(PrefixTree).cpp) ... Easy problem.
 
 [LC 1196 How Many Apples Can You Put into a Baskit](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1196_HowManyApplesCanYouPutIntoTheBasket.cpp) ... Easy problem.
+
+[LC 402 Remove K Digits](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/402_RemoveKDigits.cpp) ... Tricky to get bug free answer within 40 min or so. Do again for practice.
 
 TODO ... permutations, best time to buy/sell, DP bootcamp
