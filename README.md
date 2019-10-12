@@ -128,6 +128,7 @@
 [**202**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/202_HappyNumber.cpp)
 [**205**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/205_IsomorphicStrings.cpp)
 [**206**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/206_ReverseLinkedList.cpp)
+[**208**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/208_Implement_Trie_(PrefixTree).cpp)
 [**209**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/209_MinimumSizeSubarraySum.cpp)
 
 [**213**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/213_HouseRobberII.cpp)
@@ -1865,5 +1866,9 @@ priority_queue<int,vector<int>, greater<int>> q;
 [LC 215 Kth Largest Element in an Array](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/215_KthLargestElementInAnArray.cpp) ... Good practice to make sure you know min heap priority queue implementation.
 
 [LC 703 Kth Largetst Element in a Stream](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/703_KthLargestElementInAStream.cpp) ... Very similar to LC 215 (problem above).
+
+**10/12/2019**
+
+[LC 208 Implement Trie (Prefix Tree)](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/208_Implement_Trie_(PrefixTree).cpp) ... Easy problem.
 
 TODO ... permutations, best time to buy/sell, DP bootcamp
