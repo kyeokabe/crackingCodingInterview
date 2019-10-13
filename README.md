@@ -411,6 +411,7 @@
 [**1218**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1218_LongestArithmeticSubsequenceOfGivenDifference.cpp)
 [**1219**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1219_PathWithMaximumGold.cpp)
 [**1220**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1220_CountVowelsPermutation.cpp)
+[**1221**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1221_SplitAStringInBalancedStrings.cpp)
 [**1222**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1222_QueensThatCanAttackTheKing.cpp)
 
 ***************************
@@ -1879,5 +1880,7 @@ priority_queue<int,vector<int>, greater<int>> q;
 [LC 402 Remove K Digits](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/402_RemoveKDigits.cpp) ... Tricky to get bug free answer within 40 min or so. Do again for practice.
 
 [LC 1222 Queens That Can Attack the King](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1222_QueensThatCanAttackTheKing.cpp) ... Not hard except for a small trick of thinking from the king's standpoint rather than iterating through all queens.
+
+[LC 1221 Split a String in Balanced Strings](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1221_SplitAStringInBalancedStrings.cpp) ... Fairly easy problem.
 
 TODO ... permutations, best time to buy/sell, DP bootcamp
