@@ -189,6 +189,7 @@
 [**337**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/337_HouseRobberIII.cpp)
 [**338**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/338_CountingBits.cpp)
 
+[**340**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/340_LongestSubstringwithAtMostKDistinctCharacters.cpp)
 [**342**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/342_PowerOfFour.cpp)
 [**344**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/344_ReverseString.cpp)
 [**346**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/346_MovingAverageFromDataStream.cpp)
@@ -1882,5 +1883,9 @@ priority_queue<int,vector<int>, greater<int>> q;
 [LC 1222 Queens That Can Attack the King](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1222_QueensThatCanAttackTheKing.cpp) ... Not hard except for a small trick of thinking from the king's standpoint rather than iterating through all queens.
 
 [LC 1221 Split a String in Balanced Strings](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1221_SplitAStringInBalancedStrings.cpp) ... Fairly easy problem.
+
+**10/13/2019**
+
+[LC 340 Longest Substring with At Most K Distinct Characters](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/340_LongestSubstringwithAtMostKDistinctCharacters.cpp) ... Standard "sliding window" problem.
 
 TODO ... permutations, best time to buy/sell, DP bootcamp
