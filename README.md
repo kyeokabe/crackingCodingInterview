@@ -27,6 +27,7 @@
 [**27**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/27_RemoveElement.cpp)
 [**28**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/28_Implement_strStr().cpp)
 
+[**32**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/32_LongestValidParentheses.cpp)
 [**33**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/33_SearchInRotatedSortedArray.cpp)
 [**34**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/34_FindFirstAndLastPositionOfElementInSortedArray.cpp)
 [**35**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/35_InsertPosition.cpp)
@@ -502,6 +503,7 @@ tricky...try 80 again
 
 **Stacks and Tricky Algo**
 
+[**32**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/32_LongestValidParentheses.cpp)
 [**84**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/84_LargestRectangleInHistogram.cpp)
 
 
@@ -1887,5 +1889,7 @@ priority_queue<int,vector<int>, greater<int>> q;
 **10/13/2019**
 
 [LC 340 Longest Substring with At Most K Distinct Characters](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/340_LongestSubstringwithAtMostKDistinctCharacters.cpp) ... Standard "sliding window" problem.
+
+[LC 32 Longest Valid Parentheses](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/32_LongestValidParentheses.cpp) ... Hard problem. Needed to check discussions to get the answer. The basic idea is to break the problem into two phases. Phase 1: Find indices of invalid parentheses and mark in a new vector. Phase 2: Count longest contegious valid vector length.
 
 TODO ... permutations, best time to buy/sell, DP bootcamp
