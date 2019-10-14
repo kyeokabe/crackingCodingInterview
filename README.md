@@ -15,6 +15,7 @@
 [**9**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/09_PalindromeNumber.cpp)
 
 [**11**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/11_ContainerWithMostWater.cpp)
+[**14**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/14_LongestCommonPrefix.cpp)
 [**15**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/15_3Sum.cpp)
 [**16**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/16_3SumClosest.cpp)
 [**18**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/18_4Sum.cpp)
@@ -561,6 +562,7 @@ tricky...try 80 again
 [**40**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/40_CombinationSumII.cpp)
 
 **Array (other)**
+[**14**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/14_LongestCommonPrefix.cpp)
 [**28**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/28_Implement_strStr().cpp)
 [**55**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/55_JumpGame.cpp)
 [**161**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/161_OneEditDistance.cpp)
@@ -1897,5 +1899,7 @@ priority_queue<int,vector<int>, greater<int>> q;
 **10/14/2019**
 
 [LC 16 3Sum Closest](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/16_3SumClosest.cpp) ... Sliding window problem. Not hard if you can realize this can be solved by a sort -> sliding window combination.
+
+[LC 14 Longest Common Prefix](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/14_LongestCommonPrefix.cpp) ... Easy problem.
 
 TODO ... permutations, best time to buy/sell, DP bootcamp
