@@ -195,6 +195,7 @@
 [**340**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/340_LongestSubstringwithAtMostKDistinctCharacters.cpp)
 [**342**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/342_PowerOfFour.cpp)
 [**344**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/344_ReverseString.cpp)
+[**345**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/345_ReverseVowelsOfAString.cpp)
 [**346**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/346_MovingAverageFromDataStream.cpp)
 [**349**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/349_IntersectionOfTwoArrays.cpp)
 
@@ -1906,5 +1907,7 @@ priority_queue<int,vector<int>, greater<int>> q;
 [LC 14 Longest Common Prefix](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/14_LongestCommonPrefix.cpp) ... Easy problem.
 
 [LC 1119 Remove Vowels From A String](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1119_RemoveVowelsFromAString.cpp) ... Very easy problem. 
+
+[LC 345 Reverse Vowels in a String](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/345_ReverseVowelsOfAString.cpp) ... Standard two pointers problem.
 
 TODO ... permutations, best time to buy/sell, DP bootcamp
