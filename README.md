@@ -16,6 +16,7 @@
 
 [**11**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/11_ContainerWithMostWater.cpp)
 [**15**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/15_3Sum.cpp)
+[**16**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/16_3SumClosest.cpp)
 [**18**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/18_4Sum.cpp)
 [**19**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/19_RemoveNthNodeFromEndOfList.cpp)
 
@@ -466,6 +467,7 @@
 
 [**3**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/3_LongestSubstringWithoutRepeatingCharacters.cpp)
 [**11**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/11_ContainerWithMostWater.cpp)
+[**16**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/16_3SumClosest.cpp)
 
 **Two Pointers/Array**
 
@@ -1891,5 +1893,9 @@ priority_queue<int,vector<int>, greater<int>> q;
 [LC 340 Longest Substring with At Most K Distinct Characters](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/340_LongestSubstringwithAtMostKDistinctCharacters.cpp) ... Standard "sliding window" problem.
 
 [LC 32 Longest Valid Parentheses](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/32_LongestValidParentheses.cpp) ... Hard problem. Needed to check discussions to get the answer. The basic idea is to break the problem into two phases. Phase 1: Find indices of invalid parentheses and mark in a new vector. Phase 2: Count longest contegious valid vector length.
+
+**10/14/2019**
+
+[LC 16 3Sum Closest](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/16_3SumClosest.cpp) ... Sliding window problem. Not hard if you can realize this can be solved by a sort -> sliding window combination.
 
 TODO ... permutations, best time to buy/sell, DP bootcamp
