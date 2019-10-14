@@ -17,22 +17,21 @@ public:
         
         for(int i=1;i<=n;i++){
             TreeNode* ptr=new TreeNode(i);
-            TreeNode* head=ptr;
             v[i]=0;
             int count=1;
-            help(ptr,head,v,count,ans);
+            help(ptr,v,count,ans);
             v[i]=i;
         }
         return ans;
     }
     
     void help(TreeNode* ptr, vector<int> &v, int count, vector<TreeNode*> &ans){
-        if(count==v.size()){
-            ans.push_back(head);
+        if(count==v.size()-1){
+            ans.push_back(ptr);
             return;
         }
         
-        for(int i=1;i<=n,i++){
+        for(int i=1;i<=v.size()-1;i++){
             if(v[i]!=0){
                 TreeNode* ptr2=ptr;
                 while(ptr2!=nullptr){
