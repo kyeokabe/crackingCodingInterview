@@ -395,7 +395,7 @@
 
 [**1072**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1072_FlipColumnsForMaximumNumbersOfEqualRows.cpp)
 
-[**1113**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1193_RemoveVowelsFromAString.cpp)
+[**1119**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1119_RemoveVowelsFromAString.cpp)
 
 
 [**1154**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1154_DayOfTheYear.cpp)
@@ -1905,6 +1905,6 @@ priority_queue<int,vector<int>, greater<int>> q;
 
 [LC 14 Longest Common Prefix](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/14_LongestCommonPrefix.cpp) ... Easy problem.
 
-[LC 1119] 
+[LC 1119 Remove Vowels From A String](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1119_RemoveVowelsFromAString.cpp) ... Very easy problem. 
 
 TODO ... permutations, best time to buy/sell, DP bootcamp
