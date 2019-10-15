@@ -1910,4 +1910,6 @@ priority_queue<int,vector<int>, greater<int>> q;
 
 [LC 345 Reverse Vowels in a String](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/345_ReverseVowelsOfAString.cpp) ... Standard two pointers problem.
 
+[LC 62 Unique Paths](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/62_UniquePaths.cpp) ... Added new solution. Should review permutation equations. Be careful of overflow issues. Unsigned long long doesn't seem to do division correctly when numbers are large?
+
 TODO ... permutations, best time to buy/sell, DP bootcamp
