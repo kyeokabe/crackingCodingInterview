@@ -31,3 +31,35 @@ public:
         return k;
     }
 };
+
+/*
+//added new solution on 10/14/2019
+//need to be careful of overflow issues
+
+//review permutations with duplicates
+//https://www.geisya.or.jp/~mwm48961/kou3/onajimono1.htm
+class Solution {
+public:
+    int uniquePaths(int m, int n) {
+        if(n>m)
+            swap(m,n);
+        
+        m--;//m represents number of right (or down) moves necessary to reach target
+        n--;//n represents number of right (or down) moves necessary to reach target
+        
+        //m>=n
+        //unsigned long long seems to return incorrect division
+        unsigned long num=1;
+        unsigned long den=1;
+        
+        while(n>0){
+            num=num*(m+n);
+            den=den*n;
+            n--;
+        }
+        return int(num/den);
+        //22 15 ish is max
+    }
+};
+
+*/
