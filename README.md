@@ -49,6 +49,7 @@
 
 [**61**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/61_RotateList.cpp)
 [**62**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/62_UniquePaths.cpp)
+[**63**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/63_UniquePathsII.cpp)
 [**66**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/66_PlusOne.cpp)
 [**67**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/67_AddBinary.cpp)
 [**69**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/69_Sqrt(x).cpp)
@@ -537,6 +538,10 @@ tricky...try 80 again
 
 [**62**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/62_UniquePaths.cpp)
 [**70**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/70_ClimbingStairs.cpp)
+
+**Recurrsion (Breadth First Search)**
+
+[**63**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/63_UniquePathsII.cpp)
 
 **Find All Subsets**
 
@@ -1916,5 +1921,7 @@ priority_queue<int,vector<int>, greater<int>> q;
 **10/15/2019**
 
 [LC 270 Closest Binary Search Tree Value](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/270_ClosestBinarySearchTreeValue.cpp) ... Simple tree traversal problem.
+
+[LC 63 Unique Paths II](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/63_UniquePathsII.cpp) ... Recurrsion Breadth First Search (BFS) problem. In hind sight, it would have been better to build the BFS from start to finish rather than finish to start to avoid int overflows at mid points (actually this could happen either way...test case is not "fair"). Do not forget to add coordinate to Q for BFS even if that coordinate itself is blocked (==1).
 
 TODO ... permutations, best time to buy/sell, DP bootcamp
