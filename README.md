@@ -166,6 +166,7 @@
 [**263**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/263_UglyNumber.cpp)
 [**264**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/264_UglyNumberII.cpp)
 [**268**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/268_MissingNumber.cpp)
+[**270**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/270_ClosestBinarySearchTreeValue.cpp)
 
 [**274**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/274_H-Index.cpp)
 [**278**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/278_FirstBadVersion.cpp)
@@ -1911,5 +1912,9 @@ priority_queue<int,vector<int>, greater<int>> q;
 [LC 345 Reverse Vowels in a String](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/345_ReverseVowelsOfAString.cpp) ... Standard two pointers problem.
 
 [LC 62 Unique Paths](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/62_UniquePaths.cpp) ... Added new solution. Should review permutation equations. Be careful of overflow issues. Unsigned long long doesn't seem to do division correctly when numbers are large?
+
+**10/15/2019**
+
+[LC 270 Closest Binary Search Tree Value](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/270_ClosestBinarySearchTreeValue.cpp) ... Simple tree traversal problem.
 
 TODO ... permutations, best time to buy/sell, DP bootcamp
