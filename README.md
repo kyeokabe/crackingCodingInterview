@@ -360,6 +360,7 @@
 [**976**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/976_LargestPerimeterTriangle.cpp)
 [**977**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/977_SquaresOfASortedArray.cpp)
 
+[**980**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/980_UniquePathsIII.cpp)
 [**983**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/983_MinimumCostForTickets.cpp)
 [**984**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/984_StringWithoutAAAorBBB.cpp)
 [**985**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/985_SumOfEvenNumbersAfterQueries.cpp)
@@ -1923,5 +1924,7 @@ priority_queue<int,vector<int>, greater<int>> q;
 [LC 270 Closest Binary Search Tree Value](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/270_ClosestBinarySearchTreeValue.cpp) ... Simple tree traversal problem.
 
 [LC 63 Unique Paths II](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/63_UniquePathsII.cpp) ... Recurrsion Breadth First Search (BFS) problem. In hind sight, it would have been better to build the BFS from start to finish rather than finish to start to avoid int overflows at mid points (actually this could happen either way...test case is not "fair"). Do not forget to add coordinate to Q for BFS even if that coordinate itself is blocked (==1).
+
+[LC 980 Unique Paths III](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/980_UniquePathsIII.cpp) ... Despite being categorized as a "hard" problem, it uses standard DFS and backtracking techniques. Build a recursive function, if adjacent position is unvisited empty path or the goal, mark current position visited and dive into the recurring position. Unmark the current position after diving out of the function.
 
 TODO ... permutations, best time to buy/sell, DP bootcamp
