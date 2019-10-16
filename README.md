@@ -178,6 +178,7 @@
 
 [**283**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/283_MoveZeroes.cpp)
 [**287**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/287_FindTheDuplicateNumber.cpp)
+[**288**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/288_UniqueWordAbbreviation.cpp)
 [**289**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/289_GameOfLife.cpp)
 
 [**290**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/290_WordPattern.cpp)
@@ -1941,5 +1942,7 @@ priority_queue<int,vector<int>, greater<int>> q;
 [LC 17 Letter Combinations of A Phone Number](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/17_LetterCombinationsOfAPhoneNumber.cpp) ... Backtracking practice problem. Do not forget to increment iterators if using a ```while``` condition (I tend to do this)!
 
 [LC 170 Two Sum III](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/170_TwoSumIII.cpp) ... Easy problem.
+
+[LC 288 Unique Word Abbreviation](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/288_UniqueWordAbbreviation.cpp) ... Unclear problem description. Don't bother to do again.
 
 TODO ... permutations, best time to buy/sell, DP bootcamp
