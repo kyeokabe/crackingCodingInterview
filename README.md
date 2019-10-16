@@ -140,6 +140,7 @@
 [**217**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/217_ContainsDuplicate.cpp)
 [**219**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/219_ContainsDuplicateII.cpp)
 
+[**221**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/221_MaximalSquare.cpp)
 [**222**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/222_CountCompleteTreeNodes.cpp)
 [**225**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/225_ImplementStackUsingQueues.cpp)
 [**226**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/226_InvertBinaryTree.cpp)
@@ -1926,5 +1927,9 @@ priority_queue<int,vector<int>, greater<int>> q;
 [LC 63 Unique Paths II](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/63_UniquePathsII.cpp) ... Recurrsion Breadth First Search (BFS) problem. In hind sight, it would have been better to build the BFS from start to finish rather than finish to start to avoid int overflows at mid points (actually this could happen either way...test case is not "fair"). Do not forget to add coordinate to Q for BFS even if that coordinate itself is blocked (==1).
 
 [LC 980 Unique Paths III](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/980_UniquePathsIII.cpp) ... Despite being categorized as a "hard" problem, it uses standard DFS and backtracking techniques. Build a recursive function, if adjacent position is unvisited empty path or the goal, mark current position visited and dive into the recurring position. Unmark the current position after diving out of the function.
+
+**10/16/2019**
+
+[LC 221 Maximal Square](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/221_MaximalSquare.cpp) ... Interesting question. Had to see discussion to realize the question was asking for squares, not rectangles. Review again in the future.
 
 TODO ... permutations, best time to buy/sell, DP bootcamp
