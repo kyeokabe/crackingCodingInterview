@@ -60,6 +60,7 @@
 [**74**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/74_SearchA2DMatrix.cpp)
 [**75**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/75_SortColors.cpp)
 [**78**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/78_Subsets.cpp)
+[**79**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/79_WordSearch.cpp)
 
 [**80**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/80_RemoveDuplicatesFromSOrtedArrayII.cpp)
 [**82**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/82_RemoveDuplicatesFromSortedListII.cpp)
@@ -446,6 +447,10 @@
 
 [**17**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/17_LetterCombinationsOfAPhoneNumber.cpp)
 [**22**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/22_GenerateParentheses.cpp)
+
+**Backtracking**
+
+[**79**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/79_WordSearch.cpp)
 
 **Binary Trees**
 
@@ -1944,5 +1949,7 @@ priority_queue<int,vector<int>, greater<int>> q;
 [LC 170 Two Sum III](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/170_TwoSumIII.cpp) ... Easy problem.
 
 [LC 288 Unique Word Abbreviation](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/288_UniqueWordAbbreviation.cpp) ... Unclear problem description. Don't bother to do again.
+
+[LC 79 Word Search](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/79_WordSearch.cpp) ... Standard backtracking problem.
 
 TODO ... permutations, best time to buy/sell, DP bootcamp
