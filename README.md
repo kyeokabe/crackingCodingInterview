@@ -118,6 +118,7 @@
 [**167**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/167_TwoSumII.cpp)
 [**169**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/169_MajorityElement.cpp)
 
+[**170**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/170_TwoSumIII.cpp)
 [**173**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/173_BinarySearchTreeIterator.cpp)
 [**179**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/179_LargestNumber.cpp)
 
@@ -1938,5 +1939,7 @@ priority_queue<int,vector<int>, greater<int>> q;
 [LC 293 Flip Game](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/293_FlipGame.cpp) ... Easy problem.
 
 [LC 17 Letter Combinations of A Phone Number](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/17_LetterCombinationsOfAPhoneNumber.cpp) ... Backtracking practice problem. Do not forget to increment iterators if using a ```while``` condition (I tend to do this)!
+
+[LC 170 Two Sum III](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/170_TwoSumIII.cpp) ... Easy problem.
 
 TODO ... permutations, best time to buy/sell, DP bootcamp
