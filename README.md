@@ -180,6 +180,7 @@
 
 [**290**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/290_WordPattern.cpp)
 [**292**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/292_NimGame.cpp)
+[**293**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/293_FlipGame.cpp)
 
 [**300**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/300_LongestIncreasingSubsequence.cpp)
 [**304**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/304_RangeSumQuery2D.cpp)
@@ -1931,5 +1932,7 @@ priority_queue<int,vector<int>, greater<int>> q;
 **10/16/2019**
 
 [LC 221 Maximal Square](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/221_MaximalSquare.cpp) ... Interesting question. Had to see discussion to realize the question was asking for squares, not rectangles. Review again in the future.
+
+[LC 293 Flip Game](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/293_FlipGame.cpp) ... Easy problem.
 
 TODO ... permutations, best time to buy/sell, DP bootcamp
