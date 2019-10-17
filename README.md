@@ -333,6 +333,8 @@
 
 [**832**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/832_FlippingAnImage.cpp)
 
+[**849**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/849_MaximizeDistanceToClosestPerson.cpp)
+
 [**852**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/852_PeakIndexInAMountainArray.cpp)
 
 [**863**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/863_AllNodesDistanceKInBinaryTree.cpp)
@@ -1956,5 +1958,7 @@ priority_queue<int,vector<int>, greater<int>> q;
 **10/17/2019**
 
 [LC 1086 High Five](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1086_HighFive.cpp) ... When you get a problem that wants "top 5 highest (or lowest)" think priority queue.
+
+[LC 849 Maximize Distance to Closest Person](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/849_MaximizeDistanceToClosestPerson.cpp) ... Easy problem, but could have done in 1 pass constant memory.
 
 TODO ... permutations, best time to buy/sell, DP bootcamp
