@@ -185,6 +185,7 @@
 [**290**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/290_WordPattern.cpp)
 [**292**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/292_NimGame.cpp)
 [**293**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/293_FlipGame.cpp)
+[**298**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/298_BinaryTreeLongestConsecutiveSequence.cpp)
 
 [**300**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/300_LongestIncreasingSubsequence.cpp)
 [**304**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/304_RangeSumQuery2D.cpp)
@@ -1960,5 +1961,7 @@ priority_queue<int,vector<int>, greater<int>> q;
 [LC 1086 High Five](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1086_HighFive.cpp) ... When you get a problem that wants "top 5 highest (or lowest)" think priority queue.
 
 [LC 849 Maximize Distance to Closest Person](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/849_MaximizeDistanceToClosestPerson.cpp) ... Easy problem, but could have done in 1 pass constant memory.
+
+[LC 298 Binary Tree Longest Consecutive Sequence](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/298_BinaryTreeLongestConsecutiveSequence.cpp) ... Not too difficult.
 
 TODO ... permutations, best time to buy/sell, DP bootcamp
