@@ -404,6 +404,7 @@
 [**1052**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1052_GrumpyBookstoreOwner.cpp)
 
 [**1072**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1072_FlipColumnsForMaximumNumbersOfEqualRows.cpp)
+[**1086**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1086_HighFive.cpp)
 
 [**1119**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1119_RemoveVowelsFromAString.cpp)
 
@@ -1951,5 +1952,9 @@ priority_queue<int,vector<int>, greater<int>> q;
 [LC 288 Unique Word Abbreviation](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/288_UniqueWordAbbreviation.cpp) ... Unclear problem description. Don't bother to do again.
 
 [LC 79 Word Search](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/79_WordSearch.cpp) ... Standard backtracking problem.
+
+**10/17/2019**
+
+[LC 1086 High Five](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1086_HighFive.cpp) ... When you get a problem that wants "top 5 highest (or lowest)" think priority queue.
 
 TODO ... permutations, best time to buy/sell, DP bootcamp
