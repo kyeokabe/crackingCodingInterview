@@ -289,6 +289,7 @@
 [**590**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/590_N-aryTreePostorderTraversal.cpp)
 [**599**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/599_MinimumIndexSumOfTwoLists.cpp)
 
+[**622**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/622_DesignCircularQueue.cpp)
 [**623**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/623_AddOneRowToTree.cpp)
 [**628**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/628_MaximumProductOfThreeNumbers.cpp)
 
@@ -1963,5 +1964,7 @@ priority_queue<int,vector<int>, greater<int>> q;
 [LC 849 Maximize Distance to Closest Person](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/849_MaximizeDistanceToClosestPerson.cpp) ... Easy problem, but could have done in 1 pass constant memory.
 
 [LC 298 Binary Tree Longest Consecutive Sequence](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/298_BinaryTreeLongestConsecutiveSequence.cpp) ... Not too difficult.
+
+[LC 622 Design Circular Queue](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/622_DesignCircularQueue.cpp) ... **First time using lists (typically implemented as doubly linked lists).** Lists guarantee constant insert and delete anywhere within the chain. However, access to a particular element is not constant time. For instance, if you don't have an iterator to begin with, accessing to the middle of the lists requires traversing fron the beginning or end of the list (which is linear time).
 
 TODO ... permutations, best time to buy/sell, DP bootcamp
