@@ -161,6 +161,7 @@
 
 [**240**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/240_SearchA2DMatrixII.cpp)
 [**242**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/242_ValidAnagram.cpp)
+[**247**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/247_StrobogrammaticNumberII.cpp)
 
 [**252**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/252_MeetingRooms.cpp)
 [**253**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/253_MeetingRoomsII.cpp)
@@ -1972,5 +1973,11 @@ priority_queue<int,vector<int>, greater<int>> q;
 [LC 641 Design Circular Dequeue](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/641_DesignCircularDeque.cpp) ... Very similar to previous question (LC 622). Easy if you use C++ lists. Note that ```back``` is typically used to access the back when **not** using iterators while ```end``` tends to get used for accessing the "end" when using iterators. 
 
 [LC 633 Sum of Square Numbers](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/633_SumOfSquareNumbers.cpp) ... Fairly easy. Solved is as a "two sum" problem.
+
+**10/18/2019**
+
+[LC 246 Strobogrammatic Number I]
+
+[LC 247 Strobogrammatic Number II](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/247_StrobogrammaticNumberII.cpp) ... Good backtracking practice problem.
 
 TODO ... permutations, best time to buy/sell, DP bootcamp
