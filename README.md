@@ -317,6 +317,7 @@
 [**700**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/700_SearchInABinarySearchTree.cpp)
 [**701**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/701_InsertIntoABinarySearchTree.cpp)
 [**703**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/703_KthLargestElementInAStream.cpp)
+[**706**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/706_DesignHashMap.cpp)
 [**709**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/709_ToLowerCase.cpp)
 
 [**728**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/728_SelfDividingNumbers.cpp)
@@ -1980,5 +1981,7 @@ priority_queue<int,vector<int>, greater<int>> q;
 [LC 246 Strobogrammatic Number](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/246_StrobogrammaticNumber.cpp) ... Fairly easy problem.
 
 [LC 247 Strobogrammatic Number II](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/247_StrobogrammaticNumberII.cpp) ... Good backtracking practice problem.
+
+[LC 706 Design HashMap](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/706_DesignHashMap.cpp) ... Pretty easy.
 
 TODO ... permutations, best time to buy/sell, DP bootcamp
