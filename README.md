@@ -293,6 +293,7 @@
 [**623**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/623_AddOneRowToTree.cpp)
 [**628**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/628_MaximumProductOfThreeNumbers.cpp)
 
+[**633**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/633_SumOfSquareNumbers.cpp)
 [**637**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/637_AverageOfLevelsInBinaryTree.cpp)
 
 [**641**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/641_DesignCircularDeque.cpp)
@@ -1969,5 +1970,7 @@ priority_queue<int,vector<int>, greater<int>> q;
 [LC 622 Design Circular Queue](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/622_DesignCircularQueue.cpp) ... **First time using lists (typically implemented as doubly linked lists).** Lists guarantee constant insert and delete anywhere within the chain. However, access to a particular element is not constant time. For instance, if you don't have an iterator to begin with, accessing to the middle of the lists requires traversing fron the beginning or end of the list (which is linear time).
 
 [LC 641 Design Circular Dequeue](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/641_DesignCircularDeque.cpp) ... Very similar to previous question (LC 622). Easy if you use C++ lists. Note that ```back``` is typically used to access the back when **not** using iterators while ```end``` tends to get used for accessing the "end" when using iterators. 
+
+[LC 633 Sum of Square Numbers](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/633_SumOfSquareNumbers.cpp) ... Fairly easy. Solved is as a "two sum" problem.
 
 TODO ... permutations, best time to buy/sell, DP bootcamp
