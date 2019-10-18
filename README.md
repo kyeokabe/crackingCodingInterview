@@ -161,6 +161,7 @@
 
 [**240**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/240_SearchA2DMatrixII.cpp)
 [**242**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/242_ValidAnagram.cpp)
+[**246**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/246_StrobogrammaticNumber.cpp)
 [**247**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/247_StrobogrammaticNumberII.cpp)
 
 [**252**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/252_MeetingRooms.cpp)
@@ -1976,7 +1977,7 @@ priority_queue<int,vector<int>, greater<int>> q;
 
 **10/18/2019**
 
-[LC 246 Strobogrammatic Number I]
+[LC 246 Strobogrammatic Number](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/246_StrobogrammaticNumber.cpp) ... Fairly easy problem.
 
 [LC 247 Strobogrammatic Number II](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/247_StrobogrammaticNumberII.cpp) ... Good backtracking practice problem.
 
