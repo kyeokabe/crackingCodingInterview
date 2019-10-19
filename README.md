@@ -442,6 +442,7 @@
 [**1221**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1221_SplitAStringInBalancedStrings.cpp)
 [**1222**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1222_QueensThatCanAttackTheKing.cpp)
 [**1228**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1228_MissingNumberInArithmeticProgression.cpp)
+[**1230**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1230_TossStrangeCoins.cpp)
 
 ***************************
 
@@ -1991,5 +1992,7 @@ priority_queue<int,vector<int>, greater<int>> q;
 **10/19/2019**
 
 [LC 1228 Missing Number In Arithmetic Progression](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1228_MissingNumberInArithmeticProgression.cpp)
+
+[LC 1230 Toss Strange Coins](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1230_TossStrangeCoins.cpp) ... Very difficult but good DP practice.
 
 TODO ... permutations, best time to buy/sell, DP bootcamp
