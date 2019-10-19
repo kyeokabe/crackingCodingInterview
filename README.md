@@ -179,6 +179,7 @@
 [**278**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/278_FirstBadVersion.cpp)
 [**279**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/279_PerfectSquares.cpp)
 
+[**281**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/281_ZigzagIterator.cpp)
 [**283**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/283_MoveZeroes.cpp)
 [**287**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/287_FindTheDuplicateNumber.cpp)
 [**288**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/288_UniqueWordAbbreviation.cpp)
@@ -1983,5 +1984,7 @@ priority_queue<int,vector<int>, greater<int>> q;
 [LC 247 Strobogrammatic Number II](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/247_StrobogrammaticNumberII.cpp) ... Good backtracking practice problem.
 
 [LC 706 Design HashMap](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/706_DesignHashMap.cpp) ... Pretty easy.
+
+[LC 281 Zigzag Iterator](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/281_ZigzagIterator.cpp) ... If you are allowed to use private variables (and copy v1 & v2) not sure what the intent of the problem is. Is it possible to solve without private variables...?
 
 TODO ... permutations, best time to buy/sell, DP bootcamp
