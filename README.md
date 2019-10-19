@@ -441,6 +441,7 @@
 [**1220**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1220_CountVowelsPermutation.cpp)
 [**1221**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1221_SplitAStringInBalancedStrings.cpp)
 [**1222**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1222_QueensThatCanAttackTheKing.cpp)
+[**1228**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1228_MissingNumberInArithmeticProgression.cpp)
 
 ***************************
 
@@ -1986,5 +1987,9 @@ priority_queue<int,vector<int>, greater<int>> q;
 [LC 706 Design HashMap](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/706_DesignHashMap.cpp) ... Pretty easy.
 
 [LC 281 Zigzag Iterator](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/281_ZigzagIterator.cpp) ... If you are allowed to use private variables (and copy v1 & v2) not sure what the intent of the problem is. Is it possible to solve without private variables...?
+
+**10/19/2019**
+
+[LC 1228 Missing Number In Arithmetic Progression](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1228_MissingNumberInArithmeticProgression.cpp)
 
 TODO ... permutations, best time to buy/sell, DP bootcamp
