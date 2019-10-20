@@ -444,6 +444,8 @@
 [**1228**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1228_MissingNumberInArithmeticProgression.cpp)
 [**1230**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1230_TossStrangeCoins.cpp)
 
+[**1233**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1233_RemoveSub-FoldersFromTheFilesystem.cpp)
+
 ***************************
 
 **Leet Code by Problem Category (needs to be updated)**
@@ -1994,5 +1996,7 @@ priority_queue<int,vector<int>, greater<int>> q;
 [LC 1228 Missing Number In Arithmetic Progression](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1228_MissingNumberInArithmeticProgression.cpp)
 
 [LC 1230 Toss Strange Coins](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1230_TossStrangeCoins.cpp) ... Very difficult but good DP practice.
+
+[LC 1233 Remove Sub-Folders from the Filesystem](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1233_RemoveSub-FoldersFromTheFilesystem.cpp)
 
 TODO ... permutations, best time to buy/sell, DP bootcamp
