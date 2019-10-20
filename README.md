@@ -446,6 +446,7 @@
 
 [**1232**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1232_CheckIfItIsAStraightLine.cpp)
 [**1233**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1233_RemoveSub-FoldersFromTheFilesystem.cpp)
+[**1234**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1234_ReplaceTheSubstringForBalancedString.cpp)
 
 ***************************
 
@@ -2001,5 +2002,7 @@ priority_queue<int,vector<int>, greater<int>> q;
 [LC 1233 Remove Sub-Folders from the Filesystem](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1233_RemoveSub-FoldersFromTheFilesystem.cpp)
 
 [LC 1232 Check if it is a Straight Line](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1232_CheckIfItIsAStraightLine.cpp)
+
+[LC 1234 Replace the Substring for Balanced String](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1234_ReplaceTheSubstringForBalancedString.cpp) ... When doing sliding window problem, consider adding second while loop at the back covering ptrR==end but ptrL need to slide more cases.
 
 TODO ... permutations, best time to buy/sell, DP bootcamp
