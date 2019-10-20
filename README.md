@@ -234,6 +234,7 @@
 [**413**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/413_ArithmeticSlices.cpp)
 [**414**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/414_ThirdMaximumNumber.cpp)
 [**415**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/415_AddStrings.cpp)
+[**416**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/416_PartitionEqualSubsetSum.cpp)
 
 [**426**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/426_ConvertBinarySearchTreeToSortedDoublyLinkedList.cpp)
 [**429**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/429_N-aryTreeLevelOrderTraversal.cpp)
@@ -2003,6 +2004,10 @@ priority_queue<int,vector<int>, greater<int>> q;
 
 [LC 1232 Check if it is a Straight Line](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1232_CheckIfItIsAStraightLine.cpp)
 
+**10/20/2019**
+
 [LC 1234 Replace the Substring for Balanced String](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1234_ReplaceTheSubstringForBalancedString.cpp) ... When doing sliding window problem, consider adding second while loop at the back covering ptrR==end but ptrL need to slide more cases.
+
+[LC 416 Partition Equal Subset Sum](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/416_PartitionEqualSubsetSum.cpp) ... Though of good solution.
 
 TODO ... permutations, best time to buy/sell, DP bootcamp
