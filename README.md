@@ -48,6 +48,7 @@
 [**54**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/54_SpiralMatrix.cpp)
 [**55**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/55_JumpGame.cpp)
 [**56**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/56_MergeIntervals.cpp)
+[**59**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/59_SpiralMatrixII.cpp)
 
 [**61**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/61_RotateList.cpp)
 [**62**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/62_UniquePaths.cpp)
@@ -562,6 +563,7 @@ tricky...try 80 again
 **Matrix Traversal**
 
 [**54**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/54_SpiralMatrix.cpp)
+[**59**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/59_SpiralMatrixII.cpp)
 [**74**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/74_SearchA2DMatrix.cpp)
 
 **Recurrsion (basic)**
@@ -2022,7 +2024,9 @@ priority_queue<int,vector<int>, greater<int>> q;
 
 [LC 486 Predict The Winner](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/486_PredictTheWinner.cpp) ... Very good question testing minimax algo & DP.
 
-[LC 54 Spiral Matrix](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/54_SpiralMatrix.cpp) ... Fairly easy. Can you do with O(1) memory?
+[LC 54 Spiral Matrix](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/54_SpiralMatrix.cpp) ... Fairly easy, but hard if there is an O(1) memory constraint. Can you do with O(1) memory?
+
+[LC 59 Spiral Matrix II](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/59_SpiralMatrixII.cpp)
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
