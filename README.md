@@ -621,13 +621,15 @@ tricky...try 80 again
 
 **05 Consecutive Array**
 
-**06 Zero Matrix**
+**06 Zero Matrix** ->[**LC 73**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/73_SetMatrixZeros.cpp)
+
 
 **07 Square Submatrix**
 
-**08 Merge K Arrays** -> LC 23 (similar)
+**08 Merge K Arrays** -> [**LC 23 (similar)**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/23_MergeKSortedLists.cpp)
 
-**09 Matrix Search** -> LC 74
+
+**09 Matrix Search** -> [**LC 74**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/74_SearchA2DMatrix.cpp)
 
 **10 Merge Arrays**
 
@@ -641,12 +643,12 @@ tricky...try 80 again
 **16 Shortest Path**
 **17 Random Binary Tree**
 
-**18 Lowest Common Ancestor** -> LC 236
+**18 Lowest Common Ancestor** -> [**LC 236**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/236_Lowest%20CommonAncestorOfABinaryTree.cpp)
 
 **19 Sum**
 **20 Reverse Stack**
 
-**21 Tree to Doubly Linked List** -> LC 426
+**21 Tree to Doubly Linked List** -> [**LC 426**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/426_ConvertBinarySearchTreeToSortedDoublyLinkedList.cpp)
 
 **22 Longest Consecutive Branch**
 **23 Print Reversed Linked List**
@@ -672,16 +674,16 @@ tricky...try 80 again
 **41 Split a Linked List**
 **42 Nth to the Last Element**
 
-**43 Three Sum** ............................... LC 15
+**43 Three Sum** -> [**LC 15**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/15_3Sum.cpp)
 
-**44 Tree Level Order** ... LC 102
+**44 Tree Level Order** -> [**LC 102**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/102_BinaryTreeLevelOrderTraversal.cpp)
 
 **45 Autocomplete**
 **46 String Deletion**
 **47 Longest Common Substring** 
 **48 String Compression**
 
-**49 Fibonacci Number** ... LC 509
+**49 Fibonacci Number** -> [**LC 509**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/509_FibonacciNumber.cpp)
 
 **50 Priority Queue**
 **51 Kth Most Frequent String**
