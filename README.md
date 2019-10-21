@@ -253,6 +253,7 @@
 [**478**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/478_GenerateRandomPointInACircle.cpp)
 
 [**485**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/485_MaxConsecutiveOnes.cpp)
+[**487**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/487_MaxConsecutiveOnesII.cpp)
 
 [**492**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/492_ConstructTheRectangle.cpp)
 [**496**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/496_NextGreaterElementI.cpp)
@@ -2011,6 +2012,8 @@ priority_queue<int,vector<int>, greater<int>> q;
 [LC 1234 Replace the Substring for Balanced String](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1234_ReplaceTheSubstringForBalancedString.cpp) ... When doing sliding window problem, consider adding second while loop at the back covering ptrR==end but ptrL need to slide more cases.
 
 [LC 416 Partition Equal Subset Sum](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/416_PartitionEqualSubsetSum.cpp) ... Though of good solution.
+
+[LC 487 Max Consecutive Ones II](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/487_MaxConsecutiveOnesII.cpp) ... Soved non-two pointer way.
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
