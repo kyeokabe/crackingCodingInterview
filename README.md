@@ -40,6 +40,7 @@
 [**40**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/40_CombinationSumII.cpp)
 [**41**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/41_FirstMissingPositive.cpp)
 [**42**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/42_TrappingRainWater.cpp)
+[**46**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/46_Permutations.cpp)
 [**48**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/48_RotateImage.cpp)
 [**49**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/49_GroupAnagrams.cpp)
 
@@ -472,6 +473,7 @@
 
 **Backtracking**
 
+[**46**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/46_Permutations.cpp)
 [**79**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/79_WordSearch.cpp)
 
 **Binary Trees**
@@ -2028,9 +2030,14 @@ priority_queue<int,vector<int>, greater<int>> q;
 
 [LC 59 Spiral Matrix II](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/59_SpiralMatrixII.cpp)
 
+[LC 46 Permutations](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/46_Permutations.cpp) ... Two solutions. Excellent backtracking practice problem. Note that STL provides 
+
+```next_permutation(v.begin(),v.end())```
+
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
 
 [Next permutation algo](https://helloacm.com/the-next-permutation-algorithm-in-c-stdnext_permutation/)
+
 
 TODO ... permutations, best time to buy/sell, DP bootcamp
