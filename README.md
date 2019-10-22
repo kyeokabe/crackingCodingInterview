@@ -274,6 +274,7 @@
 [**515**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/515_FindLargestValueInEachTreeRow.cpp)
 
 [**520**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/520_DetectCapital.cpp)
+[**523**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/523_ContinuousSubarraySum.cpp)
 [**525**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/525_ContiguousArray.cpp)
 
 [**530**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/530_MinimumAbsoluteDifference.cpp)
@@ -2033,6 +2034,10 @@ priority_queue<int,vector<int>, greater<int>> q;
 [LC 46 Permutations](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/46_Permutations.cpp) ... Two solutions. Excellent backtracking practice problem. Note that STL provides 
 
 ```next_permutation(v.begin(),v.end())```
+
+**10/22/2019**
+
+[LC 523 Continusous Subarray Sum](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/523_ContinuousSubarraySum.cpp) .. Took 8 total trials to get it correct (record worse). Edge cases are rediculous to keep track of. **Not** a reasonable interview question.
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
