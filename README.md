@@ -260,6 +260,7 @@
 [**487**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/487_MaxConsecutiveOnesII.cpp)
 
 [**492**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/492_ConstructTheRectangle.cpp)
+[**494**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/494_TargetSum.cpp)
 [**496**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/496_NextGreaterElementI.cpp)
 [**498**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/498_DiagonalTraverse.cpp)
 
@@ -2038,6 +2039,8 @@ priority_queue<int,vector<int>, greater<int>> q;
 **10/22/2019**
 
 [LC 523 Continusous Subarray Sum](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/523_ContinuousSubarraySum.cpp) .. Took 8 total trials to get it correct (record worse). Edge cases are rediculous to keep track of. **Not** a reasonable interview question.
+
+[LC 494 Target Sum](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/494_TargetSum.cpp) ... Solved without using DP. Try again using DP.
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
