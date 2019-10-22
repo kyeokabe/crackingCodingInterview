@@ -2031,4 +2031,6 @@ priority_queue<int,vector<int>, greater<int>> q;
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
 
+[Next permutation algo](https://helloacm.com/the-next-permutation-algorithm-in-c-stdnext_permutation/)
+
 TODO ... permutations, best time to buy/sell, DP bootcamp
