@@ -104,6 +104,7 @@
 
 [**136**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/136_SingleNumber.cpp)
 [**137**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/137_SingleNumberII.cpp)
+[**138**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/138_CopyListWithRandomPointer.cpp)
 
 [**141**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/141_LinkedListCycle.cpp)
 [**142**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/142_LinkedListCycle_II.cpp)
@@ -2047,6 +2048,7 @@ priority_queue<int,vector<int>, greater<int>> q;
 
 [LC 146 LRU Cache](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/146_LRUCache.cpp) ... Difficult problem, but good excersize. Is there a way to solve this without two hashmaps and two lists? Do again later.
 
+[LC 138 Copy List with Random Pointer](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/138_CopyListWithRandomPointer.cpp) ... Interesting question. If you can come up with using an ```unordered_map<Node*,Node*>``` to map original to copy, the basic idea is not too hard.
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
