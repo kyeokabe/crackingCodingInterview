@@ -181,6 +181,7 @@
 [**270**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/270_ClosestBinarySearchTreeValue.cpp)
 
 [**274**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/274_H-Index.cpp)
+[**276**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/276_PaintFence.cpp)
 [**278**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/278_FirstBadVersion.cpp)
 [**279**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/279_PerfectSquares.cpp)
 
@@ -2049,6 +2050,8 @@ priority_queue<int,vector<int>, greater<int>> q;
 [LC 146 LRU Cache](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/146_LRUCache.cpp) ... Difficult problem, but good excersize. Is there a way to solve this without two hashmaps and two lists? Do again later.
 
 [LC 138 Copy List with Random Pointer](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/138_CopyListWithRandomPointer.cpp) ... Interesting question. If you can come up with using an ```unordered_map<Node*,Node*>``` to map original to copy, the basic idea is not too hard.
+
+[LC 276 Paint Fence](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/276_PaintFence.cpp) ... Elusive problem. Not sure if I fully understand what I did. Review again later.
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
