@@ -110,6 +110,7 @@
 [**143**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/143_ReorderList.cpp)
 [**144**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/144_BinaryTreePreOrderTraversal.cpp)
 [**145**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/145_BinaryTreePostorderTraversal.cpp)
+[**146**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/146_LRUCache.cpp)
 
 [**150**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/150_EvaluateReversePolishNotation.cpp)
 [**152**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/152_MaximumProductSubarray.cpp)
@@ -2041,6 +2042,11 @@ priority_queue<int,vector<int>, greater<int>> q;
 [LC 523 Continusous Subarray Sum](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/523_ContinuousSubarraySum.cpp) .. Took 8 total trials to get it correct (record worse). Edge cases are rediculous to keep track of. **Not** a reasonable interview question.
 
 [LC 494 Target Sum](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/494_TargetSum.cpp) ... Solved without using DP. Try again using DP. ...-> Added DP solution. Very hard to do without seeing the solution. Do again.
+
+**10/23/2019**
+
+[LC 146 LRU Cache](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/146_LRUCache.cpp) ... Difficult problem, but good excersize. Is there a way to solve this without two hashmaps and two lists? Do again later.
+
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
