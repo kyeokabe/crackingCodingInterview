@@ -2062,6 +2062,10 @@ priority_queue<int,vector<int>, greater<int>> q;
 
 [LC 1165 Single-Row Keyboard](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1165_Single-RowKeyboard.cpp) ... Easy problem.
 
+**10/24/2019**
+
+[very good state machine discussion](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/discuss/75928/Share-my-DP-solution-(By-State-Machine-Thinking))
+
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
 
