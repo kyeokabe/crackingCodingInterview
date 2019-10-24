@@ -171,6 +171,7 @@
 
 [**252**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/252_MeetingRooms.cpp)
 [**253**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/253_MeetingRoomsII.cpp)
+[**256**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/256_PaintHouse.cpp)
 [**257**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/257_BinaryTreePaths.cpp)
 [**258**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/258_AddDigits.cpp)
 
@@ -2052,6 +2053,8 @@ priority_queue<int,vector<int>, greater<int>> q;
 [LC 138 Copy List with Random Pointer](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/138_CopyListWithRandomPointer.cpp) ... Interesting question. If you can come up with using an ```unordered_map<Node*,Node*>``` to map original to copy, the basic idea is not too hard.
 
 [LC 276 Paint Fence](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/276_PaintFence.cpp) ... Elusive problem. Not sure if I fully understand what I did. Review again later.
+
+[LC 256 Paint House](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/256_PaintHouse.cpp) ... Had a tough time solving DP a few weeks ago, but this time solved the problem almost immediately.
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
