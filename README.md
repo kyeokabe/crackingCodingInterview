@@ -435,6 +435,7 @@
 [**1154**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1154_DayOfTheYear.cpp)
 
 [**1161**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1161_MaximumLevelSumOfABinaryTree.cpp)
+[**1165**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1165_Single-RowKeyboard.cpp)
 
 [**1176**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1176_DietPlanPerformance.cpp)
 
@@ -2058,6 +2059,8 @@ priority_queue<int,vector<int>, greater<int>> q;
 [LC 256 Paint House](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/256_PaintHouse.cpp) ... Had a tough time solving DP a few weeks ago, but this time solved the problem almost immediately.
 
 [LC 265 Paint House II](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/265_PaintHouseII.cpp) ... Similar to Paint House I. Still not have solved with O(nk). Review again.
+
+[LC 1165 Single-Row Keyboard](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1165_Single-RowKeyboard.cpp) ... Easy problem.
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
