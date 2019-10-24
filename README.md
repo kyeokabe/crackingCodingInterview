@@ -178,6 +178,7 @@
 [**260**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/260_SingleNumberIII.cpp)
 [**263**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/263_UglyNumber.cpp)
 [**264**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/264_UglyNumberII.cpp)
+[**265**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/265_PaintHouseII.cpp)
 [**268**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/268_MissingNumber.cpp)
 [**270**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/270_ClosestBinarySearchTreeValue.cpp)
 
@@ -2055,6 +2056,8 @@ priority_queue<int,vector<int>, greater<int>> q;
 [LC 276 Paint Fence](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/276_PaintFence.cpp) ... Elusive problem. Not sure if I fully understand what I did. Review again later.
 
 [LC 256 Paint House](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/256_PaintHouse.cpp) ... Had a tough time solving DP a few weeks ago, but this time solved the problem almost immediately.
+
+[LC 265 Paint House II](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/265_PaintHouseII.cpp) ... Similar to Paint House I. Still not have solved with O(nk). Review again.
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
