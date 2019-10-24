@@ -454,6 +454,7 @@
 [**1218**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1218_LongestArithmeticSubsequenceOfGivenDifference.cpp)
 [**1219**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1219_PathWithMaximumGold.cpp)
 [**1220**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1220_CountVowelsPermutation.cpp)
+
 [**1221**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1221_SplitAStringInBalancedStrings.cpp)
 [**1222**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1222_QueensThatCanAttackTheKing.cpp)
 [**1228**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1228_MissingNumberInArithmeticProgression.cpp)
