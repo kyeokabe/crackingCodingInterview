@@ -2075,6 +2075,11 @@ priority_queue<int,vector<int>, greater<int>> q;
 
 [LC 1143 Longest Common Subsequence](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1143_LongestCommonSubsequence.cpp) ... Not trivial at all! Had to check the solution. Do again.
 
+[supposedly similar problems]
+1092. Shortest Common Supersequence
+1062. Longest Repeating Substring
+516. Longest Palindromic Subsequence
+
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
 
