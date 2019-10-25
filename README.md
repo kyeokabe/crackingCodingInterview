@@ -432,6 +432,7 @@
 
 [**1119**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1119_RemoveVowelsFromAString.cpp)
 
+[**1143**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1143_LongestCommonSubsequence.cpp)
 
 [**1154**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1154_DayOfTheYear.cpp)
 
@@ -2069,6 +2070,10 @@ priority_queue<int,vector<int>, greater<int>> q;
 [very good state machine discussion](https://leetcode.com/problems/best-time-to-buy-and-sell-stock-with-cooldown/discuss/75928/Share-my-DP-solution-(By-State-Machine-Thinking))
 
 [LC 309 Best Time To Buy And Sell Stock With Cooldown](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/309_BestTimeToBuyAndSellStockWithCooldown.cpp) ... Great problem to introduce the idea of state machines. Pay attention to difference between state and actions.
+
+**10/25/2019**
+
+[LC 1143 Longest Common Subsequence](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1143_LongestCommonSubsequence.cpp) ... Not trivial at all! Had to check the solution. Do again.
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
