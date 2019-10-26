@@ -218,6 +218,7 @@
 [**344**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/344_ReverseString.cpp)
 [**345**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/345_ReverseVowelsOfAString.cpp)
 [**346**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/346_MovingAverageFromDataStream.cpp)
+[**347**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/347_TopKFrequentElements.cpp)
 [**349**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/349_IntersectionOfTwoArrays.cpp)
 
 [**350**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/350_IntersectionOfTwoArraysII.cpp)
@@ -2074,6 +2075,8 @@ priority_queue<int,vector<int>, greater<int>> q;
 **10/25/2019**
 
 [LC 1143 Longest Common Subsequence](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1143_LongestCommonSubsequence.cpp) ... Not trivial at all! Had to check the solution. Do again.
+
+[LC 347 Top K Frequent Elements](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/347_TopKFrequentElements.cpp) ... Interesting idea where you can allocate O(n) memory to "sort" in O(n) time!
 
 [supposedly similar problems]
 1092. Shortest Common Supersequence
