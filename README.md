@@ -466,6 +466,7 @@
 [**1232**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1232_CheckIfItIsAStraightLine.cpp)
 [**1233**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1233_RemoveSub-FoldersFromTheFilesystem.cpp)
 [**1234**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1234_ReplaceTheSubstringForBalancedString.cpp)
+[**1238**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1238_CircularPermutationInBinaryRepresentation.cpp)
 
 ***************************
 
@@ -2095,6 +2096,7 @@ priority_queue<int,vector<int>, greater<int>> q;
 B->G
 G=B^(B>>1)
 ```
+[LC 1238 Circular Permutation in Binary Representation](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1238_CircularPermutationInBinaryRepresentation.cpp) ... This is another Gray Code problem, but with a bit more twist. Make Binary to Gray hash table. Push back the binary number correspondint to the gray code which maches the start in binary. Keep pushing back the binary+1%(1<<n) transformations.
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
