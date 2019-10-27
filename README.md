@@ -71,6 +71,7 @@
 [**84**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/84_LargestRectangleInHistogram.cpp)
 [**86**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/86_PartitionList.cpp)
 [**88**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/88_MergeSortedArray.cpp)
+[**89**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/89_GrayCode.cpp)
 
 [**94**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/94_BinaryTreeInorderTraversal.cpp)
 [**97**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/97_InterleavingString.cpp)
@@ -626,6 +627,9 @@ tricky...try 80 again
 [**28**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/28_Implement_strStr().cpp)
 [**55**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/55_JumpGame.cpp)
 [**161**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/161_OneEditDistance.cpp)
+
+**Bit Manipulation**
+[**89**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/89_GrayCode.cpp)
 
 ***************************
 
@@ -2082,6 +2086,15 @@ priority_queue<int,vector<int>, greater<int>> q;
 1092. Shortest Common Supersequence
 1062. Longest Repeating Substring
 516. Longest Palindromic Subsequence
+
+**10/27/2019**
+
+[LC 89 Gray Code](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/89_GrayCode.cpp) ... Should know what Gray code is. Note that the conversion from binary to Gray is
+
+```
+B->G
+G=B^(B>>1)
+```
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
