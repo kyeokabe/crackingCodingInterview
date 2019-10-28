@@ -432,6 +432,8 @@
 [**1072**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1072_FlipColumnsForMaximumNumbersOfEqualRows.cpp)
 [**1086**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1086_HighFive.cpp)
 
+[**1093**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1093_StatisticsFromALargeSample.cpp)
+
 [**1119**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1119_RemoveVowelsFromAString.cpp)
 
 [**1143**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1143_LongestCommonSubsequence.cpp)
@@ -2100,6 +2102,10 @@ G=B^(B>>1)
 [LC 1238 Circular Permutation in Binary Representation](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1238_CircularPermutationInBinaryRepresentation.cpp) ... This is another Gray Code problem, but with a bit more twist. Make Binary to Gray hash table. Push back the binary number correspondint to the gray code which maches the start in binary. Keep pushing back the binary+1%(1<<n) transformations.
 
 [LC 1236 Web Crawler](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1236_WebCrawler.cpp) ... Not too interesting.
+
+**10/28/2019**
+
+[LC 1093 Statistics From A Large Sample](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1093_StatisticsFromALargeSample.cpp)
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
