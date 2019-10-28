@@ -360,6 +360,7 @@
 [**849**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/849_MaximizeDistanceToClosestPerson.cpp)
 
 [**852**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/852_PeakIndexInAMountainArray.cpp)
+[**858**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/858_MirrorReflection.cpp)
 
 [**863**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/863_AllNodesDistanceKInBinaryTree.cpp)
 [**867**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/867_TransposeMatrix.cpp)
@@ -2106,6 +2107,8 @@ G=B^(B>>1)
 **10/28/2019**
 
 [LC 1093 Statistics From A Large Sample](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1093_StatisticsFromALargeSample.cpp)
+
+[LC 858 Mirror Reflection](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/858_MirrorReflection.cpp) ... Interesting problem. Did not think in the "simple answer" direction.
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
