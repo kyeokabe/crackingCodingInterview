@@ -1,5 +1,4 @@
 class Solution {
-    
     public:
         int tilingRectangle(int n, int m) {
             if (n == m) 
@@ -16,7 +15,6 @@ class Solution {
             dfs(n, m, foo, 0, ans, Map);
             return ans;
         }
-    
     private:
         void dfs(int n, int m, vector<int> h, int cnt,int &ans, unordered_map<unsigned long long,int> &Map) {
             if (cnt >= ans) 
@@ -44,9 +42,7 @@ class Solution {
             auto it=Map.find(key);
             if(it!=Map.end()&&Map[key]<=cnt)
                 return;
-            
             Map[key]=cnt;
-        
             int end = pos;
             while (end + 1 <= n && h[end + 1] == h[pos] && (end + 1 - pos + 1 + minH) <= m) 
                 end++;
