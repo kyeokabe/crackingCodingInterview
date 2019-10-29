@@ -400,6 +400,7 @@
 [**987**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/987_VerticalOrderTraversalOfABinaryTree.cpp)
 [**988**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/988_SmallestStringStartingFromLeaf.cpp)
 
+[**991**]()
 [**993**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/993_CousinsInBinaryTree.cpp)
 [**994**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/994_RottingOranges.cpp)
 
@@ -2109,6 +2110,8 @@ G=B^(B>>1)
 [LC 1093 Statistics From A Large Sample](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1093_StatisticsFromALargeSample.cpp)
 
 [LC 858 Mirror Reflection](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/858_MirrorReflection.cpp) ... Interesting problem. Did not think in the "simple answer" direction.
+
+[LC 991 Broken Calculator]()
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
