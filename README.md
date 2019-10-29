@@ -392,6 +392,7 @@
 [**973**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/973_KClosestPointsToOrigin.cpp)
 [**976**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/976_LargestPerimeterTriangle.cpp)
 [**977**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/977_SquaresOfASortedArray.cpp)
+[**978**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/978_LongestTurbulentSubarray.cpp)
 
 [**980**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/980_UniquePathsIII.cpp)
 [**983**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/983_MinimumCostForTickets.cpp)
@@ -2112,6 +2113,8 @@ G=B^(B>>1)
 [LC 858 Mirror Reflection](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/858_MirrorReflection.cpp) ... Interesting problem. Did not think in the "simple answer" direction.
 
 [LC 991 Broken Calculator](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/991_BrokenCalculator.cpp) ... The non-BFS solution is not intuitive to come up with, but a good takeaway is to **consider solving the given problem "backwards"** (i.e., B->A rather than A->B).
+
+[LC 978 Longest Turbulent Subarray](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/978_LongestTurbulentSubarray.cpp) ... Seen similar type of problem before. I think it was covere by the Back to Back SWE Youtube channel.
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
