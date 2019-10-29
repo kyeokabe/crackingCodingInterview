@@ -1,4 +1,4 @@
-**LeetCode Progress as of 10/24/2019:**
+**LeetCode Progress as of 10/28/2019:**
 
 ![alt text](https://github.com/kyeokabe/crackingCodingInterview/blob/master/pictures/10_24_2019_stats.png)
 ![alt text](https://github.com/kyeokabe/crackingCodingInterview/blob/master/pictures/LCrank_10_24_2019.png)
@@ -400,7 +400,7 @@
 [**987**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/987_VerticalOrderTraversalOfABinaryTree.cpp)
 [**988**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/988_SmallestStringStartingFromLeaf.cpp)
 
-[**991**]()
+[**991**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/991_BrokenCalculator.cpp)
 [**993**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/993_CousinsInBinaryTree.cpp)
 [**994**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/994_RottingOranges.cpp)
 
@@ -2111,7 +2111,7 @@ G=B^(B>>1)
 
 [LC 858 Mirror Reflection](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/858_MirrorReflection.cpp) ... Interesting problem. Did not think in the "simple answer" direction.
 
-[LC 991 Broken Calculator]()
+[LC 991 Broken Calculator](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/991_BrokenCalculator.cpp) ... The non-BFS solution is not intuitive to come up with, but a good takeaway is to **consider solving the given problem "backwards"** (i.e., B->A rather than A->B).
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
