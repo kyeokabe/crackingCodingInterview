@@ -431,6 +431,7 @@
 
 [**1051**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1051_HeightChecker.cpp)
 [**1052**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1052_GrumpyBookstoreOwner.cpp)
+[**1055**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1055_ShortestWayToFormString.cpp)
 
 [**1072**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1072_FlipColumnsForMaximumNumbersOfEqualRows.cpp)
 [**1086**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1086_HighFive.cpp)
@@ -2115,6 +2116,11 @@ G=B^(B>>1)
 [LC 991 Broken Calculator](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/991_BrokenCalculator.cpp) ... The non-BFS solution is not intuitive to come up with, but a good takeaway is to **consider solving the given problem "backwards"** (i.e., B->A rather than A->B).
 
 [LC 978 Longest Turbulent Subarray](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/978_LongestTurbulentSubarray.cpp) ... Seen similar type of problem before. I think it was covere by the Back to Back SWE Youtube channel.
+
+**10/29/2019**
+
+[LC 1055 Shortest Way To Form String](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1055_ShortestWayToFormString.cpp) ... Can't fully explain why greedy works here.
+
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
