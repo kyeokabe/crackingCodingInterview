@@ -211,6 +211,7 @@
 [**326**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/326_PowerOfThree.cpp)
 [**328**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/328_OddEvenLinkedList.cpp)
 
+[**331**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/331_VerifyPreorderSerializationOfABinaryTree.cpp)
 [**337**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/337_HouseRobberIII.cpp)
 [**338**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/338_CountingBits.cpp)
 
@@ -2124,6 +2125,8 @@ G=B^(B>>1)
 [LC 1055 Shortest Way To Form String](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1055_ShortestWayToFormString.cpp) ... Can't fully explain why greedy works here.
 
 [LC 1133 Largest Unique Number](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1133_LargestUniqueNumber.cpp) ... Easy. When element range is limited, sometime creating a vector with size matching the element range is a good technique.
+
+[LC 331 Verify Preorder Serialization Of A Binary Tree](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/331_VerifyPreorderSerializationOfABinaryTree.cpp)
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
