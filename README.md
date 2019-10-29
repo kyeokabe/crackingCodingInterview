@@ -2126,7 +2126,7 @@ G=B^(B>>1)
 
 [LC 1133 Largest Unique Number](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1133_LargestUniqueNumber.cpp) ... Easy. When element range is limited, sometime creating a vector with size matching the element range is a good technique.
 
-[LC 331 Verify Preorder Serialization Of A Binary Tree](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/331_VerifyPreorderSerializationOfABinaryTree.cpp)
+[LC 331 Verify Preorder Serialization Of A Binary Tree](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/331_VerifyPreorderSerializationOfABinaryTree.cpp) ... Did not come up with the idea of keeping track of "the number of pointers" while scanning through the string.
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
