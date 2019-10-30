@@ -227,6 +227,7 @@
 
 [**367**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/367_ValidPerfectSquare.cpp)
 
+[**373**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/373_FindKPairsWithSmallestSums.cpp)
 [**377**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/377_CombinationSumIV.cpp)
 
 [**380**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/380_InsertDeleteGetRandom1.cpp)
@@ -2127,6 +2128,10 @@ G=B^(B>>1)
 [LC 1133 Largest Unique Number](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1133_LargestUniqueNumber.cpp) ... Easy. When element range is limited, sometime creating a vector with size matching the element range is a good technique.
 
 [LC 331 Verify Preorder Serialization Of A Binary Tree](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/331_VerifyPreorderSerializationOfABinaryTree.cpp) ... Did not come up with the idea of keeping track of "the number of pointers" while scanning through the string.
+
+**10/30/2019**
+
+[LC 373 Find K Pairs with Smallest Sum](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/373_FindKPairsWithSmallestSums.cpp) ... Not easy. The idea is to realize this can be thought (somewhat) similar to search a semi-sorted 2D matrix problem.
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
