@@ -1,4 +1,4 @@
-**LeetCode Progress as of 10/28/2019:**
+**LeetCode Progress as of 10/30/2019:**
 
 ![alt text](https://github.com/kyeokabe/crackingCodingInterview/blob/master/pictures/10_24_2019_stats.png)
 ![alt text](https://github.com/kyeokabe/crackingCodingInterview/blob/master/pictures/LCrank_10_24_2019.png)
@@ -2132,6 +2132,8 @@ G=B^(B>>1)
 **10/30/2019**
 
 [LC 373 Find K Pairs with Smallest Sum](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/373_FindKPairsWithSmallestSums.cpp) ... Not easy. The idea is to realize this can be thought (somewhat) similar to search a semi-sorted 2D matrix problem. Similar to [LC 74](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/74_SearchA2DMatrix.cpp)
+
+Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/Pramp/K-messedArray.cpp). Takeaway: Think if **priority queues** can be used **if a question wants only k numbers of max/min or only if k out of n items need to be sorted.**
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
