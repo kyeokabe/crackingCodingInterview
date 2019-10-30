@@ -1,3 +1,31 @@
+/*
+//added 10/30
+//will assume 0<=k<=arr.size()
+
+vector<int> sortKMessedArray( const vector<int>& arr, int k ){
+    vector<int> v(arr.size(),0);
+    priority_queue<int, vector<int>, greater<int>> p;
+    for(int i=0;i<k;i++)
+      p.push(arr[i]);
+    int j=0;
+    for(int i=k;i<arr.size();i++){
+      v[j]=p.top();
+      p.pop();
+      p.push(arr[i]);
+      j++;
+    }
+    while(!p.empty()){
+      V[j]=p.top();
+      j++;
+      p.pop();
+    }
+    return v;
+}
+
+time:O(nlog(k))
+space:O(k) excluding solution vector which is O(n)
+*/
+
 #include <iostream>
 #include <vector>
 #include <map> 
