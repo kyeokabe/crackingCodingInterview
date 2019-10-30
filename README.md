@@ -2131,7 +2131,7 @@ G=B^(B>>1)
 
 **10/30/2019**
 
-[LC 373 Find K Pairs with Smallest Sum](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/373_FindKPairsWithSmallestSums.cpp) ... Not easy. The idea is to realize this can be thought (somewhat) similar to search a semi-sorted 2D matrix problem.
+[LC 373 Find K Pairs with Smallest Sum](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/373_FindKPairsWithSmallestSums.cpp) ... Not easy. The idea is to realize this can be thought (somewhat) similar to search a semi-sorted 2D matrix problem. Similar to [LC 74](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/74_SearchA2DMatrix.cpp)
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
