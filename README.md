@@ -129,6 +129,7 @@
 [**173**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/173_BinarySearchTreeIterator.cpp)
 [**179**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/179_LargestNumber.cpp)
 
+[**187**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/187_RepeatedDNASequences.cpp)
 [**189**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/189_RotateArray.cpp)
 
 [**190**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/190_ReverseBits.cpp)
@@ -2140,6 +2141,10 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 [LC 1239 Maximum Length of a Concatenated String with Unique Characters](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1239_MaximumLengthOfAConcacatenatedStringWithUniqueCharacters.cpp) ... Not easy. Trick 1: Words with unique chatacters can be checked by mapping a->2^0,b->2^1...z->2^26. Trick 2: Split one long combinatorial for loop into two for loops. 
 
 [LC 1002 Find Common Characters](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1002_FindCommonCharacters.cpp) ... Easy question.
+
+**10/31/2019**
+
+[LC 187 Repeated DNA Sequences](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/187_RepeatedDNASequences.cpp) ... Easy problem. Could encode 10 char sequence to single int. A->0,B->1,C->2,S=3, then bitshift 2x position and sum up.
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
