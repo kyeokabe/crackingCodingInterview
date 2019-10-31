@@ -407,6 +407,7 @@
 [**991**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/991_BrokenCalculator.cpp)
 [**993**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/993_CousinsInBinaryTree.cpp)
 [**994**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/994_RottingOranges.cpp)
+[**998**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/998_MaximumBinaryTreeII.cpp)
 
 [**1002**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1002_FindCommonCharacters.cpp)
 [**1004**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1004_MaxConsecutiveOnesIII.cpp)
@@ -2145,6 +2146,8 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 **10/31/2019**
 
 [LC 187 Repeated DNA Sequences](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/187_RepeatedDNASequences.cpp) ... Easy problem. Could encode 10 char sequence to single int. A->0,B->1,C->2,D->3, then bitshift 2x position and sum up.
+
+[LC 998 Maximum Binary Tree II](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/998_MaximumBinaryTreeII.cpp) ... Fairly easy.
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
