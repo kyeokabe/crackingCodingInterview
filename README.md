@@ -478,6 +478,7 @@
 [**1234**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1234_ReplaceTheSubstringForBalancedString.cpp)
 [**1236**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1236_WebCrawler.cpp)
 [**1238**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1238_CircularPermutationInBinaryRepresentation.cpp)
+[**1239**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1239_MaximumLengthOfAConcacatenatedStringWithUniqueCharacters.cpp)
 
 ***************************
 
@@ -2134,6 +2135,8 @@ G=B^(B>>1)
 [LC 373 Find K Pairs with Smallest Sum](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/373_FindKPairsWithSmallestSums.cpp) ... Not easy. The idea is to realize this can be thought (somewhat) similar to search a semi-sorted 2D matrix problem. Similar to [LC 74](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/74_SearchA2DMatrix.cpp)
 
 Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/Pramp/K-messedArray.cpp). Takeaway: Think if **priority queues** can be used **if a question wants only k numbers of max/min or only if k out of n items need to be sorted.**
+
+[LC 1239 Maximum Length of a Concatenated String with Unique Characters](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1239_MaximumLengthOfAConcacatenatedStringWithUniqueCharacters.cpp) ... Not easy. Trick 1: Words with unique chatacters can be checked by mapping a->2^0,b->2^1...z->2^26. Trick 2: Split one long combinatorial for loop into two for loops. 
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
