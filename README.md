@@ -407,6 +407,7 @@
 [**993**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/993_CousinsInBinaryTree.cpp)
 [**994**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/994_RottingOranges.cpp)
 
+[**1002**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1002_FindCommonCharacters.cpp)
 [**1004**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1004_MaxConsecutiveOnesIII.cpp)
 [**1005**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1005_MinimumSumOfArrayAfterKNegations.cpp)
 [**1006**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1006_ClumsyFactorial.cpp)
@@ -2137,6 +2138,8 @@ G=B^(B>>1)
 Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/Pramp/K-messedArray.cpp). Takeaway: Think if **priority queues** can be used **if a question wants only k numbers of max/min or only if k out of n items need to be sorted.**
 
 [LC 1239 Maximum Length of a Concatenated String with Unique Characters](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1239_MaximumLengthOfAConcacatenatedStringWithUniqueCharacters.cpp) ... Not easy. Trick 1: Words with unique chatacters can be checked by mapping a->2^0,b->2^1...z->2^26. Trick 2: Split one long combinatorial for loop into two for loops. 
+
+[LC 1002 Find Common Characters](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1002_FindCommonCharacters.cpp) ... Easy question.
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
