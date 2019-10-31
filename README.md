@@ -301,6 +301,7 @@
 [**559**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/559_MaximumDepthOfN-aryTree.cpp)
 
 [**560**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/560_SubarraySumEqualsK.cpp)
+[**562**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/562_LongestLineOfConsecutiveOneInMatrix.cpp)
 [**566**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/566_ReshapeTheMatrix.cpp)
 [**567**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/567_PermulationInString.cpp)
 
@@ -2148,6 +2149,8 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 [LC 187 Repeated DNA Sequences](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/187_RepeatedDNASequences.cpp) ... Easy problem. Could encode 10 char sequence to single int. A->0,B->1,C->2,D->3, then bitshift 2x position and sum up.
 
 [LC 998 Maximum Binary Tree II](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/998_MaximumBinaryTreeII.cpp) ... Fairly easy.
+
+[LC 562 Longest Line of Consecutive Ones](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/562_LongestLineOfConsecutiveOneInMatrix.cpp) .. Traversing matricies diagonally was not as easy as I thought. Key is to split it into two separate for loops. Start from row 0~M.size()-1, then start from col 1~M[0].size()-1 etc. 
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
