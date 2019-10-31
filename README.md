@@ -2144,7 +2144,7 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 
 **10/31/2019**
 
-[LC 187 Repeated DNA Sequences](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/187_RepeatedDNASequences.cpp) ... Easy problem. Could encode 10 char sequence to single int. A->0,B->1,C->2,S=3, then bitshift 2x position and sum up.
+[LC 187 Repeated DNA Sequences](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/187_RepeatedDNASequences.cpp) ... Easy problem. Could encode 10 char sequence to single int. A->0,B->1,C->2,D->3, then bitshift 2x position and sum up.
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
