@@ -366,6 +366,7 @@
 [**852**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/852_PeakIndexInAMountainArray.cpp)
 [**858**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/858_MirrorReflection.cpp)
 
+[**861**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/861_ScoreAfterFlippingMatrix.cpp)
 [**863**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/863_AllNodesDistanceKInBinaryTree.cpp)
 [**867**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/867_TransposeMatrix.cpp)
 
@@ -2151,6 +2152,8 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 [LC 998 Maximum Binary Tree II](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/998_MaximumBinaryTreeII.cpp) ... Fairly easy.
 
 [LC 562 Longest Line of Consecutive Ones](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/562_LongestLineOfConsecutiveOneInMatrix.cpp) .. Traversing matricies diagonally was not as easy as I thought. Key is to split it into two separate for loops. Start from row 0~M.size()-1, then start from col 1~M[0].size()-1 etc. 
+
+[LC 861 Score After Flipping Matrix](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/861_ScoreAfterFlippingMatrix.cpp) ... Prety easy greedy problem.
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
