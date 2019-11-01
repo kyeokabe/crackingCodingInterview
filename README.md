@@ -360,6 +360,7 @@
 [**821**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/821_ShortestDistanceToACharacter.cpp)
 
 [**832**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/832_FlippingAnImage.cpp)
+[**836**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/836_RectangleOverlap.cpp)
 
 [**849**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/849_MaximizeDistanceToClosestPerson.cpp)
 
@@ -2154,6 +2155,10 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 [LC 562 Longest Line of Consecutive Ones](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/562_LongestLineOfConsecutiveOneInMatrix.cpp) .. Traversing matricies diagonally was not as easy as I thought. Key is to split it into two separate for loops. Start from row 0~M.size()-1, then start from col 1~M[0].size()-1 etc. 
 
 [LC 861 Score After Flipping Matrix](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/861_ScoreAfterFlippingMatrix.cpp) ... Prety easy greedy problem.
+
+**11/01/2019**
+
+[LC 836 Rectangle Overlap](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/836_RectangleOverlap.cpp) ... Think about 1D overlapping case and expand idea to 2D.
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
