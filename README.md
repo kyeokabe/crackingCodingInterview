@@ -2163,6 +2163,9 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 
 [LC 159 Longest Substring With At Most Two Distinct Characters](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/159_LongestSubstringWithAtMostTwoDistinctCharacters.cpp) ... Not too difficult sliding window problem.
 
+[Sliding window template discussion](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/discuss/49708/Sliding-Window-algorithm-template-to-solve-all-the-Leetcode-substring-search-problem.)
+
+
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
 
