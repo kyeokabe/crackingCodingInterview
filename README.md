@@ -223,6 +223,7 @@
 [**345**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/345_ReverseVowelsOfAString.cpp)
 [**346**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/346_MovingAverageFromDataStream.cpp)
 [**347**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/347_TopKFrequentElements.cpp)
+[**348**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/348_DesignTic-Tac-Toe.cpp)
 [**349**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/349_IntersectionOfTwoArrays.cpp)
 
 [**350**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/350_IntersectionOfTwoArraysII.cpp)
@@ -2164,6 +2165,10 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 [LC 159 Longest Substring With At Most Two Distinct Characters](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/159_LongestSubstringWithAtMostTwoDistinctCharacters.cpp) ... Not too difficult sliding window problem.
 
 [Sliding window template discussion](https://leetcode.com/problems/longest-substring-with-at-most-two-distinct-characters/discuss/49708/Sliding-Window-algorithm-template-to-solve-all-the-Leetcode-substring-search-problem.)
+
+**11/02/2019**
+
+[LC 348 Design Tic-Tac-Toe](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/348_DesignTic-Tac-Toe.cpp) ... Have not implemented O(1) solution yet.
 
 
 read this
