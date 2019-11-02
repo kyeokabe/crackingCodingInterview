@@ -489,6 +489,7 @@
 [**1239**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1239_MaximumLengthOfAConcacatenatedStringWithUniqueCharacters.cpp)
 
 [**1243**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1243_ArrayTransformation.cpp)
+[**1244**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1244_DesignALeaderboard.cpp)
 
 ***************************
 
@@ -2173,6 +2174,8 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 [LC 348 Design Tic-Tac-Toe](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/348_DesignTic-Tac-Toe.cpp) ... Have not implemented O(1) solution yet.
 
 [LC 1243 Array Transformation](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1243_ArrayTransformation.cpp) ... Easy.
+
+[LC 1244 Design A Leaderboard](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1244_DesignALeaderboard.cpp) ... Wasn't too hard. Vector + hashtable combination.
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
