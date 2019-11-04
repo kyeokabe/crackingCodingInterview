@@ -103,6 +103,7 @@
 [**127**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/127_WordLadder.cpp)
 [**129**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/129_SumRootToLeafNumbers.cpp)
 
+[**134**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/134_GasStation.cpp)
 [**136**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/136_SingleNumber.cpp)
 [**137**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/137_SingleNumberII.cpp)
 [**138**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/138_CopyListWithRandomPointer.cpp)
@@ -2181,6 +2182,8 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 **11/04/2019**
 
 [LC 216 Combination Sum III](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/216_CombinationSumIII.cpp) ... Relatively straight forward backtracking problem.
+
+[LC 134 Gas Station](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/134_GasStation.cpp) ... Tricky to get O(n) solution.
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
