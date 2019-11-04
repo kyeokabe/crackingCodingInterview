@@ -148,6 +148,7 @@
 
 [**213**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/213_HouseRobberII.cpp)
 [**215**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/215_KthLargestElementInAnArray.cpp)
+[**216**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/216_CombinationSumIII.cpp)
 [**217**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/217_ContainsDuplicate.cpp)
 [**219**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/219_ContainsDuplicateII.cpp)
 
@@ -2176,6 +2177,10 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 [LC 1243 Array Transformation](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1243_ArrayTransformation.cpp) ... Easy.
 
 [LC 1244 Design A Leaderboard](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1244_DesignALeaderboard.cpp) ... Wasn't too hard. Vector + hashtable combination.
+
+**11/04/2019**
+
+[LC 216 Combination Sum III](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/216_CombinationSumIII.cpp) ... Relatively straight forward backtracking problem.
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
