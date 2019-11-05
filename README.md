@@ -189,6 +189,7 @@
 
 [**274**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/274_H-Index.cpp)
 [**276**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/276_PaintFence.cpp)
+[**277**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/277_FindTheCelebrity.cpp)
 [**278**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/278_FirstBadVersion.cpp)
 [**279**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/279_PerfectSquares.cpp)
 
@@ -2187,6 +2188,8 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 [LC 134 Gas Station](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/134_GasStation.cpp) ... Tricky to get O(n) solution.
 
 [LC 1007 Minimum Domino Rotations For Equal Row](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1007_MinimumDominoRotationsForEqualRow.cpp) ... Fairly easy.
+
+[LC 277 Find The Celebrity](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/277_FindTheCelebrity.cpp) ... Straight forward logic.
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
