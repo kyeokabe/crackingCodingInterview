@@ -420,6 +420,7 @@
 [**1004**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1004_MaxConsecutiveOnesIII.cpp)
 [**1005**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1005_MinimumSumOfArrayAfterKNegations.cpp)
 [**1006**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1006_ClumsyFactorial.cpp)
+[**1007**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1007_MinimumDominoRotationsForEqualRow.cpp)
 [**1008**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1008_ConstructBinatySearchTreeFromPreorderTraversal.cpp)
 
 [**1010**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1010_PairsOfSongsWithTotalDurationsDivisibleBy60.cpp)
@@ -2184,6 +2185,8 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 [LC 216 Combination Sum III](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/216_CombinationSumIII.cpp) ... Relatively straight forward backtracking problem.
 
 [LC 134 Gas Station](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/134_GasStation.cpp) ... Tricky to get O(n) solution.
+
+[LC 1007 Minimum Domino Rotations For Equal Row](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1007_MinimumDominoRotationsForEqualRow.cpp) ... Fairly easy.
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
