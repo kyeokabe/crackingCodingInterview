@@ -318,6 +318,8 @@
 [**590**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/590_N-aryTreePostorderTraversal.cpp)
 [**599**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/599_MinimumIndexSumOfTwoLists.cpp)
 
+[**605**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/605_CanPlaceFlowers.cpp)
+
 [**622**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/622_DesignCircularQueue.cpp)
 [**623**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/623_AddOneRowToTree.cpp)
 [**628**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/628_MaximumProductOfThreeNumbers.cpp)
@@ -2199,6 +2201,8 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 **11/05/2019**
 
 [LC 735 Asteroid Collision](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/735_AsteroidCollision.cpp) ... Idea is simple. Edge cases are messy.
+
+[LC 605 Can Place Flowers](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/605_CanPlaceFlowers.cpp) ... Easy.
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
