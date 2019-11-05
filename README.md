@@ -349,6 +349,8 @@
 
 [**728**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/728_SelfDividingNumbers.cpp)
 
+[**735**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/735_AsteroidCollision.cpp)
+
 [**742**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/742_ClosestLeafInABinaryTree.cpp)
 [**747**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/747_LargestNumberAtLeastTwiceOfOthers.cpp)
 
@@ -2193,6 +2195,10 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 [LC 277 Find The Celebrity](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/277_FindTheCelebrity.cpp) ... Straight forward logic.
 
 [LC 419 Battleships In A Board](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/419_BattleshipsInABoard.cpp) ... Similar to Number of Islands problem, but additional constraints allows to solve with O(1) memory without modifying array. Count number of "top" pieces of battleship ('.' on top & '.' to the left or 'X' is on top or left most row.)
+
+**11/05/2019**
+
+[LC 735 Asteroid Collision](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/735_AsteroidCollision.cpp) ... Idea is simple. Edge cases are messy.
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
