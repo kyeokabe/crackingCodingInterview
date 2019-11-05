@@ -254,6 +254,7 @@
 [**414**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/414_ThirdMaximumNumber.cpp)
 [**415**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/415_AddStrings.cpp)
 [**416**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/416_PartitionEqualSubsetSum.cpp)
+[**419**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/419_BattleshipsInABoard.cpp)
 
 [**426**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/426_ConvertBinarySearchTreeToSortedDoublyLinkedList.cpp)
 [**429**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/429_N-aryTreeLevelOrderTraversal.cpp)
@@ -2190,6 +2191,8 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 [LC 1007 Minimum Domino Rotations For Equal Row](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1007_MinimumDominoRotationsForEqualRow.cpp) ... Fairly easy.
 
 [LC 277 Find The Celebrity](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/277_FindTheCelebrity.cpp) ... Straight forward logic.
+
+[LC 419 Battleships In A Board](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/419_BattleshipsInABoard.cpp) ... Similar to Number of Islands problem, but additional constraints allows to solve with O(1) memory without modifying array. Count number of "top" pieces of battleship ('.' on top & '.' to the left or 'X' is on top or left most row.)
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
