@@ -278,6 +278,7 @@
 
 [**492**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/492_ConstructTheRectangle.cpp)
 [**494**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/494_TargetSum.cpp)
+[**495**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/495_TeemoAttacking.cpp)
 [**496**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/496_NextGreaterElementI.cpp)
 [**498**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/498_DiagonalTraverse.cpp)
 
@@ -2203,6 +2204,8 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 [LC 735 Asteroid Collision](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/735_AsteroidCollision.cpp) ... Idea is simple. Edge cases are messy.
 
 [LC 605 Can Place Flowers](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/605_CanPlaceFlowers.cpp) ... Easy.
+
+[LC 495 Teemo Attacking](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/495_TeemoAttacking.cpp)
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
