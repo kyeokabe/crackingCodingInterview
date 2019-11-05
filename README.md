@@ -412,6 +412,7 @@
 [**978**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/978_LongestTurbulentSubarray.cpp)
 
 [**980**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/980_UniquePathsIII.cpp)
+[**981**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/981_TimeBasedKey-ValueStore.cpp)
 [**983**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/983_MinimumCostForTickets.cpp)
 [**984**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/984_StringWithoutAAAorBBB.cpp)
 [**985**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/985_SumOfEvenNumbersAfterQueries.cpp)
@@ -2206,6 +2207,16 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 [LC 605 Can Place Flowers](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/605_CanPlaceFlowers.cpp) ... Easy.
 
 [LC 495 Teemo Attacking](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/495_TeemoAttacking.cpp)
+
+[LC 981 Time Based Key-Value Store](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/981_TimeBasedKey-ValueStore.cpp) ... Imporant question. Learded ```upper_bound``` and ```prev```.
+
+```
+//assume m[1]=7,m[4]=8,m[6]=13;
+//learned auto it=m.upper_bound(5);
+//it points to m[6]
+//learded auto it2 = prev(it);
+```
+
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
