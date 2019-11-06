@@ -385,6 +385,7 @@
 [**873**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/873_LongestFibonacciSunsequence.cpp)
 [**876**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/876_MiddleOfTheLinkedList.cpp)
 
+[**895**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/895_MaximumFrequencyStack.cpp)
 [**896**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/896_MonotonicArray.cpp)
 [**897**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/897_IncreasingOrderSearchTree.cpp)
 
@@ -2225,6 +2226,10 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 [LC 1151 Minimum Swaps To Group All 1s Together](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1151_MinimumSwapsToGroupAll1sTogether.cpp) ... Took ~25 min to realize this was a sliding window problem.
 
 [LC 1200 Minimum Absolute Difference](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1200_MinimumAbsoluteDifference.cpp) ... Sort and choose.
+
+**11/06/2019**
+
+[LC 895 Maximum Frequency Stack](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/895_MaximumFrequencyStack.cpp) ... Took several hoursto get the first answer today... Idea is simple but managing data structure needs caution.
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
