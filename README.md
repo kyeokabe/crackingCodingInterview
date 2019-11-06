@@ -477,6 +477,7 @@
 
 [**1191**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1191_K-ConcatenationMaximumSum.cpp)
 [**1196**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1196_HowManyApplesCanYouPutIntoTheBasket.cpp)
+[**1200**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1200_MinimumAbsoluteDifference.cpp)
 
 [**1207**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1207_UniqueNumberOfOccurrences.cpp)
 [**1208**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1208_GetEqualSubstringsWithinBudget.cpp)
@@ -2222,6 +2223,8 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 [LC 1247 Minimum Swaps to Make Strings Equal](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1247_MinimumSwapsToMakeStringsEqual.cpp) ... Easy once you see the pattern.
 
 [LC 1151 Minimum Swaps To Group All 1s Together](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1151_MinimumSwapsToGroupAll1sTogether.cpp) ... Took ~25 min to realize this was a sliding window problem.
+
+[LC 1200 Minimum Absolute Difference](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1200_MinimumAbsoluteDifference.cpp) ... Sort and choose.
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
