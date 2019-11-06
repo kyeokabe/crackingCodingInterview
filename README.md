@@ -465,6 +465,7 @@
 
 [**1143**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1143_LongestCommonSubsequence.cpp)
 
+[**1151**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1151_MinimumSwapsToGroupAll1sTogether.cpp)
 [**1154**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1154_DayOfTheYear.cpp)
 
 [**1161**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1161_MaximumLevelSumOfABinaryTree.cpp)
@@ -2211,8 +2212,6 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 
 [LC 981 Time Based Key-Value Store](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/981_TimeBasedKey-ValueStore.cpp) ... Imporant question. Learded ```upper_bound``` and ```prev```.
 
-[LC 1247 Minimum Swaps to Make Strings Equal](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1247_MinimumSwapsToMakeStringsEqual.cpp) ... Easy once you see the pattern.
-
 ```
 //assume m[1]=7,m[4]=8,m[6]=13;
 //learned auto it=m.upper_bound(5);
@@ -2220,6 +2219,9 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 //learded auto it2 = prev(it);
 ```
 
+[LC 1247 Minimum Swaps to Make Strings Equal](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1247_MinimumSwapsToMakeStringsEqual.cpp) ... Easy once you see the pattern.
+
+[LC 1151 Minimum Swaps To Group All 1s Together](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1151_MinimumSwapsToGroupAll1sTogether.cpp) ... Took ~25 min to realize this was a sliding window problem.
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
