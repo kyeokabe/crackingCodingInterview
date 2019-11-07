@@ -200,6 +200,7 @@
 [**289**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/289_GameOfLife.cpp)
 
 [**290**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/290_WordPattern.cpp)
+[**291**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/295_FindMedianFromDataStream.cpp)
 [**292**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/292_NimGame.cpp)
 [**293**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/293_FlipGame.cpp)
 [**298**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/298_BinaryTreeLongestConsecutiveSequence.cpp)
@@ -2230,6 +2231,10 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 **11/06/2019**
 
 [LC 895 Maximum Frequency Stack](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/895_MaximumFrequencyStack.cpp) ... Took several hoursto get the first answer today... Idea is simple but managing data structure needs caution.
+
+**11/07/2019**
+
+[LC 295 Find Median From Data Stream](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/295_FindMedianFromDataStream.cpp) ... Slow day again. Learned that for ```multisets``` when an existing number gets added, it is added **behind** the pre-existing duplicate number (at least for C++ 11). This guarantee is what makes this algo work.
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
