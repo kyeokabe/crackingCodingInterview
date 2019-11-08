@@ -2241,5 +2241,6 @@ read this
 
 [Next permutation algo](https://helloacm.com/the-next-permutation-algorithm-in-c-stdnext_permutation/)
 
+[Great multithreading post](https://www.acodersjourney.com/top-20-cplusplus-multithreading-mistakes/)
 
 TODO ... permutations, best time to buy/sell, DP bootcamp
