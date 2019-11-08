@@ -116,6 +116,7 @@
 [**146**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/146_LRUCache.cpp)
 
 [**150**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/150_EvaluateReversePolishNotation.cpp)
+[**151**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/151_ReverseWordsInAString.cpp)
 [**152**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/152_MaximumProductSubarray.cpp)
 [**153**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/153_FindMinimumInRotatedSortedArray.cpp)
 [**155**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/155_MinStack.cpp)
@@ -2235,6 +2236,10 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 **11/07/2019**
 
 [LC 295 Find Median From Data Stream](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/295_FindMedianFromDataStream.cpp) ... Slow day again. Learned that for ```multisets``` when an existing number gets added, it is added **behind** the pre-existing duplicate number (at least for C++ 11). This guarantee is what makes this algo work.
+
+**11/08/2019**
+
+[LC 151 Reverse Words In A String](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/151_ReverseWordsInAString.cpp)
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
