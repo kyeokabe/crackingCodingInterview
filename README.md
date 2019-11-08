@@ -262,6 +262,7 @@
 [**426**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/426_ConvertBinarySearchTreeToSortedDoublyLinkedList.cpp)
 [**429**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/429_N-aryTreeLevelOrderTraversal.cpp)
 
+[**433**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/433_MinimumGeneticMutation.cpp)
 [**437**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/437_PathSumIII.cpp)
 
 [**442**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/442_FindAllDuplicatesInAnArray.cpp)
@@ -2243,6 +2244,8 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 [LC 151 Reverse Words In A String](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/151_ReverseWordsInAString.cpp)
 
 [LC 223 Rectangle Area](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/223_RectangleArea.cpp) ... Watch out for overflow.
+
+[LC 433](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/433_MinimumGeneticMutation.cpp) ... **Remember that for ```unordered_map``` the order of the elements is not guaranteed to be the same after you erase elements**
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
