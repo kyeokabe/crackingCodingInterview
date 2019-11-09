@@ -235,7 +235,7 @@
 [**350**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/350_IntersectionOfTwoArraysII.cpp)
 
 [**367**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/367_ValidPerfectSquare.cpp)
-[**370**]()
+[**370**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/370_RangeAddition.cpp)
 
 [**373**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/373_FindKPairsWithSmallestSums.cpp)
 [**377**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/377_CombinationSumIV.cpp)
@@ -2262,6 +2262,8 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 **11/09/2019**
 
 [LC 557 Reverse Words In A String III](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/557_ReverseWordsInAStringIII.cpp)
+
+[LC 370 Range Addition](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/370_RangeAddition.cpp) ... Farily easy to recognize trick.
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
