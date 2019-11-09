@@ -354,6 +354,8 @@
 [**706**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/706_DesignHashMap.cpp)
 [**709**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/709_ToLowerCase.cpp)
 
+[**716**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/716_MaxStack.cpp)
+
 [**728**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/728_SelfDividingNumbers.cpp)
 
 [**735**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/735_AsteroidCollision.cpp)
@@ -2249,6 +2251,8 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 [LC 433 Minimum Genetic Mutation](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/433_MinimumGeneticMutation.cpp) ... **Remember that for ```unordered_map``` the order of the elements is not guaranteed to be the same after you erase elements**
 
 [LC 1183 Maximum Number of Ones](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1183_MaximumNumberOfOnes.cpp) ... Interesting question. Besides coming up with the general idea, indexing the submatricies based on correct r,c MOD is the trickiest part.
+
+[LC 716 Max Stack](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/716_MaxStack.cpp) ... Similar to LRU cache problem, but a bit simpler. Regardings lists, ```auto it = prev(lst.end())``` is how to get the iterator of the last actual element in the list. ```lst.end()``` does not point to an actual element.
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
