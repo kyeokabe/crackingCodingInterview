@@ -478,6 +478,7 @@
 
 [**1176**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1176_DietPlanPerformance.cpp)
 
+[**1183**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1183_MaximumNumberOfOnes.cpp)
 [**1189**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1189_MaximumNumberOfBalloons.cpp)
 
 [**1191**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1191_K-ConcatenationMaximumSum.cpp)
@@ -2245,7 +2246,9 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 
 [LC 223 Rectangle Area](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/223_RectangleArea.cpp) ... Watch out for overflow.
 
-[LC 433](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/433_MinimumGeneticMutation.cpp) ... **Remember that for ```unordered_map``` the order of the elements is not guaranteed to be the same after you erase elements**
+[LC 433 Minimum Genetic Mutation](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/433_MinimumGeneticMutation.cpp) ... **Remember that for ```unordered_map``` the order of the elements is not guaranteed to be the same after you erase elements**
+
+[LC 1183 Maximum Number of Ones](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1183_MaximumNumberOfOnes.cpp) ... Interesting question. Besides coming up with the general idea, indexing the submatricies based on correct r,c MOD is the trickiest part.
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
