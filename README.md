@@ -2272,4 +2272,6 @@ read this
 
 [Great multithreading post](https://www.acodersjourney.com/top-20-cplusplus-multithreading-mistakes/)
 
+[another multithreading post](http://jakascorner.com/blog/2016/01/condition-variable.html)
+
 TODO ... permutations, best time to buy/sell, DP bootcamp
