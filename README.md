@@ -305,6 +305,7 @@
 [**539**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/539_MinimumTimeDifference.cpp)
 
 [**543**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/543_DiameterOfBinaryTree.cpp)
+[**545**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/545_BoundaryOfBinaryTree.cpp)
 
 [**551**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/551_StudentAttendanceRecordI.cpp)
 [**553**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/553_OptimalDivision.cpp)
@@ -2253,6 +2254,8 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 [LC 1183 Maximum Number of Ones](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1183_MaximumNumberOfOnes.cpp) ... Interesting question. Besides coming up with the general idea, indexing the submatricies based on correct r,c MOD is the trickiest part.
 
 [LC 716 Max Stack](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/716_MaxStack.cpp) ... Similar to LRU cache problem, but a bit simpler. Regardings lists, ```auto it = prev(lst.end())``` is how to get the iterator of the last actual element in the list. ```lst.end()``` does not point to an actual element.
+
+[LC 545 Boundary of Binary Tree](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/545_BoundaryOfBinaryTree.cpp) ... Idea is to traverse the tree three times. Watch for edge cases.
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
