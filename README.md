@@ -471,6 +471,8 @@
 
 [**1093**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1093_StatisticsFromALargeSample.cpp)
 
+[**1103**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1103_DistributeCandiesToPeople.cpp)
+
 [**1119**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1119_RemoveVowelsFromAString.cpp)
 
 [**1133**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1133_LargestUniqueNumber.cpp)
@@ -2272,6 +2274,8 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 [LC 455 Assign Cookies](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/455_AssignCookies.cpp)
 
 [LC 860 Lemonade Change](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/860_Lemonade_Change.cpp)
+
+[LC 1103 Distribute Candies To People](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1103_DistributeCandiesToPeople.cpp)
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
