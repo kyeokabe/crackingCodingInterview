@@ -365,6 +365,7 @@
 [**735**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/735_AsteroidCollision.cpp)
 
 [**742**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/742_ClosestLeafInABinaryTree.cpp)
+[**746**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/746_MinCostClimbingStairs.cpp)
 [**747**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/747_LargestNumberAtLeastTwiceOfOthers.cpp)
 
 [**766**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/766_ToeplitzMatrix.cpp)
@@ -2276,6 +2277,8 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 [LC 860 Lemonade Change](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/860_Lemonade_Change.cpp)
 
 [LC 1103 Distribute Candies To People](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1103_DistributeCandiesToPeople.cpp)
+
+[LC 746 Min Cost Climbing Stairs](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/746_MinCostClimbingStairs.cpp)
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
