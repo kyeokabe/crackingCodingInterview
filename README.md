@@ -483,6 +483,7 @@
 
 [**1151**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1151_MinimumSwapsToGroupAll1sTogether.cpp)
 [**1154**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1154_DayOfTheYear.cpp)
+[**1155**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1155_NumberOfDiceRollsWithTargetSum.cpp)
 
 [**1161**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1161_MaximumLevelSumOfABinaryTree.cpp)
 [**1165**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1165_Single-RowKeyboard.cpp)
@@ -2284,6 +2285,8 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 [LC 931 Minimum Falling Path Sum revisited](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/931_MinimumFallingPathSum_revisited.cpp)
 
 [LC 935 Knight Dialer](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/935_KnightDialer.cpp)
+
+[LC 1155 Number of Dice Rolls With Target Sum](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1155_NumberOfDiceRollsWithTargetSum.cpp)
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
