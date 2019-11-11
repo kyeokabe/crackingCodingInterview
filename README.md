@@ -387,6 +387,7 @@
 
 [**852**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/852_PeakIndexInAMountainArray.cpp)
 [**858**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/858_MirrorReflection.cpp)
+[**860**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/860_Lemonade_Change.cpp)
 
 [**861**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/861_ScoreAfterFlippingMatrix.cpp)
 [**863**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/863_AllNodesDistanceKInBinaryTree.cpp)
@@ -2269,6 +2270,8 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 **11/11/2019**
 
 [LC 455 Assign Cookies](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/455_AssignCookies.cpp)
+
+[LC 860 Lemonade Change](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/860_Lemonade_Change.cpp)
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
