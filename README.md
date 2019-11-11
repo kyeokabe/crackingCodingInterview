@@ -409,6 +409,7 @@
 
 [**931**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/931_MinimumFallingPathSum.cpp)
 [**933**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/933_NumberOfRecentCalls.cpp)
+[**935**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/935_KnightDialer.cpp)
 [**938**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/938_RangeSumOfBST.cpp)
 
 [**941**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/941_ValidMountainArray.cpp)
@@ -2281,6 +2282,8 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 [LC 746 Min Cost Climbing Stairs](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/746_MinCostClimbingStairs.cpp)
 
 [LC 931 Minimum Falling Path Sum revisited](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/931_MinimumFallingPathSum_revisited.cpp)
+
+[LC 935 Knight Dialer](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/935_KnightDialer.cpp)
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
