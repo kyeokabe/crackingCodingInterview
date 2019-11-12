@@ -218,6 +218,7 @@
 [**313**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/313_SuperUglyNumber.cpp)
 [**319**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/319_BulbSwitcher.cpp)
 
+[**325**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/325_MaximumSizeSubarraySumEqualsK.cpp)
 [**326**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/326_PowerOfThree.cpp)
 [**328**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/328_OddEvenLinkedList.cpp)
 
@@ -2293,6 +2294,8 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 [LC 64 Minimum Path Sum](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/64_MinimumPathSum.cpp)
 
 [LC 303 Range Sum Query - Immutable](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/303_RangeSumQuery-Immutable.cpp)
+
+[LC 325 Maximum Size Subarray Sum Equals K](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/325_MaximumSizeSubarraySumEqualsK.cpp)
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
