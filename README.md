@@ -54,6 +54,7 @@
 [**61**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/61_RotateList.cpp)
 [**62**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/62_UniquePaths.cpp)
 [**63**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/63_UniquePathsII.cpp)
+[**64**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/64_MinimumPathSum.cpp)
 [**66**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/66_PlusOne.cpp)
 [**67**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/67_AddBinary.cpp)
 [**69**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/69_Sqrt(x).cpp)
@@ -2287,6 +2288,8 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 [LC 935 Knight Dialer](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/935_KnightDialer.cpp)
 
 [LC 1155 Number of Dice Rolls With Target Sum](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1155_NumberOfDiceRollsWithTargetSum.cpp)
+
+[LC 64 Minimum Path Sum](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/64_MinimumPathSum.cpp)
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
