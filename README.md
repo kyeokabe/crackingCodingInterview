@@ -209,6 +209,7 @@
 [**298**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/298_BinaryTreeLongestConsecutiveSequence.cpp)
 
 [**300**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/300_LongestIncreasingSubsequence.cpp)
+[**303**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/303_RangeSumQuery-Immutable.cpp)
 [**304**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/304_RangeSumQuery2D.cpp)
 [**307**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/307_RangeSumQuery.cpp)
 [**309**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/309_BestTimeToBuyAndSellStockWithCooldown.cpp)
@@ -2290,6 +2291,8 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 [LC 1155 Number of Dice Rolls With Target Sum](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1155_NumberOfDiceRollsWithTargetSum.cpp)
 
 [LC 64 Minimum Path Sum](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/64_MinimumPathSum.cpp)
+
+[LC 303 Range Sum Query - Immutable](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/303_RangeSumQuery-Immutable.cpp)
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
