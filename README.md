@@ -367,6 +367,7 @@
 
 [**735**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/735_AsteroidCollision.cpp)
 
+[**740**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/740_DeleteAndEarn.cpp)
 [**742**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/742_ClosestLeafInABinaryTree.cpp)
 [**746**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/746_MinCostClimbingStairs.cpp)
 [**747**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/747_LargestNumberAtLeastTwiceOfOthers.cpp)
@@ -2296,6 +2297,10 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 [LC 303 Range Sum Query - Immutable](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/303_RangeSumQuery-Immutable.cpp)
 
 [LC 325 Maximum Size Subarray Sum Equals K](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/325_MaximumSizeSubarraySumEqualsK.cpp)
+
+**11/12/2019**
+
+[LC 740 Delete and Earn](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/740_DeleteAndEarn.cpp) ... Great question. Can reframe it to become a houserobber probelm. Review again!
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
