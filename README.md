@@ -476,7 +476,9 @@
 [**1055**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1055_ShortestWayToFormString.cpp)
 
 [**1072**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1072_FlipColumnsForMaximumNumbersOfEqualRows.cpp)
+
 [**1086**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1086_HighFive.cpp)
+[**1087**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1087_BraceExpansion.cpp)
 
 [**1093**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1093_StatisticsFromALargeSample.cpp)
 
@@ -2312,6 +2314,8 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 **11/13/2019**
 
 [LC 72 Edit Distance](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/72_EditDistance.cpp) ... HARD dinamic programming question. Review again! Setting up DP(i,j) with 0 inclusive i non-inclusive is tricky.
+
+[LC 1087 Brace Expansion](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1087_BraceExpansion.cpp)
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
