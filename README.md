@@ -218,6 +218,7 @@
 [**313**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/313_SuperUglyNumber.cpp)
 [**319**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/319_BulbSwitcher.cpp)
 
+[**322**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/322_CoinChange.cpp)
 [**325**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/325_MaximumSizeSubarraySumEqualsK.cpp)
 [**326**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/326_PowerOfThree.cpp)
 [**328**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/328_OddEvenLinkedList.cpp)
@@ -2304,6 +2305,8 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 [LC 740 Delete and Earn](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/740_DeleteAndEarn.cpp) ... Great question. Can reframe it to become a houserobber probelm. Review again!
 
 [LC 937 Reorder Data In Log Files](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/937_ReorderDataInLogFiles.cpp)
+
+[LC 322 Coin Change](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/322_CoinChange.cpp) .. Solved using a breadth first search approach. **REDO w/ DP!**
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
