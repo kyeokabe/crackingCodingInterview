@@ -60,6 +60,7 @@
 [**69**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/69_Sqrt(x).cpp)
 
 [**70**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/70_ClimbingStairs.cpp)
+[**72**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/72_EditDistance.cpp)
 [**73**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/73_SetMatrixZeros.cpp)
 [**74**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/74_SearchA2DMatrix.cpp)
 [**75**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/75_SortColors.cpp)
@@ -2307,6 +2308,10 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 [LC 937 Reorder Data In Log Files](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/937_ReorderDataInLogFiles.cpp)
 
 [LC 322 Coin Change](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/322_CoinChange.cpp) .. Solved using a breadth first search approach. **REDO w/ DP!**
+
+**11/13/2019**
+
+[LC 72 Edit Distance](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/72_EditDistance.cpp) ... HARD dinamic programming question. Review again! Setting up DP(i,j) with 0 inclusive i non-inclusive is tricky.
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
