@@ -380,7 +380,7 @@
 [**778**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/778_SwimInRisingWater.cpp)
 [**779**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/779_KthSymbolInGrammar.cpp)
 
-[**784**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/784_MinimumDistanceBetweenBSTNodes.cpp)
+[**783**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/783_MinimumDistanceBetweenBSTNodes.cpp)
 
 [**814**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/814_BinaryTreePruning.cpp)
 [**817**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/817_LinkedListComponents.cpp)
@@ -1139,7 +1139,7 @@ a class type in the same class type seems unusual, but you can define a pointer 
 
 [LC 513 Find Bottom Left Tree Value](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/513_FindBottomLeftTreeValue.cpp)
 
-[LC 784 Minimum Distance Between BST Nodes](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/784_MinimumDistanceBetweenBSTNodes.cpp)
+[LC 783 Minimum Distance Between BST Nodes](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/783_MinimumDistanceBetweenBSTNodes.cpp)
 
 [LC 199 Binary Tree Right Side View](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/199_BinaryTreeRightSideView.cpp) ... **using "get depth" function seems to be useful for several Binary Tree problems! Also, passing references often times seems to be a convenient way of dealing with binary tree problems.** This gives you a way to "communicate" between branches when using recurrsion.
 
