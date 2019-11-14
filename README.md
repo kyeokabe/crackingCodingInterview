@@ -465,6 +465,7 @@
 [**1026**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1026_MaxDifferenceBetweenNodeAndAncestor.cpp)
 [**1029**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1029_TwoCityScheduling.cpp)
 
+[**1035**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1035_UncrossedLines.cpp)
 [**1037**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1037_ValidBoomerang.cpp)
 [**1038**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1038_BinarySearchTreeToGreaterSumTree.cpp)
 
@@ -2319,6 +2320,10 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 [LC 1087 Brace Expansion](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1087_BraceExpansion.cpp) ... Forgot to push back "" to vector in one of the first lines. (For loop didn't work without a vector element entry.)
 
 [LC 784 Minimum Distance Between BST Nodes](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/784_LetterCasePermutation.cpp) ... Fairly easy.
+
+**11/14/2019**
+
+[LC 1035 Uncrossed Lines](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1035_UncrossedLines.cpp) ... Was able to come up with my own solution inspired by a previous question designed by Stephan Pochmann.
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
