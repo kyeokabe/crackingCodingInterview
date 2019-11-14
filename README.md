@@ -488,6 +488,8 @@
 
 [**1119**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1119_RemoveVowelsFromAString.cpp)
 
+[**1122**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1122_RelativeSortArray.cpp)
+
 [**1133**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1133_LargestUniqueNumber.cpp)
 
 [**1143**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1143_LongestCommonSubsequence.cpp)
@@ -2324,6 +2326,8 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 **11/14/2019**
 
 [LC 1035 Uncrossed Lines](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1035_UncrossedLines.cpp) ... Was able to come up with my own solution inspired by a [previous question (LC 373)](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/373_FindKPairsWithSmallestSums.cpp) designed by Stefan Pochmann. The basic idea started out by making an ```mxn``` matrix, with 1s where ```A_i==B_j```. At any ```(i,j)``` the question basically becomes how can you get the most ones travelling only down or right.
+
+[LC 1122 Relative Sort Array](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1122_RelativeSortArray.cpp) ... Fairly straight forward.
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
