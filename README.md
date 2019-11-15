@@ -367,6 +367,7 @@
 
 [**728**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/728_SelfDividingNumbers.cpp)
 
+[**734**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/734_SentenceSimilarity.cpp)
 [**735**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/735_AsteroidCollision.cpp)
 
 [**740**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/740_DeleteAndEarn.cpp)
@@ -2328,6 +2329,10 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 [LC 1035 Uncrossed Lines](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1035_UncrossedLines.cpp) ... Was able to come up with my own solution inspired by a [previous question (LC 373)](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/373_FindKPairsWithSmallestSums.cpp) designed by Stefan Pochmann. The basic idea started out by making an ```mxn``` matrix, with 1s where ```A_i==B_j```. At any ```(i,j)``` the question basically becomes how can you get the most ones travelling only down or right.
 
 [LC 1122 Relative Sort Array](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1122_RelativeSortArray.cpp) ... Fairly straight forward.
+
+**11/15/2019**
+
+[LC 734 Sentence Similarity](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/734_SentenceSimilarity.cpp) ... Easy but had dumb bugs.
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
