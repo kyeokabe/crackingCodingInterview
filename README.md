@@ -223,6 +223,7 @@
 [**325**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/325_MaximumSizeSubarraySumEqualsK.cpp)
 [**326**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/326_PowerOfThree.cpp)
 [**328**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/328_OddEvenLinkedList.cpp)
+[**329**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/329_LongestIncreasingPathInAMatrix.cpp)
 
 [**331**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/331_VerifyPreorderSerializationOfABinaryTree.cpp)
 [**337**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/337_HouseRobberIII.cpp)
@@ -2333,6 +2334,8 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 **11/15/2019**
 
 [LC 734 Sentence Similarity](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/734_SentenceSimilarity.cpp) ... Easy but had dumb bugs.
+
+[LC 329 Longest Increasing Path In A Matrix](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/329_LongestIncreasingPathInAMatrix.cpp) ... Surprisingly didn't find it hard despite it being classified as a "hard" problem. Use a supplementary matrix to store longest path of each traversed cell.
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
