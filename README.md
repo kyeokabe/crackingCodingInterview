@@ -328,6 +328,7 @@
 
 [**572**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/572_SubtreeOfAnotherSubtree.cpp)
 
+[**583**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/583_DeleteOperationForTwoStrings.cpp)
 [**589**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/589_NaryTreePreorderTraversal.cpp)
 
 [**590**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/590_N-aryTreePostorderTraversal.cpp)
@@ -2341,6 +2342,9 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 **11/16/2019**
 
 [LC 712 Minimum ASCII Delete Sum for Two Strings](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/712_MinimumASCIIDeleteSumForTwoStrings.cpp) ... Have encountered several problems where building a 2D matrix and finding the longest common subsequence helps solve the problem.
+
+[LC 583 Delete Operation for Two Strings](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/583_DeleteOperationForTwoStrings.cpp) ... Essentially the same as the previous question ([LC 712 Minimum ASCII Delete Sum for Two Strings](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/712_MinimumASCIIDeleteSumForTwoStrings.cpp)). The basic idea is to find the length of the longest common subsequence.
+
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
