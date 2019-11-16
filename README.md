@@ -364,6 +364,7 @@
 [**706**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/706_DesignHashMap.cpp)
 [**709**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/709_ToLowerCase.cpp)
 
+[**712**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/712_MinimumASCIIDeleteSumForTwoStrings.cpp)
 [**716**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/716_MaxStack.cpp)
 
 [**728**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/728_SelfDividingNumbers.cpp)
@@ -2335,7 +2336,11 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 
 [LC 734 Sentence Similarity](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/734_SentenceSimilarity.cpp) ... Easy but had dumb bugs.
 
-[LC 329 Longest Increasing Path In A Matrix](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/329_LongestIncreasingPathInAMatrix.cpp) ... Surprisingly didn't find it hard despite it being classified as a "hard" problem. Use a supplementary matrix to store longest path of each traversed cell.
+[LC 329 Longest Increasing Path In A Matrix](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/329_LongestIncreasingPathInAMatrix.cpp) ... Surprisingly didn't find it hard despite it being classified as a "hard" problem. Use a supplementary matrix to store longest path of each traversed cell. Also refer to [LC 1035 Uncrossed Lines](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1035_UncrossedLines.cpp)
+
+**11/16/2019**
+
+[LC 712 Minimum ASCII Delete Sum for Two Strings](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/712_MinimumASCIIDeleteSumForTwoStrings.cpp) ... Have encountered several problems where building a 2D matrix and finding the longest common subsequence helps solve the problem.
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
