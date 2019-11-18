@@ -131,6 +131,7 @@
 [**169**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/169_MajorityElement.cpp)
 
 [**170**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/170_TwoSumIII.cpp)
+[**171**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/171_ExcelSheetColumnNumber.cpp)
 [**173**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/173_BinarySearchTreeIterator.cpp)
 [**179**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/179_LargestNumber.cpp)
 
@@ -2349,6 +2350,10 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 **11/17/2019**
 
 [LC 561 Array Partition I](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/561_ArrayPartitionI.cpp) ... Easy.
+
+**11/18/2019**
+
+[LC 171 Excel Sheet Column Number](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/171_ExcelSheetColumnNumber.cpp)
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
