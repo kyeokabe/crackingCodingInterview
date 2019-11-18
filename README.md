@@ -322,6 +322,7 @@
 [**559**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/559_MaximumDepthOfN-aryTree.cpp)
 
 [**560**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/560_SubarraySumEqualsK.cpp)
+[**561**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/561_ArrayPartitionI.cpp)
 [**562**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/562_LongestLineOfConsecutiveOneInMatrix.cpp)
 [**566**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/566_ReshapeTheMatrix.cpp)
 [**567**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/567_PermulationInString.cpp)
@@ -2345,6 +2346,9 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 
 [LC 583 Delete Operation for Two Strings](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/583_DeleteOperationForTwoStrings.cpp) ... Essentially the same as the previous question ([LC 712 Minimum ASCII Delete Sum for Two Strings](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/712_MinimumASCIIDeleteSumForTwoStrings.cpp)). The basic idea is to find the length of the longest common subsequence.
 
+**11/17/2019**
+
+[LC 561 Array Partition I](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/561_ArrayPartitionI.cpp) ... Easy.
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
