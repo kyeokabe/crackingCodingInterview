@@ -179,6 +179,7 @@
 [**246**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/246_StrobogrammaticNumber.cpp)
 [**247**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/247_StrobogrammaticNumberII.cpp)
 
+[**250**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/250_CountUnivalueSubtrees.cpp)
 [**252**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/252_MeetingRooms.cpp)
 [**253**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/253_MeetingRoomsII.cpp)
 [**256**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/256_PaintHouse.cpp)
@@ -2360,6 +2361,8 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 [LC 1099 Two Sum Less Than K](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1099_TwoSumLessThanK.cpp) ... Special sliding window where the pointers begin at the two ends and move inwards.
 
 [LC 655 Print Binary Tree](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/655_PrintBinaryTree.cpp) ... A bit messy but solved.
+
+[LC 250 Count Univalue Subtrees](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/250_CountUnivalueSubtrees.cpp) ... Review if there is a more elegant solution.
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
