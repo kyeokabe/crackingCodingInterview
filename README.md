@@ -366,6 +366,7 @@
 [**700**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/700_SearchInABinarySearchTree.cpp)
 [**701**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/701_InsertIntoABinarySearchTree.cpp)
 [**703**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/703_KthLargestElementInAStream.cpp)
+[**705**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/705_DesignHashSet.cpp)
 [**706**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/706_DesignHashMap.cpp)
 [**709**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/709_ToLowerCase.cpp)
 
@@ -2363,6 +2364,8 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 [LC 655 Print Binary Tree](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/655_PrintBinaryTree.cpp) ... A bit messy but solved.
 
 [LC 250 Count Univalue Subtrees](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/250_CountUnivalueSubtrees.cpp) ... Review if there is a more elegant solution.
+
+[LC 705 Design Hash Set](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/705_DesignHashSet.cpp) ... Super easy.
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
