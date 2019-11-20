@@ -101,6 +101,7 @@
 [**120**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/120_Triangle.cpp)
 [**121**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/121_BestTimeToBuyAndSellStock.cpp)
 [**122**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/122_BestTimeToBuyAndSellStockII.cpp)
+[**124**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/124_BinaryTreeMaximumPathSum.cpp)
 [**125**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/125_ValidPalindrome.cpp)
 [**127**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/127_WordLadder.cpp)
 [**129**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/129_SumRootToLeafNumbers.cpp)
@@ -2375,6 +2376,10 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 [LC 797 All Paths From Source To Target](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/797_AllPathsFromSourceToTarget.cpp)
 
 [LC 1066 Campus Bikes II](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1066_CampusBikesII.cpp) ... Solution ended up being "brute force" backtracking with minor pruning condition added. Changing the helper function fom passing a regular variable to passing by reference made it from time limit exceeded (TLE) to accepted (AC)!
+
+**11/20/2019**
+
+[LC 124 Binary Tree Maximum Path](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/124_BinaryTreeMaximumPathSum.cpp) ... Very tricky problem because what you "check" within the helper function to determine the answer is different from what you return using the helper function. Unique problem.
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
