@@ -61,6 +61,7 @@
 [**69**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/69_Sqrt(x).cpp)
 
 [**70**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/70_ClimbingStairs.cpp)
+[**71**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/71_SimplifyPath.cpp)
 [**72**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/72_EditDistance.cpp)
 [**73**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/73_SetMatrixZeros.cpp)
 [**74**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/74_SearchA2DMatrix.cpp)
@@ -2384,6 +2385,8 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 [LC 124 Binary Tree Maximum Path](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/124_BinaryTreeMaximumPathSum.cpp) ... Very tricky problem because what you "check" within the helper function to determine the answer is different from what you return using the helper function. Unique problem.
 
 [LC 31 Next Permutation](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/31_NextPermutation.cpp) ... Missed key insight that once you swap the two elements, the "back" of the array can just be reversed rather than re-sorted.
+
+[LC 71 Simplify Path](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/71_SimplifyPath.cpp) ... Refer to recap in source code for basic idea. Kind of annoing problem.
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
