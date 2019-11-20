@@ -30,6 +30,7 @@
 [**27**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/27_RemoveElement.cpp)
 [**28**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/28_Implement_strStr().cpp)
 
+[**31**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/31_NextPermutation.cpp)
 [**32**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/32_LongestValidParentheses.cpp)
 [**33**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/33_SearchInRotatedSortedArray.cpp)
 [**34**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/34_FindFirstAndLastPositionOfElementInSortedArray.cpp)
@@ -708,6 +709,7 @@ tricky...try 80 again
 **Array (other)**
 [**14**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/14_LongestCommonPrefix.cpp)
 [**28**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/28_Implement_strStr().cpp)
+[**31**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/31_NextPermutation.cpp)
 [**55**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/55_JumpGame.cpp)
 [**161**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/161_OneEditDistance.cpp)
 
@@ -2380,6 +2382,8 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 **11/20/2019**
 
 [LC 124 Binary Tree Maximum Path](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/124_BinaryTreeMaximumPathSum.cpp) ... Very tricky problem because what you "check" within the helper function to determine the answer is different from what you return using the helper function. Unique problem.
+
+[LC 31 Next Permutation](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/31_NextPermutation.cpp) ... Missed key insight that once you swap the two elements, the "back" of the array can just be reversed rather than re-sorted.
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
