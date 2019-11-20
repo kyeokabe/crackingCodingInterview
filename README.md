@@ -487,6 +487,8 @@
 [**1052**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1052_GrumpyBookstoreOwner.cpp)
 [**1055**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1055_ShortestWayToFormString.cpp)
 
+[**1066**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1066_CampusBikesII.cpp)
+
 [**1072**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1072_FlipColumnsForMaximumNumbersOfEqualRows.cpp)
 
 [**1086**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1086_HighFive.cpp)
@@ -2371,6 +2373,8 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 **11/19/2019**
 
 [LC 797 All Paths From Source To Target](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/797_AllPathsFromSourceToTarget.cpp)
+
+[LC 1066 Campus Bikes II](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1066_CampusBikesII.cpp) ... Solution ended up being "brute force" backtracking with minor pruning condition added. Changing the helper function fom passing a regular variable to passing by reference made it from time limit exceeded (TLE) to accepted (AC)!
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
