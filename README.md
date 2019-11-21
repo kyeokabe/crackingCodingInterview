@@ -387,6 +387,7 @@
 [**747**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/747_LargestNumberAtLeastTwiceOfOthers.cpp)
 
 [**766**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/766_ToeplitzMatrix.cpp)
+[**767**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/767_ReorganizeString.cpp)
 
 [**771**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/771_JewelsAndStones.cpp)
 [**778**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/778_SwimInRisingWater.cpp)
@@ -2392,6 +2393,8 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 **11/21/2019**
 
 [LC 986 Interval List Intersections](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/986_IntervalListIntersections.cpp) ... Key insight is to realize ```if (A.start<=B.end && B.start<=A.end)``` condition.
+
+[LC 767 Reorganize String](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/767_ReorganizeString.cpp) ... Thought of solving it by first writing out sequence with adjacent chars ```aaaaabbbc```, then split it into two strings ```aaaaa``` & ```bbbc```, then merge them together ```abababaca```. 
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
