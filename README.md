@@ -451,6 +451,7 @@
 [**983**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/983_MinimumCostForTickets.cpp)
 [**984**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/984_StringWithoutAAAorBBB.cpp)
 [**985**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/985_SumOfEvenNumbersAfterQueries.cpp)
+[**986**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/986_IntervalListIntersections.cpp)
 [**987**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/987_VerticalOrderTraversalOfABinaryTree.cpp)
 [**988**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/988_SmallestStringStartingFromLeaf.cpp)
 
@@ -2387,6 +2388,10 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 [LC 31 Next Permutation](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/31_NextPermutation.cpp) ... Missed key insight that once you swap the two elements, the "back" of the array can just be reversed rather than re-sorted.
 
 [LC 71 Simplify Path](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/71_SimplifyPath.cpp) ... Refer to recap in source code for basic idea. Kind of annoing problem.
+
+**11/21/2019**
+
+[LC 986 Interval List Intersections](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/986_IntervalListIntersections.cpp) ... Key insight is to realize ```if (A.start<=B.end && B.start<=A.end)``` condition.
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
