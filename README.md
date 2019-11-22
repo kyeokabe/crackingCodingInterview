@@ -401,6 +401,7 @@
 [**817**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/817_LinkedListComponents.cpp)
 
 [**821**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/821_ShortestDistanceToACharacter.cpp)
+[**824**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/824_GoatLatin.cpp)
 
 [**832**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/832_FlippingAnImage.cpp)
 [**836**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/836_RectangleOverlap.cpp)
@@ -2395,6 +2396,8 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 [LC 986 Interval List Intersections](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/986_IntervalListIntersections.cpp) ... Key insight is to realize ```if (A.start<=B.end && B.start<=A.end)``` condition.
 
 [LC 767 Reorganize String](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/767_ReorganizeString.cpp) ... Thought of solving it by first writing out sequence with adjacent chars ```aaaaabbbc```, then split it into two strings ```aaaaa``` & ```bbbc```, then merge them together ```abababaca```. 
+
+[LC 824 Goat Latin](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/824_GoatLatin.cpp) ... Easy but annoying problem.
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
