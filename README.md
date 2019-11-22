@@ -112,6 +112,7 @@
 [**136**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/136_SingleNumber.cpp)
 [**137**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/137_SingleNumberII.cpp)
 [**138**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/138_CopyListWithRandomPointer.cpp)
+[**139**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/139_WordBreak.cpp)
 
 [**141**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/141_LinkedListCycle.cpp)
 [**142**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/142_LinkedListCycle_II.cpp)
@@ -2398,6 +2399,10 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 [LC 767 Reorganize String](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/767_ReorganizeString.cpp) ... Thought of solving it by first writing out sequence with adjacent chars ```aaaaabbbc```, then split it into two strings ```aaaaa``` & ```bbbc```, then merge them together ```abababaca```. 
 
 [LC 824 Goat Latin](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/824_GoatLatin.cpp) ... Easy but annoying problem.
+
+**11/22/2019**
+
+[LC 139 Word Break](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/139_WordBreak.cpp) ... Good trick: Search from the back
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
