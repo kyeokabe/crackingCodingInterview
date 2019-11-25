@@ -558,6 +558,8 @@
 [**1244**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1244_DesignALeaderboard.cpp)
 [**1247**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1247_MinimumSwapsToMakeStringsEqual.cpp)
 
+[**1265**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1265_PrintImmutable%20LinkedListInReverse.cpp)
+
 ***************************
 
 **Leet Code by Problem Category (needs to be updated)**
@@ -2409,6 +2411,10 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 [LC 90 Subsets II](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/90_SubsetsII.cpp) ... Added termination condition which reduced time from TLE to AC.
 
 [LC 320 Generalized Abbreviation](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/320_GeneralizedAbbreviation.cpp)
+
+**11/25/2019**
+
+[LC 1265  Linked List In Reverse](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1265_PrintImmutable%20LinkedListInReverse.cpp) ... Very easy.
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
