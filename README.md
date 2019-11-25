@@ -558,6 +558,8 @@
 [**1244**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1244_DesignALeaderboard.cpp)
 [**1247**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1247_MinimumSwapsToMakeStringsEqual.cpp)
 
+[**1259**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1259_HandshakesThatDon'tCross.cpp)
+
 [**1265**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1265_PrintImmutable%20LinkedListInReverse.cpp)
 
 ***************************
@@ -2415,6 +2417,8 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 **11/25/2019**
 
 [LC 1265  Linked List In Reverse](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1265_PrintImmutable%20LinkedListInReverse.cpp) ... Very easy.
+
+[LC 1259 Handshakes That Don't Cross](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1259_HandshakesThatDon'tCross.cpp)
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
