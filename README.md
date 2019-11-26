@@ -296,6 +296,7 @@
 [**486**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/486_PredictTheWinner.cpp)
 [**487**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/487_MaxConsecutiveOnesII.cpp)
 
+[**490**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/490_TheMaze.cpp)
 [**492**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/492_ConstructTheRectangle.cpp)
 [**494**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/494_TargetSum.cpp)
 [**495**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/495_TeemoAttacking.cpp)
@@ -2422,6 +2423,10 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 [LC 1259 Handshakes That Don't Cross](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1259_HandshakesThatDon'tCross.cpp)
 
 [LC 529 Mine Sweeper](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/529_MineSweeper.cpp)
+
+**11/26/2019**
+
+[LC 490 The Maze](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/490_TheMaze.cpp)
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
