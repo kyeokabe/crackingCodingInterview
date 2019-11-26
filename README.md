@@ -315,6 +315,7 @@
 [**520**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/520_DetectCapital.cpp)
 [**523**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/523_ContinuousSubarraySum.cpp)
 [**525**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/525_ContiguousArray.cpp)
+[**529**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/529_MineSweeper.cpp)
 
 [**530**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/530_MinimumAbsoluteDifference.cpp)
 [**538**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/538_ConvertBSTToGreaterTree.cpp)
@@ -2419,6 +2420,8 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 [LC 1265  Linked List In Reverse](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1265_PrintImmutable%20LinkedListInReverse.cpp) ... Very easy.
 
 [LC 1259 Handshakes That Don't Cross](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1259_HandshakesThatDon'tCross.cpp)
+
+[LC 529 Mine Sweeper](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/529_MineSweeper.cpp)
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
