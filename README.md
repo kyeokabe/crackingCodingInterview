@@ -370,6 +370,7 @@
 [**680**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/680_ValidPalindromeII.cpp)
 
 [**693**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/693_BinaryNumberWithAlternatingBits.cpp)
+[**695**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/695_MaxAreaOfIsland.cpp)
 
 [**700**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/700_SearchInABinarySearchTree.cpp)
 [**701**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/701_InsertIntoABinarySearchTree.cpp)
@@ -2427,6 +2428,8 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 **11/26/2019**
 
 [LC 490 The Maze](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/490_TheMaze.cpp)
+
+[LC 695 Maximum Area of Island](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/695_MaxAreaOfIsland.cpp) ... Easy problem.
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
