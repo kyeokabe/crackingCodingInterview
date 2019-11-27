@@ -514,6 +514,7 @@
 [**1119**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1119_RemoveVowelsFromAString.cpp)
 
 [**1122**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1122_RelativeSortArray.cpp)
+[**1128**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1128_NumberOfEquivalentDominoPairs.cpp)
 
 [**1133**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1133_LargestUniqueNumber.cpp)
 
@@ -2433,6 +2434,8 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 [LC 695 Maximum Area of Island](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/695_MaxAreaOfIsland.cpp) ... Easy problem.
 
 [LC 1198 Find Smallest Common Element In All Rows](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1198_FindSmallestCommonElementInAllRows.cpp)
+
+[LC 1128 Number Of Equivalent Domino Pairs](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1128_NumberOfEquivalentDominoPairs.cpp) ... Confusing problem description.
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
