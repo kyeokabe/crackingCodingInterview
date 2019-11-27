@@ -1,4 +1,4 @@
-**LeetCode Progress as of 11/14/2019:**
+**LeetCode Progress as of 11/26/2019:**
 
 ![alt text](https://github.com/kyeokabe/crackingCodingInterview/blob/master/pictures/11_14_2019_stats.png)
 ![alt text](https://github.com/kyeokabe/crackingCodingInterview/blob/master/pictures/LCrank_11_14_2019.png)
@@ -533,6 +533,7 @@
 
 [**1191**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1191_K-ConcatenationMaximumSum.cpp)
 [**1196**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1196_HowManyApplesCanYouPutIntoTheBasket.cpp)
+[**1198**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1198_FindSmallestCommonElementInAllRows.cpp)
 [**1200**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1200_MinimumAbsoluteDifference.cpp)
 
 [**1207**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1207_UniqueNumberOfOccurrences.cpp)
@@ -2430,6 +2431,8 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 [LC 490 The Maze](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/490_TheMaze.cpp)
 
 [LC 695 Maximum Area of Island](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/695_MaxAreaOfIsland.cpp) ... Easy problem.
+
+[LC 1198 Find Smallest Common Element In All Rows](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1198_FindSmallestCommonElementInAllRows.cpp)
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
