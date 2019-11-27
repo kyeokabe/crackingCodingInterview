@@ -512,6 +512,7 @@
 [**1103**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1103_DistributeCandiesToPeople.cpp)
 
 [**1119**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1119_RemoveVowelsFromAString.cpp)
+[**1120**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1120_MaximumAverageSubtree.cpp)
 
 [**1122**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1122_RelativeSortArray.cpp)
 [**1128**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1128_NumberOfEquivalentDominoPairs.cpp)
@@ -2436,6 +2437,10 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 [LC 1198 Find Smallest Common Element In All Rows](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1198_FindSmallestCommonElementInAllRows.cpp)
 
 [LC 1128 Number Of Equivalent Domino Pairs](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1128_NumberOfEquivalentDominoPairs.cpp) ... Confusing problem description.
+
+**11/27/2019**
+
+[LC 1120 Maximum Average Subtree](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1120_MaximumAverageSubtree.cpp) ... Was a bit tricky to figure out how to keep track of multiple variables. Using maps with pointers as keys is sometimes a helpful way of solving tree questions.
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
