@@ -568,6 +568,8 @@
 
 [**1265**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1265_PrintImmutable%20LinkedListInReverse.cpp)
 
+[**1274**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1274_NumberOfShipsInARectangle.cpp)
+
 ***************************
 
 **Leet Code by Problem Category (needs to be updated)**
@@ -2441,6 +2443,10 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 **11/27/2019**
 
 [LC 1120 Maximum Average Subtree](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1120_MaximumAverageSubtree.cpp) ... Was a bit tricky to figure out how to keep track of multiple variables. Using maps with pointers as keys is sometimes a helpful way of solving tree questions.
+
+**11/29/2019**
+
+[LC 1274 Number Of Ships In A Rectangle](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1274_NumberOfShipsInARectangle.cpp) ... Relatively straight forward. Apply binary search twice.
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
