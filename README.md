@@ -531,6 +531,7 @@
 
 [**1176**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1176_DietPlanPerformance.cpp)
 
+**1180**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1180_CountSubstringsWithOnlyOne%20DistinctLetter.cpp)
 [**1183**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1183_MaximumNumberOfOnes.cpp)
 [**1189**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1189_MaximumNumberOfBalloons.cpp)
 
@@ -2452,6 +2453,10 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 **12/01/2019**
 
 [LC 872 Leaf-Similar Trees](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/872_Leaf-SimilarTrees.cpp)
+
+**12/02/2019**
+
+[LC Count Substrings With Only One Distinct Letter](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1180_CountSubstringsWithOnlyOne%20DistinctLetter.cpp) ... Easy
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
