@@ -422,6 +422,7 @@
 [**863**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/863_AllNodesDistanceKInBinaryTree.cpp)
 [**867**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/867_TransposeMatrix.cpp)
 
+[**872**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/872_Leaf-SimilarTrees.cpp)
 [**873**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/873_LongestFibonacciSunsequence.cpp)
 [**876**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/876_MiddleOfTheLinkedList.cpp)
 
@@ -2447,6 +2448,10 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 **11/29/2019**
 
 [LC 1274 Number Of Ships In A Rectangle](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1274_NumberOfShipsInARectangle.cpp) ... Relatively straight forward. Apply binary search twice.
+
+**12/01/2019**
+
+[LC 872 Leaf-Similar Trees](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/872_Leaf-SimilarTrees.cpp)
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
