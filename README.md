@@ -424,6 +424,7 @@
 
 [**872**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/872_Leaf-SimilarTrees.cpp)
 [**873**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/873_LongestFibonacciSunsequence.cpp)
+[**875**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/875_KokoEatingBananas.cpp)
 [**876**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/876_MiddleOfTheLinkedList.cpp)
 
 [**895**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/895_MaximumFrequencyStack.cpp)
@@ -2457,6 +2458,10 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 **12/02/2019**
 
 [LC Count Substrings With Only One Distinct Letter](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1180_CountSubstringsWithOnlyOne%20DistinctLetter.cpp) ... Easy
+
+**12/03/2019**
+
+[LC 875 Koko Eating Bananas](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/875_KokoEatingBananas.cpp)
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
