@@ -530,6 +530,7 @@
 [**1155**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1155_NumberOfDiceRollsWithTargetSum.cpp)
 
 [**1161**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1161_MaximumLevelSumOfABinaryTree.cpp)
+[**1162**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1162_AsFarFromLandAsPossible.cpp)
 [**1165**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1165_Single-RowKeyboard.cpp)
 
 [**1176**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1176_DietPlanPerformance.cpp)
@@ -2466,6 +2467,10 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 [LC 875 Koko Eating Bananas](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/875_KokoEatingBananas.cpp)
 
 [LC 922 Sort Array By Parity II](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/922_SortArrayByParityII.cpp) ... Tricky to figure out how to do in place one pass. Review again.
+
+**12/04/2019**
+
+[LC 1162 As Far From Land As Possible](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1162_AsFarFromLandAsPossible.cpp)
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
