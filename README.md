@@ -522,6 +522,7 @@
 [**1128**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1128_NumberOfEquivalentDominoPairs.cpp)
 
 [**1133**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1133_LargestUniqueNumber.cpp)
+[**1137**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1137_NthTribonacciNumber.cpp)
 
 [**1143**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1143_LongestCommonSubsequence.cpp)
 
@@ -2471,9 +2472,11 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 
 **12/04/2019**
 
-[LC 1162 As Far From Land As Possible](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1162_AsFarFromLandAsPossible.cpp)
+[LC 1162 As Far From Land As Possible](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1162_AsFarFromLandAsPossible.cpp) ... Took forever to realize bug. When using queues (like for BFS), do not use for loops with i<q.size() and pop within the for loop. Use ```while (!q.empty()){}``` instead!
 
 [LC 1160 Find Words That Can Be Formed By Characters](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1160_FindWordsThatCanBeFormedByCharacters.cpp)
+
+[LC 1137 Nth Tribonacci Number](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1137_NthTribonacciNumber.cpp) ... Straight forward.
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
