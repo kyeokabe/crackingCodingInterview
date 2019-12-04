@@ -529,6 +529,7 @@
 [**1154**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1154_DayOfTheYear.cpp)
 [**1155**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1155_NumberOfDiceRollsWithTargetSum.cpp)
 
+[**1160**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1160_FindWordsThatCanBeFormedByCharacters.cpp)
 [**1161**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1161_MaximumLevelSumOfABinaryTree.cpp)
 [**1162**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1162_AsFarFromLandAsPossible.cpp)
 [**1165**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1165_Single-RowKeyboard.cpp)
@@ -2471,6 +2472,8 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 **12/04/2019**
 
 [LC 1162 As Far From Land As Possible](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1162_AsFarFromLandAsPossible.cpp)
+
+[LC 1160 Find Words That Can Be Formed By Characters](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1160_FindWordsThatCanBeFormedByCharacters.cpp)
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
