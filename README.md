@@ -518,6 +518,7 @@
 [**1119**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1119_RemoveVowelsFromAString.cpp)
 [**1120**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1120_MaximumAverageSubtree.cpp)
 
+[**1121**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1121_DivideArrayIntoIncreasingSequences.cpp)
 [**1122**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1122_RelativeSortArray.cpp)
 [**1128**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1128_NumberOfEquivalentDominoPairs.cpp)
 
@@ -2482,6 +2483,8 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 **12/05/2019**
 
 [LC 1273 Delete Tree Nodes](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1273_DeleteTreeNodes.cpp) ... There is probably a way to solve this with fewer lines. Did a lot of "data shuffling". Made mistake on pop size when shuffling data (watch out for when parent = -1).
+
+[LC 1121 Divide Array Into Increasing Sequences](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1121_DivideArrayIntoIncreasingSequences.cpp) ... Should be rated as a medium difficulty problem rather than hard. Key insight is to realize the bottleneck is what the count of the most occuring number is. The minimum length of increasing arrays will be limited by that.
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
