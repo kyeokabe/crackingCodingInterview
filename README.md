@@ -576,6 +576,7 @@
 
 [**1265**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1265_PrintImmutable%20LinkedListInReverse.cpp)
 
+[**1273**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1273_DeleteTreeNodes.cpp)
 [**1274**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1274_NumberOfShipsInARectangle.cpp)
 
 ***************************
@@ -2477,6 +2478,10 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 [LC 1160 Find Words That Can Be Formed By Characters](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1160_FindWordsThatCanBeFormedByCharacters.cpp)
 
 [LC 1137 Nth Tribonacci Number](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1137_NthTribonacciNumber.cpp) ... Straight forward.
+
+**12/05/2019**
+
+[LC 1273 Delete Tree Nodes](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1273_DeleteTreeNodes.cpp) ... There is probably a way to solve this with fewer lines. Did a lot of "data shuffling". Made mistake on pop size when shuffling data (watch out for when parent = -1).
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
