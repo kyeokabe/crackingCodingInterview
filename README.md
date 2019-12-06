@@ -2487,6 +2487,10 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 
 [LC 1121 Divide Array Into Increasing Sequences](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1121_DivideArrayIntoIncreasingSequences.cpp) ... Should be rated as a medium difficulty problem rather than hard. Key insight is to realize the bottleneck is what the count of the most occuring number is. The minimum length of increasing arrays will be limited by that.
 
+**12/06/2019**
+
+[LC 840 Magic Squares In Grid](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/840_MagicSquaresInGrid.cpp)
+
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
 
