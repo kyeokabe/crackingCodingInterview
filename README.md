@@ -412,6 +412,7 @@
 [**832**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/832_FlippingAnImage.cpp)
 [**836**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/836_RectangleOverlap.cpp)
 
+[**840**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/840_MagicSquaresInGrid.cpp)
 [**849**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/849_MaximizeDistanceToClosestPerson.cpp)
 
 [**852**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/852_PeakIndexInAMountainArray.cpp)
