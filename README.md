@@ -438,6 +438,7 @@
 [**912**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/912_SortAnArray.cpp)
 [**917**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/917_ReverseOnlyLetters.cpp)
 
+[**921**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/921_MinimumAddToMakeParenthesesValid.cpp)
 [**922**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/922_SortArrayByParityII.cpp)
 
 [**931**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/931_MinimumFallingPathSum.cpp)
@@ -2490,6 +2491,8 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 **12/06/2019**
 
 [LC 840 Magic Squares In Grid](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/840_MagicSquaresInGrid.cpp)
+
+[LC 921 Minimum Add To Make Parentheses Valid](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/921_MinimumAddToMakeParenthesesValid.cpp) ... Easy
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
