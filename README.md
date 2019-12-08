@@ -583,6 +583,7 @@
 [**1274**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1274_NumberOfShipsInARectangle.cpp)
 
 [**1281**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1281_SubtractTheProductAndSumOfDigitsOfAnInteger.cpp)
+[**1282**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1282_GroupThePeopleGivenTheGroupSizeTheyBelongTo.cpp)
 
 ***************************
 
@@ -2499,6 +2500,8 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 **12/08/2019**
 
 [LC 1281 Subtract The Product And Sum Of Digits Of An Integer](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1281_SubtractTheProductAndSumOfDigitsOfAnInteger.cpp) ... Easy problem.
+
+[LC 1282 Group The People Given The Group Size They Belong To](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1282_GroupThePeopleGivenTheGroupSizeTheyBelongTo.cpp) ... Took a few minutes to get the idea of how to structure the program.
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
