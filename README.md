@@ -582,6 +582,8 @@
 [**1273**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1273_DeleteTreeNodes.cpp)
 [**1274**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1274_NumberOfShipsInARectangle.cpp)
 
+[**1281**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1281_SubtractTheProductAndSumOfDigitsOfAnInteger.cpp)
+
 ***************************
 
 **Leet Code by Problem Category (needs to be updated)**
@@ -2493,6 +2495,10 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 [LC 840 Magic Squares In Grid](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/840_MagicSquaresInGrid.cpp)
 
 [LC 921 Minimum Add To Make Parentheses Valid](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/921_MinimumAddToMakeParenthesesValid.cpp) ... Easy
+
+**12/08/2019**
+
+[LC 1281 Subtract The Product And Sum Of Digits Of An Integer](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1281_SubtractTheProductAndSumOfDigitsOfAnInteger.cpp) ... Easy problem.
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
