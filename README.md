@@ -384,6 +384,7 @@
 [**712**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/712_MinimumASCIIDeleteSumForTwoStrings.cpp)
 [**716**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/716_MaxStack.cpp)
 
+[**723**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/723_CandyCrush.cpp)
 [**728**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/728_SelfDividingNumbers.cpp)
 
 [**734**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/734_SentenceSimilarity.cpp)
@@ -2516,6 +2517,8 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 [LC 58 Length Of Last Word](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/58_LengthOfLastWord.cpp)
 
 [LC 60 Permutation Sequence](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/60_PermutationSequence.cpp) ... Redo again without using next_permutation function in CPP.
+
+[LC 723 Candy Crush](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/723_CandyCrush.cpp) ... Brute force problem.
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
