@@ -50,6 +50,7 @@
 [**54**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/54_SpiralMatrix.cpp)
 [**55**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/55_JumpGame.cpp)
 [**56**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/56_MergeIntervals.cpp)
+[**58**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/58_LengthOfLastWord.cpp)
 [**59**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/59_SpiralMatrixII.cpp)
 
 [**61**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/61_RotateList.cpp)
@@ -2509,7 +2510,10 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 
 **12/09/2019**
 
-[LC 1284 Minimum Number Of Flips To Convert Binary Matrix To Zero Matrix](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1284_MinimumNumberOfFlipsToConvertBinaryMatrixToZeroMatrix.cpp)
+[LC 1284 Minimum Number Of Flips To Convert Binary Matrix To Zero Matrix](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1284_MinimumNumberOfFlipsToConvertBinaryMatrixToZeroMatrix.cpp) ... Trick is to start from 0 matrix and do BFS.
+
+[LC 58 Length Of Last Word](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/58_LengthOfLastWord.cpp)
+
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
