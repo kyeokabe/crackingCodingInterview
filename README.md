@@ -585,6 +585,7 @@
 [**1281**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1281_SubtractTheProductAndSumOfDigitsOfAnInteger.cpp)
 [**1282**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1282_GroupThePeopleGivenTheGroupSizeTheyBelongTo.cpp)
 [**1283**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1283_FindTheSmallestDivisorGivenAThreshold.cpp)
+[**1284**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1284_MinimumNumberOfFlipsToConvertBinaryMatrixToZeroMatrix.cpp)
 
 ***************************
 
@@ -2505,6 +2506,10 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 [LC 1282 Group The People Given The Group Size They Belong To](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1282_GroupThePeopleGivenTheGroupSizeTheyBelongTo.cpp) ... Took a few minutes to get the idea of how to structure the program.
 
 [LC 1283 Find The Smallest Divisor Given A Threshold](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1283_FindTheSmallestDivisorGivenAThreshold.cpp) ... A relatively standard binary search problem.
+
+**12/09/2019**
+
+[LC 1284 Minimum Number Of Flips To Convert Binary Matrix To Zero Matrix](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1284_MinimumNumberOfFlipsToConvertBinaryMatrixToZeroMatrix.cpp)
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
