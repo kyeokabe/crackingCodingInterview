@@ -1,7 +1,7 @@
-**LeetCode Progress as of 11/26/2019:**
+**LeetCode Progress as of 12/09/2019:**
 
-![alt text](https://github.com/kyeokabe/crackingCodingInterview/blob/master/pictures/11_14_2019_stats.png)
-![alt text](https://github.com/kyeokabe/crackingCodingInterview/blob/master/pictures/LCrank_11_14_2019.png)
+![alt text](https://github.com/kyeokabe/crackingCodingInterview/blob/master/pictures/12_09_2019_stats.png)
+![alt text](https://github.com/kyeokabe/crackingCodingInterview/blob/master/pictures/LCrank_12_09_2019.png)
 
 ***************************
 
