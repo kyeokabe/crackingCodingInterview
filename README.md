@@ -53,6 +53,7 @@
 [**58**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/58_LengthOfLastWord.cpp)
 [**59**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/59_SpiralMatrixII.cpp)
 
+[**60**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/60_PermutationSequence.cpp)
 [**61**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/61_RotateList.cpp)
 [**62**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/62_UniquePaths.cpp)
 [**63**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/63_UniquePathsII.cpp)
@@ -2514,6 +2515,7 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 
 [LC 58 Length Of Last Word](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/58_LengthOfLastWord.cpp)
 
+[LC 60 Permutation Sequence](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/60_PermutationSequence.cpp) ... Redo again without using next_permutation function in CPP.
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
