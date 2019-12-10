@@ -426,6 +426,7 @@
 [**861**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/861_ScoreAfterFlippingMatrix.cpp)
 [**863**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/863_AllNodesDistanceKInBinaryTree.cpp)
 [**867**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/867_TransposeMatrix.cpp)
+[**868**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/868_BinaryGap.cpp)
 
 [**872**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/872_Leaf-SimilarTrees.cpp)
 [**873**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/873_LongestFibonacciSunsequence.cpp)
@@ -2522,6 +2523,11 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 [LC 723 Candy Crush](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/723_CandyCrush.cpp) ... Brute force problem.
 
 [LC 130 Surround Regions](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/130_SurroundedRegions.cpp) ... Similar to islands problem. Solved by depth first search.
+
+**12/10/2019**
+
+[LC Binary Gap](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/868_BinaryGap.cpp) ... Relatively easy problem.
+
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
