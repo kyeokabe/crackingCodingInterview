@@ -267,6 +267,7 @@
 [**394**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/394_DecodeString.cpp)
 
 [**402**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/402_RemoveKDigits.cpp)
+[**403**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/403_FrogJump.cpp)
 [**404**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/404_SumOfLeftLeaves.cpp)
 [**409**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/409_LongestPalindrome.cpp)
 
@@ -2526,8 +2527,9 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 
 **12/10/2019**
 
-[LC Binary Gap](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/868_BinaryGap.cpp) ... Relatively easy problem.
+[LC 868 Binary Gap](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/868_BinaryGap.cpp) ... Relatively easy problem.
 
+[LC 403 Frog Jump](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/403_FrogJump.cpp) ... Solved using BFS with hashmaps. Used regular map for vector storage. Other than that, maybe there is a way to improve efficiency...?
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
