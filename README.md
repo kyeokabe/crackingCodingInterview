@@ -424,6 +424,7 @@
 [**849**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/849_MaximizeDistanceToClosestPerson.cpp)
 
 [**852**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/852_PeakIndexInAMountainArray.cpp)
+[**853**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/853_CarFleet.cpp)
 [**858**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/858_MirrorReflection.cpp)
 [**860**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/860_Lemonade_Change.cpp)
 
@@ -2539,6 +2540,10 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 [LC 729 My Calendar I](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/729_MyCalendarI.cpp) ... Refer to My Calendar II for simple solution.
 
 [LC 732 My Calendar III](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/732_MyCalendarIII.cpp) ... Similar to other my calendar problems.
+
+**12/11/2019**
+
+[LC 853 Car Fleet](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/853_CarFleet.cpp) ... Sort, then calculate the time for arrival.
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
