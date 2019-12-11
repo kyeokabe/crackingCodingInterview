@@ -388,6 +388,7 @@
 
 [**723**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/723_CandyCrush.cpp)
 [**728**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/728_SelfDividingNumbers.cpp)
+[**729**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/729_MyCalendarI.cpp)
 
 [**731**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/731_MyCalendarII.cpp)
 [**734**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/734_SentenceSimilarity.cpp)
@@ -2533,6 +2534,8 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 [LC 403 Frog Jump](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/403_FrogJump.cpp) ... Solved using BFS with hashmaps. Used regular map for vector storage. Other than that, maybe there is a way to improve efficiency...?
 
 [LC 731 My Calendar II](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/731_MyCalendarII.cpp) ... Had to look at the solutions for simple answer.
+
+[LC 729 My Calendar I](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/729_MyCalendarI.cpp) ... Refer to My Calendar II for simple solution.
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
