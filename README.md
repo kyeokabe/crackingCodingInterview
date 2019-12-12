@@ -185,6 +185,7 @@
 
 [**240**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/240_SearchA2DMatrixII.cpp)
 [**242**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/242_ValidAnagram.cpp)
+[**243**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/243_ShortestWordDistance.cpp)
 [**246**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/246_StrobogrammaticNumber.cpp)
 [**247**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/247_StrobogrammaticNumberII.cpp)
 
@@ -2547,6 +2548,10 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 [LC 853 Car Fleet](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/853_CarFleet.cpp) ... Sort, then calculate the time for arrival.
 
 [LC 186 Reverse Words In A String](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/186_ReverseWordsInAStringII.cpp) ... Array manipulation problem.
+
+**12/12/2019**
+
+[LC 243 Shortest Word Distance](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/243_ShortestWordDistance.cpp) ... Relatively straight forward. Watch out for duplicate words.
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
