@@ -187,6 +187,7 @@
 [**242**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/242_ValidAnagram.cpp)
 [**243**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/243_ShortestWordDistance.cpp)
 [**244**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/244_ShortestWordDistanceII.cpp)
+[**245**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/245_ShortestWordDistanceIII.cpp)
 [**246**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/246_StrobogrammaticNumber.cpp)
 [**247**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/247_StrobogrammaticNumberII.cpp)
 
@@ -2555,6 +2556,8 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 [LC 243 Shortest Word Distance](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/243_ShortestWordDistance.cpp) ... Relatively straight forward. Watch out for duplicate words.
 
 [LC 244 Shortest Word Distance II](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/244_ShortestWordDistanceII.cpp) ... Similar to Shortest Word Distance I.
+
+[LC 245 Shortest Word Distance III](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/245_ShortestWordDistanceIII.cpp) ... Similar to Shortest Word Distance I. Branch cases if word1==word2.
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
