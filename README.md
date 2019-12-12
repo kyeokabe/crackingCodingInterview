@@ -186,6 +186,7 @@
 [**240**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/240_SearchA2DMatrixII.cpp)
 [**242**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/242_ValidAnagram.cpp)
 [**243**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/243_ShortestWordDistance.cpp)
+[**244**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/244_ShortestWordDistanceII.cpp)
 [**246**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/246_StrobogrammaticNumber.cpp)
 [**247**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/247_StrobogrammaticNumberII.cpp)
 
@@ -2552,6 +2553,8 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 **12/12/2019**
 
 [LC 243 Shortest Word Distance](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/243_ShortestWordDistance.cpp) ... Relatively straight forward. Watch out for duplicate words.
+
+[LC 244 Shortest Word Distance II](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/244_ShortestWordDistanceII.cpp) ... Similar to Shortest Word Distance I.
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
