@@ -442,6 +442,7 @@
 [**875**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/875_KokoEatingBananas.cpp)
 [**876**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/876_MiddleOfTheLinkedList.cpp)
 
+[**892**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/892_SurfaceAreaOf3DShapes.cpp)
 [**895**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/895_MaximumFrequencyStack.cpp)
 [**896**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/896_MonotonicArray.cpp)
 [**897**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/897_IncreasingOrderSearchTree.cpp)
@@ -2561,6 +2562,10 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 [LC 245 Shortest Word Distance III](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/245_ShortestWordDistanceIII.cpp) ... Similar to Shortest Word Distance I. Branch cases if word1==word2.
 
 [LC 1184 Distance Between Bus Stops](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1184_DistanceBetweenBusStops.cpp)
+
+**12/13/2019**
+
+[LC 892 Surface Area Of 3D Shapes](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/892_SurfaceAreaOf3DShapes.cpp) ... A bit tricky. Think of how to subtract overlapping areas.
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
