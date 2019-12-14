@@ -433,6 +433,7 @@
 [**860**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/860_Lemonade_Change.cpp)
 
 [**861**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/861_ScoreAfterFlippingMatrix.cpp)
+[**862**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/862_ReorderedPowerOf2.cpp)
 [**863**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/863_AllNodesDistanceKInBinaryTree.cpp)
 [**867**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/867_TransposeMatrix.cpp)
 [**868**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/868_BinaryGap.cpp)
@@ -2566,6 +2567,8 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 **12/13/2019**
 
 [LC 892 Surface Area Of 3D Shapes](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/892_SurfaceAreaOf3DShapes.cpp) ... A bit tricky. Think of how to subtract overlapping areas.
+
+[LC 862 Reordered Power Of 2](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/862_ReorderedPowerOf2.cpp)
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
