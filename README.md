@@ -603,6 +603,7 @@
 [**1282**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1282_GroupThePeopleGivenTheGroupSizeTheyBelongTo.cpp)
 [**1283**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1283_FindTheSmallestDivisorGivenAThreshold.cpp)
 [**1284**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1284_MinimumNumberOfFlipsToConvertBinaryMatrixToZeroMatrix.cpp)
+[**1288**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1288_RemoveCoveredInterval.cpp)
 
 ***************************
 
@@ -2569,6 +2570,11 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 [LC 892 Surface Area Of 3D Shapes](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/892_SurfaceAreaOf3DShapes.cpp) ... A bit tricky. Think of how to subtract overlapping areas.
 
 [LC 862 Reordered Power Of 2](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/862_ReorderedPowerOf2.cpp)
+
+**12/14/2019**
+
+[LC 1288 Remove Covered Interval](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1288_RemoveCoveredInterval.cpp) ... Had a complicated idea using hashmaps and a stack like vector. Referred to Lee215's idea to solve. Note the special treatment for sort is neccessary.
+
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
