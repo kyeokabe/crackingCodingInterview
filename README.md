@@ -445,6 +445,8 @@
 [**875**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/875_KokoEatingBananas.cpp)
 [**876**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/876_MiddleOfTheLinkedList.cpp)
 
+[**885**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/885_SpiralMatrixIII.cpp)
+
 [**892**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/892_SurfaceAreaOf3DShapes.cpp)
 [**895**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/895_MaximumFrequencyStack.cpp)
 [**896**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/896_MonotonicArray.cpp)
@@ -2580,6 +2582,8 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 [LC 762 Prime Number Of Set Bits In Binary Representation](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/762_PrimeNumberOfSetBitsInBinaryRepresentation.cpp)
 
 [LC 846 HandOf Straights](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/846_HandOfStraights.cpp) ... Hashmap and hustle.
+
+[LC 885 Spiral Matrix III](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/885_SpiralMatrixIII.cpp) ... Used more memory than necessary. Review again.
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
