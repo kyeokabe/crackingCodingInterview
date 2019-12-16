@@ -426,6 +426,7 @@
 [**836**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/836_RectangleOverlap.cpp)
 
 [**840**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/840_MagicSquaresInGrid.cpp)
+[**846**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/846_HandOfStraights.cpp)
 [**849**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/849_MaximizeDistanceToClosestPerson.cpp)
 
 [**852**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/852_PeakIndexInAMountainArray.cpp)
@@ -2577,6 +2578,8 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 [LC 1288 Remove Covered Interval](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1288_RemoveCoveredInterval.cpp) ... Had a complicated idea using hashmaps and a stack like vector. Referred to Lee215's idea to solve. Note the special treatment for sort is neccessary.
 
 [LC 762 Prime Number Of Set Bits In Binary Representation](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/762_PrimeNumberOfSetBitsInBinaryRepresentation.cpp)
+
+[LC 846 HandOf Straights](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/846_HandOfStraights.cpp) ... Hashmap and hustle.
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
