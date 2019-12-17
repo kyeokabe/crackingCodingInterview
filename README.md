@@ -513,6 +513,7 @@
 [**1026**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1026_MaxDifferenceBetweenNodeAndAncestor.cpp)
 [**1029**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1029_TwoCityScheduling.cpp)
 
+[**1033**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1033_MovingStonesUntilConsecutive.cpp)
 [**1035**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1035_UncrossedLines.cpp)
 [**1037**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1037_ValidBoomerang.cpp)
 [**1038**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1038_BinarySearchTreeToGreaterSumTree.cpp)
@@ -2584,6 +2585,10 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 [LC 846 HandOf Straights](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/846_HandOfStraights.cpp) ... Hashmap and hustle.
 
 [LC 885 Spiral Matrix III](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/885_SpiralMatrixIII.cpp) ... Used more memory than necessary. Review again.
+
+**12/17/2019**
+
+[LC 1033 Moving Stones Until Consecutive](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1033_MovingStonesUntilConsecutive.cpp)...Easy.
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
