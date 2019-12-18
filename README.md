@@ -2590,6 +2590,12 @@ Finally came back to [K-Messed Array](https://github.com/kyeokabe/crackingCoding
 
 [LC 1033 Moving Stones Until Consecutive](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1033_MovingStonesUntilConsecutive.cpp)...Easy.
 
+**/12/19/2019**
+
+Reviweing interval problems... When dealing with interval problems, there is a guranteed overlap when ```A[i][1]>=B[j][0]&&A[i][0]<=B[j][1]``` This can save a lot of trouble compared to thinking of 6 cases of overlapping conditions!
+
+[LC 986 Interval List Intersections revisited](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/986_IntervalListIntersections_revisited.cpp)
+
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
 
