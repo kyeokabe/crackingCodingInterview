@@ -50,6 +50,7 @@
 [**54**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/54_SpiralMatrix.cpp)
 [**55**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/55_JumpGame.cpp)
 [**56**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/56_MergeIntervals.cpp)
+[**57**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/57_InsertInterval.cpp)
 [**58**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/58_LengthOfLastWord.cpp)
 [**59**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/59_SpiralMatrixII.cpp)
 
@@ -2597,6 +2598,8 @@ Reviweing interval problems... When dealing with interval problems, there is a g
 [LC 986 Interval List Intersections revisited](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/986_IntervalListIntersections_revisited.cpp)
 
 [LC 56 Merge Intervals revisited](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/56_MergeIntervals_revisited.cpp)
+
+[LC 57 Insert Interval](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/57_InsertInterval.cpp)
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
