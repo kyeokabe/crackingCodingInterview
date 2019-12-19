@@ -259,6 +259,7 @@
 [**367**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/367_ValidPerfectSquare.cpp)
 [**370**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/370_RangeAddition.cpp)
 
+[**372**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/372_GuessNumberHigherOrLower.cpp)
 [**373**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/373_FindKPairsWithSmallestSums.cpp)
 [**377**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/377_CombinationSumIV.cpp)
 
@@ -2603,6 +2604,8 @@ Reviweing interval problems... When dealing with interval problems, there is a g
 [LC 57 Insert Interval](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/57_InsertInterval.cpp)
 
 [LC 441 Arranging Coins](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/441_ArrangingCoins.cpp)
+
+[LC 372 Guess Number Higher or Lower](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/372_GuessNumberHigherOrLower.cpp)
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
