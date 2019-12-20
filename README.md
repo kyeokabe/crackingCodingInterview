@@ -2607,6 +2607,10 @@ Reviweing interval problems... When dealing with interval problems, there is a g
 
 [LC 372 Guess Number Higher or Lower](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/372_GuessNumberHigherOrLower.cpp)
 
+**12/20/2019**
+
+[LC 904 Fruit Into Baskets revisited](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/904_FruitIntoBaskets_revisited.cpp)
+
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
 
