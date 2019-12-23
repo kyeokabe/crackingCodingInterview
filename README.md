@@ -2611,6 +2611,10 @@ Reviweing interval problems... When dealing with interval problems, there is a g
 
 [LC 904 Fruit Into Baskets revisited](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/904_FruitIntoBaskets_revisited.cpp)
 
+**12/23/2019**
+
+[Merge Sort](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/merge_sort.cpp) ... Merge sort practice. Don't forget to return v if v.size()==1 in sort function!
+
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
 
