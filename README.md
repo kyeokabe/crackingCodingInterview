@@ -2615,6 +2615,8 @@ Reviweing interval problems... When dealing with interval problems, there is a g
 
 [Merge Sort](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/merge_sort.cpp) ... Merge sort practice. Don't forget to return v if v.size()==1 in sort function!
 
+[Coin Change revisited](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/322_CoinChange_revisited.cpp) ... Encountered small runtime error bug.
+
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
 
