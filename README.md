@@ -2619,6 +2619,8 @@ Reviweing interval problems... When dealing with interval problems, there is a g
 
 [LC 64 Minimum Path Sum revisited](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/64_MinimumPathSum_revisited.cpp)
 
+[LC 120 Triangle revisited](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/120_Triangle_revisited.cpp)
+
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
 
