@@ -345,6 +345,7 @@
 [**560**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/560_SubarraySumEqualsK.cpp)
 [**561**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/561_ArrayPartitionI.cpp)
 [**562**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/562_LongestLineOfConsecutiveOneInMatrix.cpp)
+[**563**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/563_BinaryTreeTilt.cpp)
 [**566**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/566_ReshapeTheMatrix.cpp)
 [**567**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/567_PermulationInString.cpp)
 
@@ -2620,6 +2621,10 @@ Reviweing interval problems... When dealing with interval problems, there is a g
 [LC 64 Minimum Path Sum revisited](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/64_MinimumPathSum_revisited.cpp)
 
 [LC 120 Triangle revisited](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/120_Triangle_revisited.cpp)
+
+**12/24/2019**
+
+[LC 563 Binary Tree Tilt](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/563_BinaryTreeTilt.cpp)
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
