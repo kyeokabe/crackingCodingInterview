@@ -553,6 +553,7 @@
 [**1137**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1137_NthTribonacciNumber.cpp)
 
 [**1143**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1143_LongestCommonSubsequence.cpp)
+[**1145**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1145_BinaryTreeColoringGame.cpp)
 
 [**1151**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1151_MinimumSwapsToGroupAll1sTogether.cpp)
 [**1154**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1154_DayOfTheYear.cpp)
@@ -2625,6 +2626,8 @@ Reviweing interval problems... When dealing with interval problems, there is a g
 **12/24/2019**
 
 [LC 563 Binary Tree Tilt](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/563_BinaryTreeTilt.cpp)
+
+[LC 1145 Binary Tree Coloring Game](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1145_BinaryTreeColoringGame.cpp)
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
