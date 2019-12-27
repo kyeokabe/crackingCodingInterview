@@ -582,6 +582,7 @@
 
 [**1213**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1213_IntersectionOfThreeSortedArrays.cpp)
 [**1214**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1214_TwoSumBSTs.cpp)
+[**1215**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1215_SteppingNumber.cpp)
 [**1217**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1217_PlayWithChips.cpp)
 [**1218**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1218_LongestArithmeticSubsequenceOfGivenDifference.cpp)
 [**1219**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1219_PathWithMaximumGold.cpp)
@@ -2633,6 +2634,8 @@ Reviweing interval problems... When dealing with interval problems, there is a g
 **12/27/2019**
 
 [LC 518 Coin Change 2](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/518_CoinChange2.cpp) ... This is the so-called 0/1 "unlimited" knapsack problem. For the "unlimited" problem you can repeatedly use items as many times as you want whereas in the "regular" problem you can only use and item once.  Note that the difference between the "regular" and "unlimited" 0/1 knapsack problem is the way you use the cache table.  In both cases you will check the cell directly above (when not choosing current item). However, when choosing a current item, you must look on the same row with the column elements to the left for the "unlimited" problem. For the "regular" problem, you look on the row above with elements to the left column. Very important problem!
+
+[LC 1215 Stepping Number](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1215_SteppingNumber.cpp)
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
