@@ -249,6 +249,7 @@
 [**340**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/340_LongestSubstringwithAtMostKDistinctCharacters.cpp)
 [**342**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/342_PowerOfFour.cpp)
 [**344**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/344_ReverseString.cpp)
+[**343**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/343_IntegerBreak.cpp)
 [**345**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/345_ReverseVowelsOfAString.cpp)
 [**346**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/346_MovingAverageFromDataStream.cpp)
 [**347**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/347_TopKFrequentElements.cpp)
@@ -2639,6 +2640,8 @@ Reviweing interval problems... When dealing with interval problems, there is a g
 [LC 1215 Stepping Number](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1215_SteppingNumber.cpp)
 
 [LC 273 Integer To English Words](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/273_IntegerToEnglishWords.cpp)
+
+[LC 343 Integer Break](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/343_IntegerBreak.cpp)
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
