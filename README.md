@@ -289,6 +289,7 @@
 [**426**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/426_ConvertBinarySearchTreeToSortedDoublyLinkedList.cpp)
 [**429**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/429_N-aryTreeLevelOrderTraversal.cpp)
 
+[**430**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/430_FlattenAMultilevelDoublyLinkedList.cpp)
 [**433**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/433_MinimumGeneticMutation.cpp)
 [**437**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/437_PathSumIII.cpp)
 
@@ -2642,6 +2643,10 @@ Reviweing interval problems... When dealing with interval problems, there is a g
 [LC 273 Integer To English Words](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/273_IntegerToEnglishWords.cpp)
 
 [LC 343 Integer Break](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/343_IntegerBreak.cpp)
+
+**12/28/2019**
+
+[LC 430 Flatten A Multilevel Doubly Linked List](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/430_FlattenAMultilevelDoublyLinkedList.cpp)
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
