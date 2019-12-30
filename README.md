@@ -620,6 +620,8 @@
 [**1284**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1284_MinimumNumberOfFlipsToConvertBinaryMatrixToZeroMatrix.cpp)
 [**1288**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1288_RemoveCoveredInterval.cpp)
 
+[**1302**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1302_DeepestLeavesSum.cpp)
+
 ***************************
 
 **Leet Code by Problem Category (needs to be updated)**
@@ -2647,6 +2649,10 @@ Reviweing interval problems... When dealing with interval problems, there is a g
 **12/28/2019**
 
 [LC 430 Flatten A Multilevel Doubly Linked List](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/430_FlattenAMultilevelDoublyLinkedList.cpp)
+
+**12/29/2019**
+
+[LC 1302 Deepest Leaves Sum](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1302_DeepestLeavesSum.cpp) ... Easy problem.
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
