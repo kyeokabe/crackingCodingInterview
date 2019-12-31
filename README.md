@@ -2659,6 +2659,8 @@ Reviweing interval problems... When dealing with interval problems, there is a g
 
 [LC 692 Top K Frequent Words](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/692_TopKFrequentWords.cpp) ... Basically a syntax question. Know how to make custom comparisons with priority_queues. If operator()() is true, second will be returned first.
 
+[LC 347 Top K Frequent Elements revisited](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/347_TopKFrequenElements_revisited.cpp) ... The words problem is trickier due to syntax issues. Idea is the same.
+
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
 
