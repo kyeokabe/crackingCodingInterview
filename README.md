@@ -385,6 +385,7 @@
 
 [**680**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/680_ValidPalindromeII.cpp)
 
+[**692**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/692_TopKFrequentWords.cpp)
 [**693**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/693_BinaryNumberWithAlternatingBits.cpp)
 [**695**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/695_MaxAreaOfIsland.cpp)
 
@@ -2653,6 +2654,10 @@ Reviweing interval problems... When dealing with interval problems, there is a g
 **12/29/2019**
 
 [LC 1302 Deepest Leaves Sum](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1302_DeepestLeavesSum.cpp) ... Easy problem.
+
+**12/31/2019**
+
+[LC 692 Top K Frequent Words](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/692_TopKFrequentWords.cpp) ... Basically a syntax question. Know how to make custom comparisons with priority_queues. If operator()() is true, second will be returned first.
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
