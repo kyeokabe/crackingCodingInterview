@@ -224,6 +224,7 @@
 [**292**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/292_NimGame.cpp)
 [**293**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/293_FlipGame.cpp)
 [**298**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/298_BinaryTreeLongestConsecutiveSequence.cpp)
+[**299**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/299_BullsAndCows.cpp)
 
 [**300**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/300_LongestIncreasingSubsequence.cpp)
 [**303**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/303_RangeSumQuery-Immutable.cpp)
@@ -2667,6 +2668,10 @@ Reviweing interval problems... When dealing with interval problems, there is a g
 [LC 451 Sort Characters By Frequency](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/451_SortCharactersByFrequency.cpp) ... Similar to above.
 
 [LC 752 Open The Lock](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/752_OpenTheLock.cpp) ... Relatively standard BFS problem.
+
+**1/1/2020**
+
+[LC 299](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/299_BullsAndCows.cpp)
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
