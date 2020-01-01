@@ -414,6 +414,8 @@
 [**746**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/746_MinCostClimbingStairs.cpp)
 [**747**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/747_LargestNumberAtLeastTwiceOfOthers.cpp)
 
+[**752**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/752_OpenTheLock.cpp)
+
 [**762**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/762_PrimeNumberOfSetBitsInBinaryRepresentation.cpp)
 [**766**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/766_ToeplitzMatrix.cpp)
 [**767**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/767_ReorganizeString.cpp)
@@ -2663,6 +2665,8 @@ Reviweing interval problems... When dealing with interval problems, there is a g
 [LC 347 Top K Frequent Elements revisited](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/347_TopKFrequenElements_revisited.cpp) ... The words problem is trickier due to syntax issues. Idea is the same.
 
 [LC 451 Sort Characters By Frequency](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/451_SortCharactersByFrequency.cpp) ... Similar to above.
+
+[LC 752 Open The Lock](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/752_OpenTheLock.cpp) ... Relatively standard BFS problem.
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
