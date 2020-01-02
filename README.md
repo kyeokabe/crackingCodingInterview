@@ -534,6 +534,7 @@
 [**1041**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1041_RobotBoundedInCircle.cpp)
 [**1046**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1046_LastStoneWeight.cpp)
 [**1047**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1047_RemoveAllAdjacentDuplicatesInString.cpp)
+[**1048**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1048_LongestStringChain.cpp)
 
 [**1051**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1051_HeightChecker.cpp)
 [**1052**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1052_GrumpyBookstoreOwner.cpp)
@@ -2671,7 +2672,9 @@ Reviweing interval problems... When dealing with interval problems, there is a g
 
 **1/1/2020**
 
-[LC 299](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/299_BullsAndCows.cpp)
+[LC 299 Bulls and Cows](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/299_BullsAndCows.cpp)
+
+[LC 1048 Longest String Chain](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1048_LongestStringChain.cpp)
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
