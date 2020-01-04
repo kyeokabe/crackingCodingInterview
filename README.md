@@ -336,6 +336,7 @@
 [**529**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/529_MineSweeper.cpp)
 
 [**530**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/530_MinimumAbsoluteDifference.cpp)
+[**535**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/535_EncodeAndDecodeTinyURL.cpp)
 [**538**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/538_ConvertBSTToGreaterTree.cpp)
 [**539**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/539_MinimumTimeDifference.cpp)
 
@@ -2676,8 +2677,12 @@ Reviweing interval problems... When dealing with interval problems, there is a g
 
 [LC 1048 Longest String Chain](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1048_LongestStringChain.cpp)
 
+**1/4/2020**
+
+[LC Encode And Decode Tiny URL](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/535_EncodeAndDecodeTinyURL.cpp)
+
 read this
-[https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step]
+[https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step] ... Simplified solution and did not use alphabet for URL.
 
 [Next permutation algo](https://helloacm.com/the-next-permutation-algorithm-in-c-stdnext_permutation/)
 
