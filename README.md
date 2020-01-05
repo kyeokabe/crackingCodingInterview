@@ -113,6 +113,7 @@
 [**129**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/129_SumRootToLeafNumbers.cpp)
 
 [**130**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/130_SurroundedRegions.cpp)
+[**131**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/131_PalindromePartitioning.cpp)
 [**134**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/134_GasStation.cpp)
 [**136**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/136_SingleNumber.cpp)
 [**137**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/137_SingleNumberII.cpp)
@@ -2679,7 +2680,11 @@ Reviweing interval problems... When dealing with interval problems, there is a g
 
 **1/4/2020**
 
-[LC Encode And Decode Tiny URL](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/535_EncodeAndDecodeTinyURL.cpp)
+[LC 535 Encode And Decode Tiny URL](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/535_EncodeAndDecodeTinyURL.cpp)
+
+**1/5/2020**
+
+[LC 131 Palindrome Partitioning](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/131_PalindromePartitioning.cpp)
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step] ... Simplified solution and did not use alphabet for URL.
