@@ -2698,6 +2698,8 @@ Reviweing interval problems... When dealing with interval problems, there is a g
 
 [LC 283 Moving Zeroes revisited](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/283_MovingZeroes_revisited.cpp)
 
+[LC 252 Meeting Rooms revisited](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/252_MeetingRooms_revisited.cpp)
+
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step] ... Simplified solution and did not use alphabet for URL.
 
