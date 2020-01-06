@@ -2699,11 +2699,13 @@ Reviweing interval problems... When dealing with interval problems, there is a g
 
 [LC 283 Moving Zeroes revisited](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/283_MovingZeroes_revisited.cpp)
 
-[LC 252 Meeting Rooms revisited](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/252_MeetingRooms_revisited.cpp)
+Several intervals questions.
 
-[LC 253 Meeting Rooms II revisited](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/253_MeetingRoomsII_revisited.cpp)
+[LC 252 Meeting Rooms revisited](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/252_MeetingRooms_revisited.cpp) ... Intervals question. Sort array based on first element (smaller first). Then, use overlapping conditions v_1>z_0&&v_0<z_1 to assess whether an interval overlaps. Ask clarification about how to treat cases where boundries overlap (this will change overlapping conditions from > to >=).
 
-[LC 452 Minimum Number Of Arrows To Burst Balloons](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/452_MinimumNumberOfArrowsToBurstBalloons.cpp)
+[LC 253 Meeting Rooms II revisited](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/253_MeetingRoomsII_revisited.cpp) ... Intervals question. Use map to store boundaries(keys) and values(+1 for begin, -1 for end). Go through map from beginning and count maximum number of it->second sums.
+
+[LC 452 Minimum Number Of Arrows To Burst Balloons](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/452_MinimumNumberOfArrowsToBurstBalloons.cpp)...SOrt array based on first element (smaller first). Then, use priority queue to store end of baloon coordinates. If new baloon begin coordinate is after the smallest end coordinate in the PQ, pop all PQ and increment answer by 1.
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step] ... Simplified solution and did not use alphabet for URL.
