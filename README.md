@@ -632,6 +632,8 @@
 
 [**1302**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1302_DeepestLeavesSum.cpp)
 
+[**1312**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1312_MinimumInsertionStepsToMake%20aStringPalindrome.cpp)
+
 ***************************
 
 **Leet Code by Problem Category (needs to be updated)**
@@ -2689,6 +2691,8 @@ Reviweing interval problems... When dealing with interval problems, there is a g
 [LC 131 Palindrome Partitioning](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/131_PalindromePartitioning.cpp)
 
 [LC 516 Longest Palindromic Subsequence](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/516_LongestPalindromicSubsequence.cpp) ... Rated medium but hard dynamic programming problem. The key is to reaize it can be solved top down with transition equation of DPi,j = 2+DPi+1,j-1 if si==sj or DPi,j=max(DPi+1,j , DPi,j-1) if si!=sj. DPi,j represents longest palindrome you can make from si to sj, index inclusive.
+
+[LC 1312 Minimum Insertion Steps To Make A String Palindrome](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1312_MinimumInsertionStepsToMake%20aStringPalindrome.cpp)
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step] ... Simplified solution and did not use alphabet for URL.
