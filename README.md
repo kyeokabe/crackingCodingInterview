@@ -553,6 +553,7 @@
 [**1087**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1087_BraceExpansion.cpp)
 
 [**1093**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1093_StatisticsFromALargeSample.cpp)
+[**1094**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1094_CarPooling.cpp)
 [**1099**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1099_TwoSumLessThanK.cpp)
 
 [**1103**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1103_DistributeCandiesToPeople.cpp)
@@ -2705,7 +2706,10 @@ Several intervals questions.
 
 [LC 253 Meeting Rooms II revisited](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/253_MeetingRoomsII_revisited.cpp) ... Intervals question. Use map to store boundaries(keys) and values(+1 for begin, -1 for end). Go through map from beginning and count maximum number of it->second sums.
 
-[LC 452 Minimum Number Of Arrows To Burst Balloons](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/452_MinimumNumberOfArrowsToBurstBalloons.cpp)...SOrt array based on first element (smaller first). Then, use priority queue to store end of baloon coordinates. If new baloon begin coordinate is after the smallest end coordinate in the PQ, pop all PQ and increment answer by 1.
+[LC 452 Minimum Number Of Arrows To Burst Balloons](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/452_MinimumNumberOfArrowsToBurstBalloons.cpp)... Sort array based on first element (smaller first). Then, use priority queue to store end of baloon coordinates. If new baloon begin coordinate is after the smallest end coordinate in the PQ, pop all PQ and increment answer by 1.
+
+[LC 1094 Car Pooling](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1094_CarPooling.cpp)...
+Very similar to LC 253.
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step] ... Simplified solution and did not use alphabet for URL.
