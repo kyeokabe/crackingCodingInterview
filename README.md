@@ -329,6 +329,8 @@
 
 [**513**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/513_FindBottomLeftTreeValue.cpp)
 [**515**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/515_FindLargestValueInEachTreeRow.cpp)
+[**516**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/516_LongestPalindromicSubsequence.cpp)
+
 [**518**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/518_CoinChange2.cpp)
 
 [**520**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/520_DetectCapital.cpp)
@@ -2685,6 +2687,8 @@ Reviweing interval problems... When dealing with interval problems, there is a g
 **1/5/2020**
 
 [LC 131 Palindrome Partitioning](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/131_PalindromePartitioning.cpp)
+
+[LC 516 Longest Palindromic Subsequence](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/516_LongestPalindromicSubsequence.cpp) ... Rated medium but hard dynamic programming problem. The key is to reaize it can be solved top down with transition equation of DPi,j = 2+DPi+1,j-1 if si==sj or DPi,j=max(DPi+1,j , DPi,j-1) if si!=sj. DPi,j represents longest palindrome you can make from si to sj, index inclusive.
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step] ... Simplified solution and did not use alphabet for URL.
