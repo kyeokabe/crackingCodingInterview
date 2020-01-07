@@ -432,6 +432,8 @@
 
 [**783**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/783_MinimumDistanceBetweenBSTNodes.cpp)
 [**784**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/784_LetterCasePermutation.cpp)
+[**789**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/789_EscapeTheGhosts.cpp)
+
 [**797**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/797_AllPathsFromSourceToTarget.cpp)
 
 [**814**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/814_BinaryTreePruning.cpp)
@@ -2710,6 +2712,8 @@ Several intervals questions.
 
 [LC 1094 Car Pooling](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1094_CarPooling.cpp)...
 Very similar to LC 253.
+
+[LC 789 Escape The Ghosts](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/789_EscapeTheGhosts.cpp)
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step] ... Simplified solution and did not use alphabet for URL.
