@@ -546,6 +546,7 @@
 [**1051**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1051_HeightChecker.cpp)
 [**1052**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1052_GrumpyBookstoreOwner.cpp)
 [**1055**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1055_ShortestWayToFormString.cpp)
+[**1057**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1057_CampusBikes.cpp)
 
 [**1066**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1066_CampusBikesII.cpp)
 
@@ -2719,6 +2720,8 @@ Very similar to LC 253.
 **1/7/2020**
 
 [LC 1146 Snapshot Array](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1146_SnapshotArray.cpp)
+
+[LC 1057 Campus Bikes](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1057_CampusBikes.cpp) ... Interesting problem. Can make it into O(MN) time complexity.
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step] ... Simplified solution and did not use alphabet for URL.
