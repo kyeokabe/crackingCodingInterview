@@ -572,6 +572,7 @@
 
 [**1143**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1143_LongestCommonSubsequence.cpp)
 [**1145**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1145_BinaryTreeColoringGame.cpp)
+[**1146**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1146_SnapshotArray.cpp)
 
 [**1151**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1151_MinimumSwapsToGroupAll1sTogether.cpp)
 [**1154**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1154_DayOfTheYear.cpp)
@@ -2714,6 +2715,10 @@ Several intervals questions.
 Very similar to LC 253.
 
 [LC 789 Escape The Ghosts](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/789_EscapeTheGhosts.cpp)
+
+**1/7/2020**
+
+[LC 1146 Snapshot Array](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1146_SnapshotArray.cpp)
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step] ... Simplified solution and did not use alphabet for URL.
