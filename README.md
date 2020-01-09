@@ -362,6 +362,7 @@
 
 [**572**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/572_SubtreeOfAnotherSubtree.cpp)
 
+[**581**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/581_ShortestUnsortedContinuousSubarray.cpp)
 [**583**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/583_DeleteOperationForTwoStrings.cpp)
 [**589**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/589_NaryTreePreorderTraversal.cpp)
 
@@ -2722,6 +2723,8 @@ Very similar to LC 253.
 [LC 1146 Snapshot Array](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1146_SnapshotArray.cpp)
 
 [LC 1057 Campus Bikes](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1057_CampusBikes.cpp) ... Interesting problem. Can make it into O(MN) time complexity.
+
+[LC 581 Shortest Unsorted Continuous Subarray](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/581_ShortestUnsortedContinuousSubarray.cpp)
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step] ... Simplified solution and did not use alphabet for URL.
