@@ -390,6 +390,7 @@
 
 [**670**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/670_MaximumSwap.cpp)
 [**674**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/674_LongestContinuousIncreasingSubsequence.cpp)
+[**679**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/679_24Game.cpp)
 
 [**680**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/680_ValidPalindromeII.cpp)
 
@@ -2725,6 +2726,10 @@ Very similar to LC 253.
 [LC 1057 Campus Bikes](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1057_CampusBikes.cpp) ... Interesting problem. Can make it into O(MN) time complexity.
 
 [LC 581 Shortest Unsorted Continuous Subarray](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/581_ShortestUnsortedContinuousSubarray.cpp)
+
+**1/8/2020**
+
+[LC 679 24 Game](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/679_24Game.cpp)
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step] ... Simplified solution and did not use alphabet for URL.
