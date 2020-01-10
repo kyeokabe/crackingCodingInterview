@@ -119,6 +119,7 @@
 [**137**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/137_SingleNumberII.cpp)
 [**138**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/138_CopyListWithRandomPointer.cpp)
 [**139**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/139_WordBreak.cpp)
+[**140**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/140_WordBreakII.cpp)
 
 [**141**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/141_LinkedListCycle.cpp)
 [**142**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/142_LinkedListCycle_II.cpp)
@@ -2730,6 +2731,8 @@ Very similar to LC 253.
 **1/8/2020**
 
 [LC 679 24 Game](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/679_24Game.cpp)
+
+[LC 140 Word Break II](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/140_WordBreakII.cpp) ... There is supposedly a DP solution. I used backtracking. Check DP solution later.
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step] ... Simplified solution and did not use alphabet for URL.
