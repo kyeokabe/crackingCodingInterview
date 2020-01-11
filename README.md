@@ -229,6 +229,7 @@
 [**299**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/299_BullsAndCows.cpp)
 
 [**300**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/300_LongestIncreasingSubsequence.cpp)
+[**301**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/301_RemoveInvalidParentheses.cpp)
 [**303**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/303_RangeSumQuery-Immutable.cpp)
 [**304**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/304_RangeSumQuery2D.cpp)
 [**307**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/307_RangeSumQuery.cpp)
@@ -2741,6 +2742,8 @@ Very similar to LC 253.
 [LC 398 Random Pick Index](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/398_RandomPickIndex.cpp) ... Fairly straight forward.
 
 [LC 382 Linked List Random Node](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/382_LinkedListRandomNode.cpp) ... Similar as LC 398.
+
+[LC 301 Remove Invalid Parentheses](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/301_RemoveInvalidParentheses.cpp) ... Think if there is a way to treat non '(' or ')' differently so it is not backtracking.
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step] ... Simplified solution and did not use alphabet for URL.
