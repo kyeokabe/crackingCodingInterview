@@ -276,6 +276,7 @@
 [**392**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/392_IsSubsequence.cpp)
 [**393**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/393_UTF-8Validation.cpp)
 [**394**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/394_DecodeString.cpp)
+[**398**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/398_RandomPickIndex.cpp)
 
 [**402**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/402_RemoveKDigits.cpp)
 [**403**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/403_FrogJump.cpp)
@@ -2733,6 +2734,10 @@ Very similar to LC 253.
 [LC 679 24 Game](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/679_24Game.cpp)
 
 [LC 140 Word Break II](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/140_WordBreakII.cpp) ... There is supposedly a DP solution. I used backtracking. Check DP solution later.
+
+**1/11/2019**
+
+[LC 398 Random Pick Index](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/398_RandomPickIndex.cpp) ... Fairly straight forward.
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step] ... Simplified solution and did not use alphabet for URL.
