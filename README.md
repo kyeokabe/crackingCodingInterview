@@ -269,6 +269,7 @@
 [**377**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/377_CombinationSumIV.cpp)
 
 [**380**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/380_InsertDeleteGetRandom1.cpp)
+[**382**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/382_LinkedListRandomNode.cpp)
 [**383**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/383_RansomNote.cpp)
 [**387**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/387_FirstUniqueCharacterInAString.cpp)
 [**389**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/389_FindTheDifference.cpp)
@@ -2738,6 +2739,8 @@ Very similar to LC 253.
 **1/11/2019**
 
 [LC 398 Random Pick Index](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/398_RandomPickIndex.cpp) ... Fairly straight forward.
+
+[LC 382 Linked List Random Node](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/382_LinkedListRandomNode.cpp) ... Similar as LC 398.
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step] ... Simplified solution and did not use alphabet for URL.
