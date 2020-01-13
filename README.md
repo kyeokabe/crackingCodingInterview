@@ -646,6 +646,8 @@
 
 [**1312**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1312_MinimumInsertionStepsToMake%20aStringPalindrome.cpp)
 
+[**1315**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1315_SumOfNodesWithEven-ValuedGrandparent.cpp)
+
 ***************************
 
 **Leet Code by Problem Category (needs to be updated)**
@@ -2737,13 +2739,17 @@ Very similar to LC 253.
 
 [LC 140 Word Break II](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/140_WordBreakII.cpp) ... There is supposedly a DP solution. I used backtracking. Check DP solution later.
 
-**1/11/2019**
+**1/11/2020**
 
 [LC 398 Random Pick Index](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/398_RandomPickIndex.cpp) ... Fairly straight forward.
 
 [LC 382 Linked List Random Node](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/382_LinkedListRandomNode.cpp) ... Similar as LC 398.
 
 [LC 301 Remove Invalid Parentheses](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/301_RemoveInvalidParentheses.cpp) ... Think if there is a way to treat non '(' or ')' differently so it is not backtracking.
+
+**1/13/2020**
+
+[LC 1315 Sum Of Nodes With Even-Valued Grandparent](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1315_SumOfNodesWithEven-ValuedGrandparent.cpp)
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step] ... Simplified solution and did not use alphabet for URL.
