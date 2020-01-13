@@ -241,6 +241,7 @@
 
 [**320**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/320_GeneralizedAbbreviation.cpp)
 [**322**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/322_CoinChange.cpp)
+[**323**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/323_NumberOfConnectedComponentsInAnUndirectedGraph.cpp)
 [**325**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/325_MaximumSizeSubarraySumEqualsK.cpp)
 [**326**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/326_PowerOfThree.cpp)
 [**328**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/328_OddEvenLinkedList.cpp)
@@ -2750,6 +2751,8 @@ Very similar to LC 253.
 **1/13/2020**
 
 [LC 1315 Sum Of Nodes With Even-Valued Grandparent](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1315_SumOfNodesWithEven-ValuedGrandparent.cpp)
+
+[LC 323 Number Of Connected Components In An Unidirected Graph](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/323_NumberOfConnectedComponentsInAnUndirectedGraph.cpp) ... Union find problem. Must review again!
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step] ... Simplified solution and did not use alphabet for URL.
