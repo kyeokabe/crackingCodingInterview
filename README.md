@@ -351,6 +351,7 @@
 
 [**543**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/543_DiameterOfBinaryTree.cpp)
 [**545**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/545_BoundaryOfBinaryTree.cpp)
+[**547**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/547_FriendCircles.cpp)
 
 [**551**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/551_StudentAttendanceRecordI.cpp)
 [**553**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/553_OptimalDivision.cpp)
@@ -2756,6 +2757,8 @@ Very similar to LC 253.
 [LC 323 Number Of Connected Components In An Unidirected Graph](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/323_NumberOfConnectedComponentsInAnUndirectedGraph.cpp) ... Union find problem. Must review again!
 
 [LC 1319 Number Of Operations](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1319_NumberOfOperations%20to%20Make%20NetworkConnected.cpp) ... Union find problem. Note that the m map does not guarantee to point to the top parent based on my implementation. Only top parent info (it->first==it->second) is necessary for this question.
+
+[LC 547 Friend Circles](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/547_FriendCircles.cpp) ... Union find, but a bit more complicated.
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step] ... Simplified solution and did not use alphabet for URL.
