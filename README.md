@@ -399,6 +399,7 @@
 [**679**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/679_24Game.cpp)
 
 [**680**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/680_ValidPalindromeII.cpp)
+[**684**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/684_RedundantConnection.cpp)
 
 [**692**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/692_TopKFrequentWords.cpp)
 [**693**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/693_BinaryNumberWithAlternatingBits.cpp)
@@ -2759,6 +2760,8 @@ Very similar to LC 253.
 [LC 1319 Number Of Operations](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1319_NumberOfOperations%20to%20Make%20NetworkConnected.cpp) ... Union find problem. Note that the m map does not guarantee to point to the top parent based on my implementation. Only top parent info (it->first==it->second) is necessary for this question.
 
 [LC 547 Friend Circles](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/547_FriendCircles.cpp) ... Union find, but a bit more complicated.
+
+[LC 684 Redundant Connection](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/684_RedundantConnection.cpp)...Union find, but a bit more complicated.
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step] ... Simplified solution and did not use alphabet for URL.
