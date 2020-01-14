@@ -649,6 +649,8 @@
 
 [**1312**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1312_MinimumInsertionStepsToMake%20aStringPalindrome.cpp)
 
+[**1313**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1313_DecompressRun-LengthEncodedList.cpp)
+
 [**1315**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1315_SumOfNodesWithEven-ValuedGrandparent.cpp)
 [**1319**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1319_NumberOfOperations%20to%20Make%20NetworkConnected.cpp)
 
@@ -2762,6 +2764,10 @@ Very similar to LC 253.
 [LC 547 Friend Circles](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/547_FriendCircles.cpp) ... Union find, but a bit more complicated.
 
 [LC 684 Redundant Connection](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/684_RedundantConnection.cpp)...Union find, but a bit more complicated.
+
+**1/14/2020**
+
+[LC 1313 Decompress Run-Length Encoded List](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1313_DecompressRun-LengthEncodedList.cpp) ... Example is not clear.
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step] ... Simplified solution and did not use alphabet for URL.
