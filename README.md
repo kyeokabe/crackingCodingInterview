@@ -648,6 +648,7 @@
 [**1312**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1312_MinimumInsertionStepsToMake%20aStringPalindrome.cpp)
 
 [**1315**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1315_SumOfNodesWithEven-ValuedGrandparent.cpp)
+[**1319**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1319_NumberOfOperations%20to%20Make%20NetworkConnected.cpp)
 
 ***************************
 
@@ -2753,6 +2754,8 @@ Very similar to LC 253.
 [LC 1315 Sum Of Nodes With Even-Valued Grandparent](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1315_SumOfNodesWithEven-ValuedGrandparent.cpp)
 
 [LC 323 Number Of Connected Components In An Unidirected Graph](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/323_NumberOfConnectedComponentsInAnUndirectedGraph.cpp) ... Union find problem. Must review again!
+
+[LC 1319 Number Of Operations](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1319_NumberOfOperations%20to%20Make%20NetworkConnected.cpp) ... Union find problem. Note that the m map does not guarantee to point to the top parent based on my implementation. Only top parent info (it->first==it->second) is necessary for this question.
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step] ... Simplified solution and did not use alphabet for URL.
