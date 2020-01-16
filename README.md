@@ -2769,6 +2769,10 @@ Very similar to LC 253.
 
 [LC 1313 Decompress Run-Length Encoded List](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1313_DecompressRun-LengthEncodedList.cpp) ... Example is not clear.
 
+**1/15/2020**
+
+[LC 189 Rotate Array revisited](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/189_RotateArray_revisited.cpp) ... Cool trick of flipping the array in three parts solves the problem in O(n) time O(1) memory. The order of when you flip all the vector decides right shift vs left shift.
+
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step] ... Simplified solution and did not use alphabet for URL.
 
