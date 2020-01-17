@@ -377,6 +377,8 @@
 
 [**605**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/605_CanPlaceFlowers.cpp)
 
+[**611**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/611_ValidTriangleNumber.cpp)
+
 [**622**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/622_DesignCircularQueue.cpp)
 [**623**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/623_AddOneRowToTree.cpp)
 [**628**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/628_MaximumProductOfThreeNumbers.cpp)
@@ -2772,6 +2774,10 @@ Very similar to LC 253.
 **1/15/2020**
 
 [LC 189 Rotate Array revisited](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/189_RotateArray_revisited.cpp) ... Cool trick of flipping the array in three parts solves the problem in O(n) time O(1) memory. The order of when you flip all the vector decides right shift vs left shift.
+
+**1/16/2020**
+
+[LC 611 Valid Triangle Number](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/611_ValidTriangleNumber.cpp) ... Had been a while since I've done two/three pointer types of problems and found it difficult.
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step] ... Simplified solution and did not use alphabet for URL.
