@@ -2779,6 +2779,8 @@ Very similar to LC 253.
 
 [LC 611 Valid Triangle Number](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/611_ValidTriangleNumber.cpp) ... Had been a while since I've done two/three pointer types of problems and found it difficult.
 
+[LC 692 Top K Frequent Words revisited](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/692_TopKFrequentWords_revisited.cpp) ... Custom comparators syntax for priority queues can be tricky to remember.
+
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step] ... Simplified solution and did not use alphabet for URL.
 
