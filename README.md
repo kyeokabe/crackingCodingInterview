@@ -41,6 +41,7 @@
 [**40**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/40_CombinationSumII.cpp)
 [**41**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/41_FirstMissingPositive.cpp)
 [**42**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/42_TrappingRainWater.cpp)
+[**45**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/45_JumpGameII.cpp)
 [**46**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/46_Permutations.cpp)
 [**48**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/48_RotateImage.cpp)
 [**49**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/49_GroupAnagrams.cpp)
@@ -2780,6 +2781,10 @@ Very similar to LC 253.
 [LC 611 Valid Triangle Number](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/611_ValidTriangleNumber.cpp) ... Had been a while since I've done two/three pointer types of problems and found it difficult.
 
 [LC 692 Top K Frequent Words revisited](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/692_TopKFrequentWords_revisited.cpp) ... Custom comparators syntax for priority queues can be tricky to remember.
+
+**1/18/2020**
+
+[LC Jump Game II](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/45_JumpGameII.cpp)
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step] ... Simplified solution and did not use alphabet for URL.
