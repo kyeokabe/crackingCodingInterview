@@ -111,6 +111,7 @@
 [**124**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/124_BinaryTreeMaximumPathSum.cpp)
 [**125**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/125_ValidPalindrome.cpp)
 [**127**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/127_WordLadder.cpp)
+[**128**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/128_LongestConsecutiveSequence.cpp)
 [**129**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/129_SumRootToLeafNumbers.cpp)
 
 [**130**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/130_SurroundedRegions.cpp)
@@ -2789,6 +2790,8 @@ Very similar to LC 253.
 **1/21/2020**
 
 [LC 394 Decode String Revisited](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/394_DecodeString_revisited.cpp)
+
+[LC 128 Longest Consecutive Sequence](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/128_LongestConsecutiveSequence.cpp) ... The trick is to use two unordered_sets. Once is to store all elements in the vector. The other is to keep track of numbers already seen. As you go through the vector elements, check whether the number before and after it exists in unordered_set1. If it does and has not been registered in unordered_set2, register it and keep traveling.
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step] ... Simplified solution and did not use alphabet for URL.
