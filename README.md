@@ -2798,6 +2798,9 @@ Very similar to LC 253.
 
 [LC 760 Find Anagram Mappings](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/760_FindAnagramMappings.cpp)
 
+[LC 146 LRU Cache revisited](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/146_LRUCache_revisited.cpp) ... Revisited the LRU Cache problem. This time the complexity of the data structure has decreased. The trick was for the hash table to store a 
+```pair<int,list<int>::iterator>``` where the first element is the value and the second element is a pointer to the list with the corresponding key. The list will store keys which will allow us to search for the element that must be deleted when the list size goes over the capacity.
+
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step] ... Simplified solution and did not use alphabet for URL.
 
