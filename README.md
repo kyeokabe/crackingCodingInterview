@@ -661,6 +661,8 @@
 [**1315**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1315_SumOfNodesWithEven-ValuedGrandparent.cpp)
 [**1319**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1319_NumberOfOperations%20to%20Make%20NetworkConnected.cpp)
 
+[**1328**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1328_BreakAPalindrome.cpp)
+
 ***************************
 
 **Leet Code by Problem Category (needs to be updated)**
@@ -2810,6 +2812,8 @@ Very similar to LC 253.
 **1/29/2020**
 
 [LC 1209 Remove All Adjacent Duplicates In String II](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1209_RemoveAllAdjacentDuplicatesInStringII.cpp) ... Did not think of using pairs in stacks.
+
+[LC 1328 Break A Palindrome](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1328_BreakAPalindrome.cpp)
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step] ... Simplified solution and did not use alphabet for URL.
