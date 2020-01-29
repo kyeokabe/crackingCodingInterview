@@ -613,6 +613,7 @@
 
 [**1207**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1207_UniqueNumberOfOccurrences.cpp)
 [**1208**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1208_GetEqualSubstringsWithinBudget.cpp)
+[**1209**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1209_RemoveAllAdjacentDuplicatesInStringII.cpp)
 
 [**1213**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1213_IntersectionOfThreeSortedArrays.cpp)
 [**1214**](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1214_TwoSumBSTs.cpp)
@@ -2805,6 +2806,10 @@ Very similar to LC 253.
 **1/28/2020**
 
 [LC 384 Shuffle An Array](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/384_ShuffleAnArray.cpp)
+
+**1/29/2020**
+
+[LC 1209 Remove All Adjacent Duplicates In String II](https://github.com/kyeokabe/crackingCodingInterview/blob/master/code/LeetCode/1209_RemoveAllAdjacentDuplicatesInStringII.cpp) ... Did not think of using pairs in stacks.
 
 read this
 [https://leetcode.com/problems/sum-of-subarray-minimums/discuss/178876/stack-solution-with-very-detailed-explanation-step-by-step] ... Simplified solution and did not use alphabet for URL.
